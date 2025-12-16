@@ -1,0 +1,595 @@
+id,head_ru,transliteration,literal,meaning,equivalents,transparency
+1,БАБУШКА НАДВОЕ СКАЗАЛА,babushka nadvoye skazala,Grandmother said it ambiguously.,"It’s very doubtful, undefined; it remains to be seen.","We’ll see what we’ll see; maybe rain or maybe snow, maybe yes or maybe no",0.0
+2,БЕЖАТЬ ВЫСУНУВ ЯЗЫК,b’ezhat’ vysunuv yasyk,To run with one’s tongue hanging out. ,"To run fast without pausing for breath, to be breathless from running.",To run as fast as one’s legs can carry one; to run at a breakneck pace,0.0
+3,БЕЗ СУЧКА БЕЗ ЗАДОРИНКИ,b’es suchka b’ez zadorinki,"Without a snag, without any unevenness or roughness.","Without any obstruction, difficulty or complication; smoothly.",Without a hitch; like clockwork,0.0
+4,БЕЛАЯ ВОРОНА,b’elaya vorona,A white crow.,"Someone unusual, extraordinary; not like others; an outsider.",Rara avis,0.0
+5,БИТЬ В ОДНУ ТОЧКУ,bit’ v odnu tochku,To keep striking the same spot. ,To concentrate one’s efforts on one thing in seeking to attain a specific goal.,,0.0
+6,БИТЬ КЛЮЧОМ,bit’ kl’uchom,"To well up, to bubble. ",To be in full operation; to proceed in a lively manner.,To boil over; to be in full swing,0.0
+7,БИТЬСЯ КАК РЫБА ОБ ЛЁД,bittsa kak ryba ob l’od,To beat against the ice like a fish.,To struggle desperately.,To pull the devil by the tail,0.0
+8,БЛУЖДАТЬ В ПОТЁМКАХ,bluzhdat’ v pot’omkakh,To grope in the dark.,To be without knowledge in some particular matter; to understand something vaguely; to act blindly,To be in the dark about something,0.5
+9,БОЛЬНОЕ МЕСТО,bol’noye m’esto,A sore spot.,A matter that easily upsets one or about which one is sensitive; something that causes anxiety.,A sore/tender spot; a touchy subject,1.0
+10,БОЛЬНОЙ ВОПРОС,bol’noy vopros,A sore question.,An urgent problem that is difficult to solve.,A sore point,0.5
+11,БОЯТЬСЯ СОБСТВЕННОЙ ТЕНИ,boyattsa sobstvennoi t’eni,To be afraid of one’s own shadow. ,To be unreasonably nervous due to groundless and trivial fears.,To be afraid of one’s own shadow,1.0
+12,БРАТЬ кого-либо ЗА СЕРДЦЕ/ДУШУ,brat’ za s’ertse/dushu,To take someone by the heart/soul.,"To excite, to move or touch deeply; to cause anxiety.",To pull at someone’s heartstrings; to touch someone’s heart,0.5
+13,БРАТЬ кого-либо ПОД КРЫЛЫШКО,brat’ pod krylyshko,To take someone under one’s little wing.,To give someone every care and attention; ti put someone under one’s protection. ,To take someone under one’s wing,1.0
+14,БРАТЬ С ПОТОЛКА,brat’ s potolka,To take something from the ceiling.,"To allege something without sufficient factual grounds; to say something without thinking, at random.",To make something up; to talk through one’s hat,0.0
+15,БРАТЬСЯ ЗА УМ,brattsa za um,To take oneself by the mind.,"To stop behaving imprudently; to become sensible, reasonable.",To come to one’s senses,0.0
+16,БРОСАТЬ КАМЕШКИ В чей-либо ОГОРОД,brosat’ kam’eshki v ogorod,To throw pebbles into someone’s kitchen-garden.,To allude to someone with mild derision; to make an implied criticism.,To give someone a dig,0.0
+17,БРОСАТЬ СЛОВА НА ВЕТЕР,brosat’ slova na v’et’er,To throw words to the wind.,Not to care what one says; to speak at random or idly.,To talk to the wind; to waste one’s breath.,0.0
+18,БРОСАТЬСЯ кому-либо В ГЛАЗА,brosattsa v glaza,To throw itself into someone’s eyes.,"To arrest attention, to be striking, to be conspicuous. ",To catch someone’s eye; to stare someone in the face,0.5
+19,БРОСАТЬСЯ СЛОВАМИ,brosattsa slovami ,To throw one’s words about,"To speak irresponsibly, to use words lightly.",,0.0
+20,БРОСИТЬ ТЕНЬ на кого-либо/что-либо,brosit’ t’en’,To cast a shadow on someone/something.,To put someone or something in a bad light; to cast suspicion on someone; to blacken someone’s reputation.,To cast a slur on someone’s reputation,0.0
+21,БЫТЬ МЕЖДУ МОЛОТОМ И НАКОВАЛЬНЕЙ,byt’ m’ezhdu molotom i nakoval’n’ey,To be between the sledge-hammer and the anvil.,To be caught between two equally serious evils or dangers. ,To be between the devil and the deep blue sea,0.0
+22,БЫТЬ НА ГОЛОВУ ВЫШЕ,byt’ na golovu vyshe,To be a head taller than someone.,To be far superior to someone (mentally or morally).,To be head and shoulders above someone,0.5
+23,БЫТЬ НА ДРУЖЕСКОЙ НОГЕ,byt’ na druzheskoy nog’e,To be on a friendly foot with someone.,To be on intimate or friendly terms with someone.,To be on a good/friendly footing with someone,1.0
+24,БЫТЬ НА НОЖАХ,byt’ na nozhakh,To be on the knives. ,To display mutual hostility.,To be at daggers drawn; to be at swords’ points with someone.,0.5
+25,БЫТЬ НА СЕДЬМОМ НЕБЕ,byt’ na s’ed’mom n’eb’e,To be in the seventh heaven.,"To be overfilled with joy, to be supremely happy or satisfied.",To tread/walk on air; to be in seventh heaven,1.0
+26,БЫТЬ HE В СВОЕЙ ТАРЕЛКЕ,byt’ n’e v svoyey tar’elk’e,To be not in one’s personal plate.,"To be not quite oneself, to be not quite at ease, to feel uneasy.",To be out of sorts,0.0
+27,БЫТЬ НЕ ИЗ РОБКОГО ДЕСЯТКА,byt’ n’e iz robkovo des’atka,To be not of the timid dozen.,"Not one to scare easily; not easily frightened, not a coward.",,0.0
+28,БЫТЬ HE КО ДВОРУ,byt’ n’e ko dvoru,To be unfit for the courtyard.,"To be unsuitable, to be unwanted, not meeting certain requirements; to be an outsider.",Not to fit in,0.0
+29,БЫТЬ НЕ НА СВОЁМ МЕСТЕ,byt’ n’e na svoyom m’est’e,To be not in one’s own place.,"To be unsuited to the position one fills, to be a misfit.",A round peg in a square hole,0.0
+30,БЫТЬ ОДЕТЫМ С ИГОЛОЧКИ,byt’ od’etym s igolochki,To be dressed as if straight from the pin. ,"To be dressed in a brand-new suit, dress, etc.",To be dressed up; as neat as a new pin,0.0
+31,БЫТЬ у кого-либо ПОД БАШМАКОМ,byt’ pod bashmakom,To be under someone’s shoe.,"To be under someone’s predominant influence, to be in complete subjection (usually said of a man who is dominated by his wife).",To get someone by the short hairs; to be hen-pecked; to be under someone’s thumb,0.0
+32,БЫТЬ СВЯЗАННЫМ СВОИМ СЛОВОМ,byt’ sv’azannym svoim slovom,To be bound by one’s word.,To be faithful in keeping one’s promise.,,0.0
+33,ВАЛИТЬ В ОДНУ КУЧУ,valit’ v odnii kuchu,To throw everything into one heap.,"To put together, to mix up indiscriminately; to lump everything together.",,0.0
+34,ВАЛИТЬ С БОЛЬНОЙ ГОЛОВЫ НА ЗДОРОВУЮ,valit’ s bol’noy golovy na zdorovuyu,To shift something from an ailing head onto the one that doesn’t ail.,To blame someone else for one’s own fault.,To lay one’s blame at someone else’s door; to shift the blame on someone,0.0
+35,ВАЛИТЬСЯ ИЗ РУК,valittsa iz ruk,To fall out of one’s hands.,"Something doesn’t go well because one is awkward, clumsy, doesn’t feel like doing it, or doesn’t have his heart in it.",,0.0
+36,ВАРИТЬСЯ В СОБСТВЕННОМ СОКУ,varittsa v sobstv’ennom soku,To stew in one’s own juice.,To keep solitary or apart from other people making no use of other people’s knowledge and experience; to work solely by oneself without contact with others; to avoid social relations.,To be aloof; to keep to oneself,0.0
+37,ВБИВАТЬ В ГОЛОВУ,vbivat’ v golovu,To hammer something into someone’s head.,To make something completely understood by emphatic repetition; to keep reiterating something to make it stick in someone’s mind.,To hammer/drive something into someone’s head,1.0
+38,ВБИВАТЬ КЛИН между кем-либо,vbivat’ klin,To drive a wedge between two groups of people or two individuals.,"To cause a breach or separation, to split apart; to make people quarrel.",To drive a wedge,1.0
+39,ВЕРТЕТЬСЯ КАК БЕЛКА В КОЛЕСЕ,v’ert’ettsa kak b’elka v kol’es’e,To turn like a squirrel in a wheel.,"To constantly busy oneself, to toil, to bustle about.",To be constantly on the go; to run/go around in small circles; to run around like a squirrel in a cage; to be as busy as a bee; to be busy as a bee/beaver,0.5
+40,ВЕРТИТСЯ у кого-либо НА ЯЗЫКЕ,v’ertitsa na yazyk’e,It is whirling on someone’s tongue.,On the verge of being uttered; something at the back of one’s mind one wants to say but which is not quite within recall of memory.,To be on the tip of one’s tongue,1.0
+41,ВЕШАТЬ HOC,v’eshat’ nos,To hang one’s nose.,"To be crest-fallen, discouraged, despondent; to look dejected.",,0.0
+42,ВЗВЕШИВАТЬ СВОИ СЛОВА,vzv’eshivat’ svoi slova,To weigh one’s words.,To choose or use one’s words with deliberation; to give something a comprehensive evaluation.,To weigh one’s words,1.0
+43,ВЗДОХНУТЬ СВОБОДНО,vzdokhnut’ svobodno,To breathe freely.,To feel relieved of one’s cares or troubles.,To give a sigh of relief,0.0
+44,ВЗЯТЬ БЫКА ЗА РОГА,vz’at’ byka za roga,To take the bull by the horns.,To take up a matter vigorously and promptly getting directly to its essence.,To take the bull by the horns,1.0
+45,ВЗЯТЬ ГОЛЫМИ РУКАМИ,vz’at’ golymi rukami,To take someone or something with one’s bare hands.,"To seize, to take possession of someone or something without much difficulty, without making special effort.",Without a hand’s turn; with one’s bare hands,1.0
+46,ВЗЯТЬ СЕБЯ В РУКИ,vzyat’ s’eb’a v ruki,To take oneself in one’s hands.,"To rouse oneself to renewed activity; to make a determined effort, to regain one’s normal mental state, to regain one’s self-control.",To take hold of oneself; to take oneself in hand; to pull oneself together,0.5
+47,ВЗЯТЬ СЛОВО,vz’at’ slovo,To take the word.,To rise to speak in a debate at one’s own request or initiative.,To take the floor,0.0
+48,ВИДЕТЬ кого-либо НАСКВОЗЬ,vid’et’ naskvoz’,To see through someone.,To know someone well; to be well aware of someone’s thoughts and intentions.,To know someone inside out; to see through someone; to read someone like a book,1.0
+49,ВИДНО КАК НА ЛАДОНИ,vidno kak na ladoni,Seen as if it were on the palm of one’s hand,"Spread before the eyes, in plain sight easy to see or comprehend.",As plain as the nose on your face,0.0
+50,ВИДНО ПТИЦУ ПО ПОЛЁТУ,vidno ptitsu po pol’otu,A bird is seen by its flight.,You can judge a person by his actions and behaviour.,,0.0
+51,ВИЛАМИ НА ВОДЕ ПИСАНО,vilami na vod’e pisano,Written with a pitchfork on the water.,"It’s uncertain, not defined, vague; it may or may not come off.",It’s still all up in the air,0.0
+52,ВИСЕТЬ В ВОЗДУХЕ,vis’et’ v vozdukh’e,To be hanging in the air.,To be undecided (said of a question or matter); to be in an uncertain position (said of a person).,To be in the air,0.5
+53,ВИСЕТЬ НА ВОЛОСКЕ,vis’et’ na volosk’e,To be hanging on a hair,To be in a perilous state,To hang by a thread; to hang by a single hair,1.0
+54,ВИСЕТЬ НА ТЕЛЕФОНЕ,vis’et’ na t’el’efon’e,To be hanging on the telephone.,"To talk incessantly on the telephone, to spend hours on the telephone.",To sit on the phone,0.0
+55,ВИТАТЬ В ОБЛАКАХ,vitat’ v oblakakh,To be hovering in the clouds,"To live in a dream world, to indulge in day-dreams not attending to everyday matters; to let one’s thoughts wander",To be up in the clouds; to go/to be wool-gathering,0.5
+56,ВИТЬ ВЕРЁВКИ из кого-либо,vit’ v’er’ovki,To plait ropes out of someone.,To have a strong influence on someone; to have a person entirely subservient to one’s will.,To twist someone around one’s little finger,0.0
+57,ВКЛАДЫВАТЬ ДУШУ во что-либо,vkladyvat’ dushu,To put one’s soul into something,To put all one’s efforts into an undertaking; to do something whole-heartedly.,To put one’s heart and soul into something,0.5
+58,ВЛЕТЕТЬ В КОПЕЕЧКУ,vl’et’et’ v kop’eyechku,To fly into a little kopeck.,To involve a great expense; to cost a large sum of money.,To cost a pretty penny,0.5
+59,ВЛЮБИТЬСЯ ПО УШИ,vl’ubittsa po ushy,To fall in love up to one’s ears.,To be deeply enamoured of someone.,To be head over heels in love,0.0
+60,ВОГНАТЬ кого-либо В КРАСКУ,vognat’ v krasku,To drive someone into the dye.,To cause someone to blush from embarrassment.,To put someone to the blush,1.0
+61,ВОДИТЬ кого-либо ЗА НОС,vodit’ za nos,To lead someone by the nose.,"To deceive, delude, mislead someone; to make promises and not keep them.",To make a fool of someone; to pull/draw the wool over someone’s eyes; to lead someone on,0.0
+62,ВОДОЙ HE РАЗОЛЬЁШЬ,vodoy n’e razol’yosh,You couldn’t split them apart with water.,"To be very good friends, close to each other; inseparable from each other; to be always together.",As thick as thieves,0.0
+63,ВОДЫ НЕ ЗАМУТИТ,vodý n’e zamutit,He wouldn’t muddy the water.,"One who has extremely demure expression and manner; one who is quiet, meek, gentle.",He wouldn’t hurt a fly; he looks as if butter wouldn’t melt in his mouth,0.0
+64,ВОЙТИ В ИСТОРИЮ,voyti v istoriyu,To go down in history.,To become famous; to be remembered as a remarkable event.,To make history; to go down in history,0.5
+65,ВОЙТИ В КОЛЕЮ,voyti v kol’eyu,To get into the rut.,To return to one’s habitual way of life; to settle down into an ordinary way of life; to get back into one’s routine; to return to normal.,To get into a groove,1.0
+66,ВОЙТИ В РОЛЬ,voyti v rol’,To enter into one’s role.,"To become securely and comfortably settled in a new job, position, occupation.",To begin to feel one’s feet; to enter into one’s role,1.0
+67,ВОЛОСЫ СТАНОВЯТСЯ ДЫБОМ,volosy stanov’atsa dybom,One’s hair stands on end.,One is struck with extreme horror.,One’s hair stands on end,1.0
+68,ВОТ ГДЕ СОБАКА ЗАРЫТА,vot gd’e sobaka zaryta,Here’s where the dog is buried.,"That’s the main reason, the main point; that’s where the problem lies.",That’s the heart of the matter; that’s the crux of the matter,0.0
+69,ВПИСАТЬ НОВУЮ СТРАНИЦУ во что-либо,vpisat’ novuyu stranitsu,To write a new page into something,"To make a discovery; to do something outstanding, prominent in some field.",To add a fresh page to something,1.0
+70,В ПОДМЁТКИ HE ГОДИТСЯ кому-либо,v podm’otki n’e goditsa,Not fit to be soles of someone’s shoes.,"Someone or something is quite inferior to; not to be compared with, not nearly as good as.",Not fit to hold a candle to someone; to be not a patch on someone.,0.5
+71,ВРАСТАТЬ КОРНЯМИ,vrastat’ korn’ami,To take root.,To become permanently and firmly established; to become attached to something; to get fully accustomed to something.,,0.0
+72,ВСТАВАТЬ С ЛЕВОЙ НОГИ,vstavat’s l’evoy nogi,To get up with one’s left foot foremost.,To be in a bad or an irritable state of mind.,To get out of bed on the wrong side,0.5
+73,ВСТАВАТЬ С ПЕТУХАМИ,vstavat’s p’etukhami,To rise with the cocks.,"To rise very early in the morning, at daybreak.",To rise with the lark/sun,0.5
+74,ВСТАВЛЯТЬ ПАЛКИ В КОЛЁСА,vstavl’at’ palki v kol’osa,To put sticks in the wheels.,"To deliberately interfere with the execution of a plan, operation, etc.",To put a spoke in someone’s wheel; to throw a spanner in the works; to throw monkey wrenches in the machinery,1.0
+75,ВСТРЕЧАТЬ В ШТЫКИ,vstr’echat’ v shtyki,To meet someone or something with bayonets.,To give a hostile reception to someone or something.,,0.0
+76,ВСТУПИТЬ В СТРОЙ,vstupit’ v stroy,To step into formation.,"To come into operation, to become operative.",,0.0
+77,В УС НЕ ДУТЬ,v us n’e dut’,Not to blow into one’s moustache.,Not to care at all; not to show any sign of emotion.,Not to give a damn/a hang; not to turn a hair,0.0
+78,ВЫБИВАТЬ у кого-либо ПОЧВУ ИЗ-ПОД НОГ,vybivat’ pochvu is-pod nog,To knock the ground from under someone’s feet.,To deprive someone of his position or role in society; to undermine someone’s confidence in something completely; to disturb someone’s peace of mind.,To cut the ground from under someone’s feet; to take the wind out of someone’s sails,1.0
+79,ВЫБИТЬ ИЗ КОЛЕИ,vybit’ is kol’ei,To kick someone out of the rut.,To upset someone’s routine; to unsettle someone.,To get someone out of the groove,1.0
+80,ВЫБИТЬ ИЗ СЕДЛА,vybit’ is s’edla,To knock someone out of the saddle.,To deprive someone of his position or role in society; to undermine someone’s confidence in something completely; to disturb someone’s peace of mind.,,0.0
+81,ВЫБРОСИТЬ ИЗ ГОЛОВЫ,vybrosit’ iz golovy,To throw something out of one’s head.,To cause to forget; to dismiss from one’s mind; to give up the idea.,To put something out of one’s head.,1.0
+82,ВЫВОДИТЬ кого-либо ИЗ СЕБЯ,vyvodit’ is s’eb’a,To lead someone out of himself.,"To exasperate, irritate someone.",To drive someone out of his wits/mind; to put someone beside himself,0.0
+83,ВЫВОДИТЬ ИЗ СТРОЯ,vyvodit’ is stroya,To take out of formation.,"To disable something, to put something out of operation.",,0.0
+84,ВЫВОДИТЬ кого-либо НА ЧИСТУЮ ВОДУ,vyvodit’ na chistuyu vodu,To conduct someone out onto pure water.,To bring someone’s misdeeds to light; to expose someone.,To show someone in his true colours; to unmask.,0.0
+85,ВЫЕДЕННОГО ЯЙЦА НЕ СТОИТ,vyyed’ennovo yaytsa n’e stoit,Not worth an empty egg-shell.,"Entirely valueless, worth nothing at all.",Not worth a rap/a farthing/a hill of beans.,0.5
+86,ВЫЙТИ ИЗ ПЕЛЁНОК,vyyti is p’el’onok,To come out of one’s swaddling-clothes,"To grow up, to become adult, to be on one’s own.",To be out of swaddling-clothes,1.0
+87,ВЫЙТИ ИЗ СЕБЯ,vyyti is s’eb’a,To come out of oneself.,To be carried away by excitement; to lose control of oneself; to be wrought up.,To lose one’s temper; to fly off the handle.,0.0
+88,ВЫЙТИ ИЗ СТРОЯ,vyyti is stroya,To step out of formation.,"To be disabled, to become unserviceable; to break down; to be put out of action.",,0.0
+89,ВЫЙТИ СУХИМ ИЗ ВОДЫ,vyyti sukhim iz vody,To come out of the water dry.,To escape deserved punishment; to come out with one’s reputation unblemished.,To come out unscathed; to get off scot-free.,0.0
+90,ВЫЛЕТЕТЬ В ТРУБУ,vyl’et’et’ v trubu,To fly through the chimney,"To come to ruin financially, to go bankrupt; to have no money at all.",To go bust/smash.,0.0
+91,ВЫНЕСТИ что-либо НА СВОИХ ПЛЕЧАХ,vyn’esti na svoikh pl’echakh,To bear something on one’s own shoulders.,To take the whole burden of something; to endure the stress or strain of a difficult undertaking.,To bear the brunt of something,0.0
+92,ВЫНОСИТЬ COP ИЗ ИЗБЫ,vynosit’ sor iz izby,To carry the rubbish out of one’s hut.,"To let the outside world know about one’s private troubles, grievances, quarrels, conduct that might be regarded as disreputable; to utter abroad affairs not meant for the public ear.",To wash one’s dirty linen in public; to tell tales out of school,0.0
+93,ВЫРАСТАТЬ В чьих-либо ГЛАЗАХ,vyrastat’ v glazakh,To grow in someone’s eyes.,To rise in someone’s esteem; to grow or improve in someone’s opinion.,,0.0
+94,ВЫРВАТЬ что-либо С КОРНЕМ,vyrvat’ s korn’em,To tear something out with root.,"To destroy something completely; to eradicate, to extirpate, to uproot something.",To root something out.,1.0
+95,ВЫСОСАТЬ что-либо ИЗ ПАЛЬЦА,vysosat’ is pal’tsa,To suck something out of one’s finger.,"To allege something which has no foundation in actual fact, absolutely groundless; to fabricate.",To make something up; to spin something out of thin air.,0.0
+96,ВЫТЯГИВАТЬСЯ В СТРУНКУ,vyt’agivattsa v strunku,To stretch oneself into a string.,To stand stiffly erect; to stand at attention.,,0.0
+97,ГАДАТЬ НА КОФЕЙНОЙ ГУЩЕ,gadat’ na kof’eynoy gushche,To tell fortunes by coffee ground, To make groundless statements; to make wild guesses.,To tell someone’s fortune from the tea-leaves in his cup,0.5
+98,ГЛАДИТЬ кого-либо ПО ГОЛОВКЕ,gladit’ po golovk’e,To stroke someone’s little head.,"To show approval, to gratify; to show indulgence towards, to pander to someone.",To pat someone on the back,0.5
+99,ГЛАДИТЬ кого-либо ПРОТИВ ШЕРСТИ,gladit’ protiv shersti,To stroke someone against his hair.,"To do or say something contrary to someone’s prejudices, opinions, or habits.",To rub/stroke someone the wrong way,0.5
+100,ГЛАЗА РАЗБЕГАЮТСЯ,glaza razb’egayutsa,One’s eyes are running in different directions.,One doesn’t know what to look at first; one is dazzled by the sight of so many things; one is unable to concentrate on one thing.,,0.0
+101,ГЛАЗА РАЗГОРЕЛИСЬ,glaza razgor’elis’,One’s eyes have lit up.,One desires something earnestly; one is looking longingly or desiringly at something.,To be dying for,0.0
+102,ГОВОРИТЬ ПОД РУКУ,govorit’ pod ruku,To speak to someone’s hand.,To say something at the wrong time; to disturb someone when he is concentrating on something; to distract someone by talking.,To put someone off.,0.0
+103,ГОЛОВА ИДЁТ КРУГОМ,golova id’ot krugom,One’s head is going round.,"Someone has a lot to do, is in a state of bewilderment or confusion being worn out with troubles and worry.",One’s head is spinning; one’s head is in a whirl; one’s head is going round and round,1.0
+104,ГОЛОДНЫЙ КАК ВОЛК,golodny kak volk,Hungry as a wolf.,Terribly hungry.,Hungry as a hunter,0.5
+105,ГОРИТ В РУКАХ,gorit v rukakh,It is burning in one’s hands.,"The work is being done quickly, energetically, deftly; the work is going fine.",Someone has clever hands; someone is working like lightning,0.0
+106,ГОТОВ СКВОЗЬ ЗЕМЛЮ ПРОВАЛИТЬСЯ,gotov skvoz’ z’eml’u provalittsa,Ready to fall through the ground.,One earnestly wishes to disappear; one feels so ashamed or embarrassed that he wishes that the earth would swallow him up.,He wishes the ground would open under him,0.5
+107,ГУСЕЙ ДРАЗНИТЬ,gus’ey draznit’,To tease the geese.,"To irritate, to annoy someone (often without purpose or reason); to provoke ill feelings.",,0.0
+108,ДАВАТЬ кому-либо СДАЧИ,davat’ zdachi,To give someone the change.,To retaliate as vigorously as one is attacked; to give as good as one got; to return insult for insult.,To answer in kind,0.0
+109,ДАЛЬШЕ ЕХАТЬ НЕКУДА,dal’she yekhat’ n’ekuda,You can’t go farther.,Things couldn’t be worse; that’s the end of it; that’s the limit.,,0.0
+110,ДВА САПОГА ПАРА,dva sapoga para,Two boots make a pair.,"They are alike; (usually with reference to disposition, tastes, conduct, etc.); they are well matched; they deserve each other; one is no better than the other.",They make a pair; birds of one feather; not a pin to choose between them,0.0
+111,ДЕЛАТЬ ИЗ МУХИ СЛОНА,d’elat’ iz mukhi slona,To make an elephant out of a fly.,To exaggerate the importance of a small matter.,To make a mountain out of a molehill,0.0
+112,ДЕЛАТЬ ПОГОДУ,d’elat’ pogodu,To make the weather.,"To determine the course of events, to affect a matter directly; to have a decisive influence on a matter.",,0.0
+113,ДЕЛАТЬ что-либо С ЗАКРЫТЫМИ ГЛАЗАМИ,d’elat’ z zakrytymi glazami,To do something with one’s eyes closed,"To do something without thinking, carelessly, rashly.",,0.0
+114,ДЕЛАТЬ что-либо СПУСТЯ РУКАВА,d’elat’ spust’a rukava,To do something with one’s sleeves lowered.,To do something carelessly without paying attention to it; to fail to tend properly to affairs; to do something in a slipshod manner.,To let things slide,0.0
+115,ДЕЛИТЬ ШКУРУ НЕУБИТОГО МЕДВЕДЯ,d’elit’ shkuru n’eubitovo m’edv’ed’a,To divide the skin of an unkilled bear. ,To anticipate too confidently the possession of something that one may never receive; to make plans which depend on events that may not happen.,To count one’s chickens before they are hatched; to sell the bear’s skin before one has caught the bear,1.0
+116,ДЕНЕГ КУРЫ HE КЛЮЮТ,d’en’eg kury n’e kl’uyut,The hens don’t peck at the money.,One has plenty of money.,Rolling in money,0.0
+117,ДЕРЖАТЬ В ЧЁРНОМ ТЕЛЕ,d’erzhat’ v chornom t’el’e,To keep in a black body.,"To ill-treat, to treat someone roughly; to hold in subjection.",,0.0
+118,ДЕРЖАТЬ КАМЕНЬ ЗА ПАЗУХОЙ,derzhat’ kam’en’ za pazukhoy,To keep a stone inside one’s shirt.,To secretly bear a grudge against someone; to nurse a grievance; to harbour thoughts of revenge; to have evil intentions.,,0.0
+119,ДЕРЖАТЬ HOC ПО ВЕТРУ,d’erzhat’ nos po v’etru,To keep one’s nose to the wind.,"To adapt to circumstances, unscrupulously altering one’s convictions or behaviour; to adjust to the situation.",To trim one’s sails to the wind,0.0
+120,ДЕРЖАТЬ СЕБЯ В РУКАХ,derzhat’ s’eb’a v rukakh,To keep oneself in one’s hands.,To restrain oneself; to preserve one’s control.,To hold/keep oneself in check; to keep oneself in hand.,1.0
+121,ДЕРЖАТЬ УХО ВОСТРО,d’erzhat’ ukho vostro,To keep one’s ear sharp.,"To behave circumspectly, to act with caution; to be on guard; to mistrust someone.",To watch one’s step; to be on the qui vive; to keep one’s eyes peeled.,0.0
+122,ДЕРЖАТЬ ЯЗЫК ЗА ЗУБАМИ,d’erzhat’ yazyk za zubami,To hold one’s tongue behind one’s teeth. ,"To keep silent, not to blab; to be cautious in what one says.",To hold one’s tongue; to keep one’s breath to cool one’s porridge,1.0
+123,ДЕРЖАТЬСЯ В ТЕНИ,d’erzhattsa v t’eni,To hold to the shade.,To behave so as to remain unnoticed.,To stay in the background.,1.0
+124,ДЛИННЫЙ ЯЗЫК,dlinny yazyk,A long tongue.,"Talkative, unable to hold one’s tongue; a blabber.",To have a long tongue; to wag one’s tongue.,1.0
+125,ДОВОДИТЬ ДО БЕЛОГО КАЛЕНИЯ,dovodit’ do b’elovo kal’eniya,To bring to a white heat.,"To drive someone to a frenzy, to infuriate, to rouse to fury; to make someone lose his self-control.",,0.0
+126,ДОЛГАЯ ПЕСНЯ,dolgaya p’esn’a,A long song.,Something that cannot be done or explained quickly; something that takes a long time to be accomplished; a drawn out affair.,A long story.,0.5
+127,ДОСТАТЬ ИЗ-ПОД ЗЕМЛИ,dostat’ is-pod z’emli,To get from under the ground.,To get something no matter how difficult.,To go to the end of the earth to get something.,1.0
+128,ДО УПАДУ,do upadu,Till one falls down.,"To the point of exhaustion, till one drops.",,0.0
+129,ДОХОДИТЬ ДО чьих-либо УШЕЙ,dokhodit’ do ushey,To come to someone’s ears.,To become known to someone.,To reach someone’s ears.,1.0
+130,ДРОЖИТ КАК ОСИНОВЫЙ ЛИСТ,drozhit kak osinovy list,One shakes like an aspen leaf.,One trembles violently (usually with excitement or fear).,To shake/quake like an aspen leaf.,1.0
+131,ДУША НАРАСПАШКУ,dusha naraspashku,One’s soul is open (unbuttoned).,"To be frank, sincere candid, straightforward.",Open-hearted.,0.0
+132,ДУША HE НА МЕСТЕ,dusha n’e na m’est’e,One’s soul is not in its place.,To be anxious; to feel uneasy.,,0.0
+133,ДУША УШЛА В ПЯТКИ,ducha ushla v p’atki,One’s soul has gone into one’s heels.,Someone is greatly alarmed by what is happening or anticipated to happen; terribly frightened.,One’s heart sank into one’s boots; to have one’s heart in one’s mouth.,0.5
+134,ДЫРЯВАЯ ГОЛОВА,dyr’avaya golova,A holey head.,"Someone who has a very poor memory; someone who is forgetful, absent-minded.",To have a head like a sieve.,0.5
+135,ЕСТЬ ЕЩЁ ПОРОХ В ПОРОХОВНИЦАХ,yest’ yeshcho porokh v porokhovnitsakh,There is still some gunpowder in the powder-flasks.,Still full of vim and vigour; still able to fight or to do something important.,We are not licked yet,0.0
+136,ЕХАТЬ ЗАЙЦЕМ,yekhat’ zaytsem,To ride as a hare.,To travel without paying for a ticket.,,0.0
+137,ЖДАТЬ У МОРЯ ПОГОДЫ,zhdat’ u mor’a pogody,To wait by the sea for the weather.,To indulge in vain hopes without taking any steps to realize them; to waste one’s time neglecting one’s opportunities.,To let the grass grow under one’s feet.,0.0
+138,ЖИТЬ ДУША В ДУШУ,zhit’ dusha v dushu,To live soul and soul together.,"To live in peace, harmony, concord or perfect amity with someone.",,0.0
+139,ЖИТЬ КАК КОШКА С СОБАКОЙ,zhit’ kak koshka s sobakoy,To live like a cat and a dog.,"To be constantly snapping, bickering and quarrelling.",To fight like cats and dogs.,0.5
+140,ЖИТЬ КАК НА ВУЛКАНЕ,zhit’ kak na vulkan’e,To live as on a volcano.,To be in constant anticipation of trouble.,To sit on a powder-keg; to be living on the edge of a volcano; to be sitting on a volcano,0.5
+141,ЖИТЬ НА ШИРОКУЮ НОГУ,zhit’ na shirokuyu nogu,To live on a broad foot.,"To live in luxury; to live sumptuously, sparing no expense.",To live like a lord; to live in grand style,0.0
+142,ЖИТЬ ПРИПЕВАЮЧИ,zhit’ prip’evayuchi,To live humming a tune.,To live in comfortable circumstances; to live happily.,To be in clover,0.0
+143,ЗАБЛУДИТЬСЯ В ТРЁХ СОСНАХ,zabludittsa v tr’okh sosnakh,To lose one’s way among three pines. ,To fail to find a solution to a simple problem; to fail to comprehend something elementary. ,To lose one’s way in broad daylight.,0.0
+144,ЗАВАРИТЬ КАШУ, zavarit’ kashu,To cook kasha (a dish of cooked grain or groats),"To start a complicated, risky or troublesome affair.",To stir up trouble; to make a mess of something.,0.5
+145,ЗАГЛЯДЫВАТЬ В ДУШУ,zagl’adyvat’ v dushu,To peep into someone’s soul,To try to fathom someone’s innermost thoughts; to try to find out what is in someone else’s heart.,,0.0
+146,ЗАГОВАРИВАТЬ ЗУБЫ,zagovarivat’ zuby,To talk someone’s teeth.,To evade the issue with irrelevant talk.,To put someone off with fair words.,0.0
+147,ЗАДАТЬ ПЕРЦУ,zadat’ p’ertsu,To give pepper.,To rate someone soundly and severely; to punish someone.,To give it hot to someone; to make it hot for someone.,0.0
+148,ЗАДЕТЬ ЗА ЖИВОЕ,zad’et’ za zhivoye,To graze a raw place.,"To excite greatly, to thrill; to stir someone’s self-esteem or pride.",To cut/sting to the quick,0.0
+149,ЗАДИРАТЬ HOC,zadirat’ nos,To lift up one’s nose.,"To act in a superior and affected manner; to become puffed up, conceited.",To turn up one’s nose; to put on airs; to cock one’s nose.,1.0
+150,ЗАЙТИ В ТУПИК,zayti v tupik,To come into a blind alley.,To find oneself in a desperate position.,To reach a deadlock,0.5
+151,ЗАКИНУТЬ УДОЧКУ,zakinut’ udochku,To cast a line.,To make an indirect reference to something in order to find out more about it; to drop a hint by way of suggestion.,To put a line out; to put forth/send out a feeler.,1.0
+152,ЗАКОЛДОВАННЫЙ КРУГ,zakoldovanny krug,A bewitched circle.,A hopeless situation; a state of affairs from which it’s difficult to find a way out.,A vicious circle,0.5
+153,ЗАКРАДЫВАТЬСЯ В ДУШУ,zakradyvattsa v dushu,To creep into someone’s soul.,To creep or steal into one’s mind (said of thoughts or feelings),,0.0
+154,ЗАКРЫВАТЬ на что-либо ГЛАЗА,zakryvat’ glaza,To close one’s eyes to something.,"To ignore, deliberately not to pay attention to or recognize something (especially, improper conduct).",To close/shut one’s eyes to something; to wink at something.,1.0
+155,ЗАМЕСТИ СЛЕДЫ,zam’esti sl’edy,To sweep over one’s traces.,To destroy something that can be used as evidence; to conceal one’s movements or activities.,To cover up one’s tracks/traces.,1.0
+156,ЗАМКНУТЬСЯ В СЕБЕ,zamknuttsa v s’eb’e,To get locked up in one’s own self.,To become less sociable and more reserved; to withdraw from the society of one’s fellows; to retire into oneself.,To shut oneself up; to withdraw/retire into one’s shell.,0.0
+157,ЗАМОРИТЬ ЧЕРВЯЧКА,zamorit’ cherv’achka,To underfeed the little worm.,To have a little to eat.,To have a snack; to have a bite; to take the edge off one’s hunger.,0.0
+158,ЗАРУБИТЬ НА НОСУ,zarubit’ na nosu,To make a notch on one’s nose.,"To remember something firmly, forever.",Bear it in mind; put that into your pipe and smoke it.,0.0
+159,ЗАТКНУТЬ ЗА ПОЯС,zatknut’ za poyas,To stick someone behind one’s belt.,"To surpass, to outstrip, to outdo someone.",To outshine someone; to knock someone into a cocked hat.,1.0
+160,ЗВЁЗД С НЕБА НЕ ХВАТАЕТ,zv’ozd s n’eba n’e khvatayet,He/she doesn’t snatch stars from the sky.,One isn’t a remarkable person; one is a person of average or mediocre abilities.,He won’t set the Thames/world on fire,0.0
+161,ЗЕЛЁНАЯ УЛИЦА,z’el’onaya ulitsa,A green street.,An open thoroughfare; also used to indicate that there is nothing standing in one’s way.,The green light,0.5
+162,ЗНАТЬ что-либо ВДОЛЬ И ПОПЕРЁК,znat’ vdol’ i pop’er’ok,To know something lengthwise and crosswise.,To know something thoroughly in all its details.,To know something inside out.,0.5
+163,ЗНАТЬ ВСЕ ХОДЫ И ВЫХОДЫ,znat’ vs’e khody i vykhody,To know all the entrances and exits,To know all the details or intricacies; to be thoroughly familiar with what is to be done under the circumstances.,To know one’s way around; to know all the ins and outs; to know the ropes.,0.5
+164,ЗНАТЬ КАК СВОИ ПЯТЬ ПАЛЬЦЕВ,znat’ kak svoyi p’at’ pal’tsev,To know something as well as one’s own five fingers.,To know something thoroughly; to be quite familiar with something.,To know something like the palm of one’s hand.,0.5
+165,ЗНАТЬ МЕРУ,znat’ m’eru,To know the measure.,To know one’s limits; to be moderate; to know when to stop.,,0.0
+166,ЗОЛОТАЯ СЕРЕДИНА,zolotaya s’er’edina,The golden middle.,"The safe, prudent way between extremes; the principle of moderation.",The golden mean.,1.0
+167,ЗОЛОТОЕ ДНО,zolotoye dno,A golden bottom.,An inexhaustible source of wealth.,A gold mine.,1.0
+168,ЗОЛОТЫЕ РУКИ,zolotyye ruki,Golden hands.,A master of one’s craft.,A clever pair of hands; skillful/deft fingers.,0.5
+169,ЗОНДИРОВАТЬ ПОЧВУ,zondirovat’ pochvu,To probe the ground.,"To try cautiously to discover someone’s inclinations, to test the views of others, to sound out one’s chances of success beforehand.",To find out how the things stand; to explore the ground; to put forth/throw out a feeler.,0.0
+170,ИГРАТЬ ПЕРВУЮ СКРИПКУ,igrat’ pervuyu skripku,To play the first violin.,To play a leading role in some undertaking.,To play first fiddle,1.0
+171,ИГРАТЬ С ОГНЁМ,igrat’ s ogn’om,To play with fire.,To trifle with something likely to prove dangerous without considering the consequences.,To play with edge-tools; to play with fire,1.0
+172,ИДТИ В ГОРУ,itti v goru,To go uphill.,To gain influence; to attain promotion; to make a prosperous career.,To go up/rise in the world; to climb up the ladder.,0.5
+173,ИДТИ В ОГОНЬ И В ВОДУ,itti v ogon’ i v vodu,To go into fire and water.,"To submit to any ordeal, to encounter or face the greatest dangers or hardest chances, to be ready to do anything for someone or something.",To go through fire and water,0.5
+174,ИДТИ КУДА ГЛАЗА ГЛЯДЯТ,itti kuda glaza gl’ad’at,To walk wherever one’s eyes are looking.,To wander aimlessly; to go wherever one’s feet will carry one.,,0.0
+175,ИДТИ НА ПОВОДУ,itti na povodu,To walk on someone’s rein.,To be dependent on someone.,To be led by; to be under someone’s thumb.,0.5
+176,ИДТИ ПО чьим-либо СТОПАМ,itti po stopam,To walk in someone’s footsteps.,To follow someone’s example; to be someone’s disciple.,To follow in someone’s footsteps,0.5
+177,ИДТИ ПРОТИВ ТЕЧЕНИЯ,itti protiv t’echeniya,To go against the stream.,"To act against the general trend of thought, opinion, custom, etc.",To go against the tide/current/stream.,1.0
+178,ИЗЛИТЬ ДУШУ,izlit’ dushu,To pour out one’s soul.,To relieve one’s mind by talking about one’s troubles.,To unbosom oneself; to unburden one’s heart; to bare one’s heart/soul.,1.0
+179,ИЗМЕРИТЬ кого-либо ВЗГЛЯДОМ,izm’erit’ vzgl’adom,To measure someone with one’s glance.,To examine someone closely from head to toe.,To look someone up and down; to measure someone with one’s eye.,1.0
+180,ИЗ ОДНОГО ТЕСТА,iz odnovo t’esta,Made of the same dough.,"They are just about the same in disposition, tastes, etc.",Two of a kind; the same breed; cut from the same cloth; birds of one feather.,0.0
+181,ИЗ РЯДА ВОН ВЫХОДЯЩИЙ,iz r’ada von vykhod’ashchy,Going out of the line.,"Outstanding, exceptional, out of the ordinary.",Out of the common run,0.5
+182,ИМЕТЬ ВЕС,im’et’ v’es,To have weight.,To be highly influential or important.,To carry a lot of weight,1.0
+183,ИМЕТЬ ГОЛОВУ НА ПЛЕЧАХ,im’et’ golovu na plechakh,To have a head on one’s shoulders.,To be intelligent and reasonable; to be able to think for oneself.,To have a good head on one’s shoulders.,0.5
+184,ИСКАТЬ ВЧЕРАШНИЙ ДЕНЬ,iskat’ vcherashny d’en’,To search for yesterday.,To waste time on a hopeless quest.,To go on a wild-goose chase,0.0
+185,ИСКАТЬ / НЕ НАЙТИ ДНЁМ С ОГНЁМ,iskat’/n’e nayti dn’om s ogn’om,To search for someone or something by day with a light,To seek in vain; to look hard for someone or something with little chance of finding; it’s nowhere to be found.,You will not find it in a month of Sundays; you can’t get it for love or money.,0.0
+186,ИСКАТЬ ИГОЛКУ В СТОГЕ СЕНА,iskat’ igolku v stog’e s’ena,To look for a needle in a bundle of hay.,To look for something or someone virtually impossible to find.,To look for a needle in a haystack,1.0
+187,ИСКРЫ ИЗ ГЛАЗ ПОСЫПАЛИСЬ,iskry iz glaz posypalis’,Sparks began to pour out of one’s eyes.,"A sensation of light flashing before one’s eyes, caused by a blow in the face or on the head.",To see stars,0.0
+188,ИСПИТЬ ЧАШУ ДО ДНА,ispit’ chashu do dna,To drink the bowl to the bottom.,"To experience ordeals, hardships, sorrows, misfortunes in full measure.","To drink /drain the cup (of bitterness, sorrow, etc.) to the dregs.",1.0
+189,ИСПОРТИТЬ ВСЮ МУЗЫКУ,isportit’ vs’u muzyku,To spoil all the music,To upset a plan; to disrupt the procedure; to cause disturbance.,To upset someone’s apple-cart; to play the very devil with something.,0.0
+190,И УХОМ HE ВЕДЁТ,i ukhom n’e v’ed’ot,Doesn’t wiggle an ear.,One doesn’t pay the least attention to something; one doesn’t react at all; one deliberately shows indifference.,Without batting an eyelid,0.0
+191,ИЩИ ВЕТРА В ПОЛЕ,ishchi v’etra v pol’e,Look for the wind in the field.,It’s gone without leaving a trace; it’s nowhere to be found and it can never be returned.,To look for a needle in a haystack; to go on a wild-goose chase.,0.0
+192,КАК АРШИН ПРОГЛОТИЛ,kak arshin proglotil,As if one had swallowed an arshin (a ruler one arshin in length equivalent to 28 inches),"Unnaturally erect, quite stiff; rigid, upright in bearing.",As stiff as a poker.,0.0
+193,КАК БЕЗ РУК,kak b’ez ruk,As if without the hands.,To feel quite helpless without something or someone.,,0.0
+194,КАК В АПТЕКЕ,kak v apt’ek’e,Just like at the chemist’s.,"Exactly, precisely; just so, just right.",To a T.,0.0
+195,КАК В ВОДУ ГЛЯДЕЛ,kak v vodu gl’ad’el,Like having looked into the water.,As if something had been known beforehand; someone was able to foresee future events.,He must have second sight,0.0
+196,КАК В ВОДУ ОПУЩЕННЫЙ,kak v vodu opushchenny,As if lowered into the water.,"Dejected, downcast, depressed, crest-fallen.",To be down in the chops/mouth,0.0
+197,КАК ВЕТРОМ СДУЛО,kak v’etrom sdulo,As if the wind blew it away.,Someone or something has rapidly and mysteriously disappeared without a trace.,To vanish into thin air.,1.0
+198,КАК ГОРА С ПЛЕЧ СВАЛИЛАСЬ,kak gora s pl’ech svalilas’,As if a mountain had fallen off one’s shoulders.,"Someone is relieved of anxiety, doubt, cares.",A load off one’s mind,0.0
+199,КАК ГРОМ СРЕДИ ЯСНОГО НЕБА,kak grom sr’edi yasnovo n’eba,Like a thunder-clap out of a clear sky.,"Suddenly, unexpectedly (said of a sudden and surprising event generally of an unpleasant nature).",Like a bolt from the blue/out of a clear sky.,1.0
+200,КАК ДВАЖДЫ ДВА ЧЕТЫРЕ,kak dvazhdy dva cheryr’e,Like two times two is four.,Easy to see or comprehend; as plain or clear as can be; obvious to everyone.,As plain as a pikestaff; as plain as the nose on your face.,0.0
+201,КАК ДВЕ КАПЛИ ВОДЫ,kak dv’e kapli vody,Like two drops of water.,To bear a very close resemblance; to be exactly alike.,As like as two peas in a pod; not a pin to choose between them.,0.0
+202,КАК ЗА КАМЕННОЙ СТЕНОЙ,kak za kam’ennoy st’enoy,As though behind a stone wall.,To be well protected; to be very secure; to be perfectly safe.,As safe as houses.,0.0
+203,КАК ИЗ-ПОД ЗЕМЛИ ВЫРОС,kak is-pod z’emli vyros,As if grown up from under the ground.,"Someone appeared all of a sudden, unexpectedly, from nowhere.",Out of the blue.,0.0
+204,КАК ИЗ РОГА ИЗОБИЛИЯ,kak iz roga izobiliya,As if out of the horn of plenty.,"In great plenty, in abundance",,0.0
+205,КАК КОРОВА ЯЗЫКОМ СЛИЗАЛА,kak korova yazykom slizala,As if a cow has licked it off with its tongue.,Someone or something has disappeared without a trace.,To vanish/disappear into thin air.,0.0
+206,КАК НА ИГОЛКАХ,kak na igolkakh,As if on needles.,"Racked with anxiety, in a state of acute discomfort, uneasiness or suspense.",To be on tenter-hooks; to be on pins and needles; to be on thorns/wires.,0.5
+207,КАК НЕБО ОТ ЗЕМЛИ,kak n’ebo ot z’emli,As far off as heaven from earth.,"To differ essentially, sharply, strongly.",There is a world of difference between them,0.0
+208,КАК ОБ СТЕНКУ ГОРОХ,kak ob st’enku gorokh,Like throwing peas against the wall.,To say something to which not the slightest attention is paid (often uttered in irritation).,You might as well talk to a brick wall/to the wind,0.0
+209,КАК ПО МАСЛУ,kak po maslu,Like sliding on oil.,"Things are going well, smoothly, swimmingly, without any obstruction or complication.",Like clockwork; without a hitch,0.0
+210,КАК ПО НОТАМ РАЗЫГРАТЬ,kak po notam razygrat’,As if played from music.,"To accomplish something without any difficulty, efficiently, according to a carefully thought-out plan; to perform something with clockwork precision.",,0.0
+211,КАК РУКОЙ СНЯЛО,kak rukoy sn’alo,As if taken off by the hand.,"Suddenly gone, completely disappeared as if by magic (usually said of pain or fatigue)",,0.0
+212,КАК РЫБА В ВОДЕ,kak ryba v vod’e,Like a fish in water.,To feel free and easy; to be in suitable or satisfying surroundings; to find something natural and easy to do.,To feel in one’s element; to feel quite at home; to take to something like a duck to water; like a fish in water,0.0
+213,КАК С ГУСЯ ВОДА,kak s gus’a voda,Like water off a goose.,Without producing any effect; without paying the slightest attention,Like water off a duck’s back.,0.5
+214,КАК СЕЛЬДЕЙ В БОЧКЕ,kak sel’dey v bochk’e,Like herrings in a barrel.,The place is so crowded that one can’t push one’s way through.,Packed like sardines,0.5
+215,КАК СКВОЗЬ ЗЕМЛЮ ПРОВАЛИЛСЯ,kak skvoz’ z’eml’u provalils’a,As if someone or something has fallen through the ground.,"Someone or something has suddenly and unexpectedly disappeared in a mysterious manner, without a trace.",To vanish into thin air; as though the earth had opened and swallowed it up.,0.5
+216,КАК СНЕГ НА ГОЛОВУ,kak sn’eg na golovu,Like snow onto the head.,To appear or arrive suddenly and unexpectedly.,To come like a bolt from/out of the blue; to drop from the clouds.,0.0
+217,КАК ЧЁРТ ОТ ЛАДАНА,kak chort ot ladana,Like the devil running away from the incense.,To get rid of or shun someone or something.,To avoid someone or something like the plague,0.0
+218,КАМЕНЬ НА СЕРДЦЕ,kam’en’ na sertse,A stone on one’s heart.,Someone feels depressed or unhappy.,A heavy heart; to have something weigh upon one’s heart.,0.5
+219,КАМЕНЬ С ДУШИ СВАЛИЛСЯ,kamen’s dushy svalils’a,A stone has fallen off one’s heart.,"Someone feels relieved of a burden of an unpleasant, sad or oppressive feeling.",A load off one’s mind,0.0
+220,КАМНЯ НА КАМНЕ HE ОСТАВИТЬ,kamn’a na kamn’e n’e ostavit’,Not to leave one stone upon another stone.,To criticize something severely by pointing out the weak points or faults; to utterly demolish an argument.,To pull/take something to pieces; to make mincemeat of something.,0.0
+221,КАПЛЯ В МОРЕ,kapl’a v mor’e,A drop in the sea.,A part so small as to be insignificant,A drop in the ocean/bucket,0.5
+222,КАТАТЬСЯ КАК СЫР В МАСЛЕ,katattsa kak syr v masl’e,To be rolling like cheese in butter.,To be comfortably off.,To live in clover; to live on the fat of the land; to live like a king.,0.0
+223,КАТИТЬСЯ ПОД ГОРУ,katittsa pod goru,To slide downhill,"To deteriorate, to decline, to become worse.",To go downhill,1.0
+224,КАШИ НЕ СВАРИШЬ с кем-либо,kashy n’e svarish,You won’t cook kasha with someone.,You can’t get on with someone; you won’t get anywhere with someone; it’s difficult to work with someone.,,0.0
+225,КИДАЕТ В ЖАР,kidayet v zhar,Thrown into a heat.,He/she becomes extremely agitated or anxious; he/she feels hot all over.,,0.0
+226,КЛЕВАТЬ НОСОМ,kl’evat’ nosom,To peck with one’s nose.,To nod; to be drowsy.,,0.0
+227,КЛИН КЛИНОМ ВЫШИБАТЬ,klin klinom vyshybat’,To drive out one wedge with another.,To destroy the results of an action by the means this action has been previously caused.,To fight fire with fire; like cures like; nail drives out nail.,0.5
+228,КОГДА РАК СВИСТНЕТ,kogda rak svisn’et,When the crayfish whistles.,No one knows when; never.,When pigs fly; when two Fridays come together,0.0
+229,КОТ НАПЛАКАЛ,kot naplakal,Something the cat cried out.,Very little; practically nothing; nothing to speak of.,,0.0
+230,КОШКИ СКРЕБУТ НА ДУШЕ,koshki skr’ebut na dushe,Cats are scratching on one’s soul.,"To be melancholy, sad, depressed; to be anxious about something.",To be sick at heart; to have the blues.,0.0
+231,КРАЕУГОЛЬНЫЙ КАМЕНЬ,krayeugol’ny kam’en’,A corner-stone.,"Something indispensable, essential, of primary importance; a fundamental idea.",A corner-stone.,1.0
+232,КРАСИВЫЙ ЖЕСТ,krasivy zhest,A fine gesture.,A deliberate action intended for effect.,A fine gesture; beau geste,0.5
+233,КРАСНЫЙ КАК РАК,krasny kak rak,Red as a lobster.,Red-faced; flushed with anger or embarrassment.,Red as a lobster.,1.0
+234,КРЕПКИЙ ОРЕШЕК,kr’epky or’eshek,A hard nut.,A problem that is very hard to solve; a person hard to deal with.,A hard nut to crack,0.5
+235,КРИЧАТЬ о чём-либо НА ВСЕХ ПЕРЕКРЁСТКАХ,krichat’ na vs’ekh p’er’ekr’ostkakh,To shout about something at all cross-roads.,To announce something in the most public manner possible; to make something generally known to a wide public; to talk constantly about something.,To cry/shout from the house-tops.,0.0
+236,КРОВЬ С МОЛОКОМ,krov’ s molokom,Blood with milk.,"Someone with fresh complexion, in the best of health; one who looks quite well.",The very picture of health.,0.0
+237,"КТО В ЛЕС, КТО ПО ДРОВА",kto v l’es kto po drova,"Some to the forest, some to gather firewood.",A phrase expressing lack of coordination or harmony (often said of singing or playing musical instruments),,0.0
+238,КУДА ВЕТЕР ДУЕТ,kuda v’et’er duyet,Whither the wind is blowing.,"One has no firm convictions; one adapts himself to the prevailing opinions, views, tastes; one avoids taking action or making a decision until he sees which move will be most favourable to himself.",To see/find out which way the wind blows; to see which way the cat jumps; as changeable as a weathercock.,0.5
+239,КУПИТЬ КОТА В МЕШКЕ,kupit’ kota v m’eshk’e,To buy a cat in a sack,To buy a thing without knowing its real value or quality.,To buy a pig in a poke,0.5
+240,КУРАМ НА СМЕХ,kuram na sm’ekh,For the hens to laugh at.,"It’s funny, ridiculous, absurd, silly.",It’s enough to make a cat laugh,0.5
+241,КУСАТЬ СЕБЕ ЛОКТИ,kusat’ s’eb’e lokti,To bite one’s own elbows.,To be deeply vexed; to be upset over an irreparable loss of someone or something.,To cry over spilt milk; to kick oneself over a lost opportunity.,0.0
+242,ЛЁГКАЯ РУКА,l’okhkaya ruka,A light hand.,Someone is known to bring luck to any kind of undertaking.,,0.0
+243,ЛЁГОК НА ПОДЪЁМ,l’ogok na pod’yom,Easy on the ascent.,Always ready and willing to go somewhere or do something.,Quick off the mark; quick on one’s toes.,0.0
+244,ЛЁД ТРОНУЛСЯ,l’od tronuls’a,The ice has begun to break.,A beginning has been made; things are moving.,,0.0
+245,ЛЕЗТЬ В БУТЫЛКУ,l’ezt’ v butylku,To climb into the bottle.,"To be carried away by excitement, to lose self-control, to become suddenly or violently angry (usually without reason, over a mere trifle).",To fly off the handle; to blow one’s top.,0.0
+246,ЛЕЗТЬ В ДУШУ,l’ezt’ v dushu,To climb into someone’s soul.,"To try to find out someone’s innermost feelings, thoughts, intentions; to win someone’s favour or confidence.",To worm oneself into someone’s favour/confidence,0.0
+247,ЛЕЗТЬ ИЗ КОЖИ ВОН,l’ezt’ iz kozhy von,To climb out of one’s skin.,"To make a great effort; to do one’s utmost, to try one’s hardest.",To lean/bend over backwards; to go out of one’s way; to go all out.,0.0
+248,ЛИТЬ ВОДУ НА чью-либо МЕЛЬНИЦУ,lit’ vodu na m’el’nitsu,To pour water on someone’s mill-wheel.,Indirectly to help someone (usually an opponent) by one’s actions.,To play into someone’s hands; to bring grist to someone’s mill.,0.5
+249,ЛИТЬ КАК ИЗ ВЕДРА,lit’ kak iz v’edra,To pour as from a pail.,To rain heavily.,It rains cats and dogs,0.0
+250,ЛИТЬ КРОКОДИЛОВЫ СЛЁЗЫ,lit’ krokodilovy sl’ozy,To shed crocodile tears.,"To complain hypocritically; to show insincere, false sorrow.",To shed crocodile tears,1.0
+251,ЛОВИТЬ НА ЛЕТУ,lovit na l’etu,To catch something in flight.,"To be quick to comprehend or to learn something; to grasp something easily, at once.",To be quick on the uptake,0.0
+252,ЛОВИТЬ кого-либо НА СЛОВЕ,lovit’ na slove,To catch one at one’s word.,To make someone do or promise to do what he said he would do.,To take someone at his word.,0.0
+253,ЛОВИТЬ РЫБУ В МУТНОЙ ВОДЕ,lovit’ rybu v mutnoy vod’e,To catch fish in turbid water.,To try to benefit from other people’s troubles; to try to gain advantage for oneself from a disturbed state of affairs; to try to make a calamity by means of personal gain.,To fish in troubled waters,0.5
+254,ЛОМАТЬ ГОЛОВУ над чем-либо,lomat’ golovu,To break one’s head over something.,"To think hard, especially on a difficult problem.",To rack/cudgel one’s brains over something; to break one’s head over something.,1.0
+255,ЛОМАТЬ КОПЬЯ,lomat’ kop’ya,To break spears.,To fight for something; to argue heatedly.,To break a lance with someone over something; to cross swords.,1.0
+256,ЛОМИТЬСЯ В ОТКРЫТУЮ ДВЕРЬ,lomittsa v otkrytuyu dv’er’,To break through an open door.,To assert or try to prove something already well-known and undisputed.,To force at/knock at an open door.,1.0
+257,ЛОПНУТЬ КАК МЫЛЬНЫЙ ПУЗЫРЬ,lopnut’ kak myl’ny puzyr’,To burst like a soap-bubble.,"Said of something that proves to be unstable, ephemeral or easily destroyed.",,0.0
+258,МАСТЕР НА ВСЕ РУКИ,mast’er na vs’e ruki,A master at all hands.,To be good at anything one undertakes; to show talent in anything one turns his hand to; a versatile worker.,A jack-of-all-trades,0.0
+259,МАХНУТЬ РУКОЙ,makhnut’ rukoy,To wave one’s hand at something or someone.,To stop doing something or dealing with someone; not to care what happens; to give something up as a lost or hopeless cause.,,0.0
+260,МЕДВЕДЬ НА УХО НАСТУПИЛ,m’edv’ed’ na ukho nastupil,A bear stepped on someone’s ear.,Someone has no ear for music; someone is quite tone-deaf.,,0.0
+261,МЕДВЕЖЬЯ УСЛУГА,m’edv’ezh’ya usluga,A bear’s service.,A well-meant action having the opposite effect; clumsy assistance causing only more problems; a dubious benefit conferred on someone; a disservice.,,0.0
+262,МЕНЯТЬ КУКУШКУ НА ЯСТРЕБА,m’en’at’ kukushku na yastr’eba,To exchange a cuckoo for a hawk.,To select the worst from among the worse; to be out of one’s reckoning; to miscalculate.,To back the wrong horse.,0.0
+263,МЕРИТЬ НА СВОЙ АРШИН,m’erit’ na svoy arshyn,To measure by one’s own arshin.,To judge others by oneself; to apply one’s own standard to others.,To measure another’s corn by one’s own bushel,0.0
+264,МЕТАТЬ ГРОМЫ И МОЛНИИ,m’etat’ gromy i molnii,To fling thunder and lightning.,"To rage, to fulminate, to speak with threats and anger.",To rant and rave; to hurl thunderbolts; to blow one’s top.,0.5
+265,МИР ТЕСЕН,mir t’es’en,The world is cramped.,You may unexpectedly run across a person you know anywhere.,It’s a small world.,0.0
+266,МНОГО ВОДЫ УТЕКЛО,mnogo vody ut’eklo,Much water has flowed away.,That was long ago; much has happened since; much has changed since.,A lot of water has flowed under the bridge since,0.0
+267,МОРЕ ПО КОЛЕНО,mor’e po kol’eno,The sea is knee-deep.,One is unconcerned; one couldn’t care less; one is absolutely reckless.,Devil-may-care,0.0
+268,МОТАТЬ СЕБЕ НА УС,motat s’eb’e na us,To wind something on one’s moustache,To observe something silently; to make a mental note of something.,Bite on that,0.0
+269,МОЯ ХАТА С КРАЮ,moya khata s krayu,My hut is on the periphery.,This has nothing to do with me; it’s no business/concern of mine.,,0.0
+270,МУРАШКИ БЕГАЮТ ПО СПИНЕ,murashki b’egayut po spin’e,Little ants run along one’s back.,"One feels shivery due to fear, horror, or nervous excitement.",To give one the creeps; to make one’s flesh creep; to feel chills run up and down one’s spine.,1.0
+271,МУТИТЬ ВОДУ,mutit’ vodu,To muddy the water.,To deliberately muddle matters; to stir up trouble; to confuse things.,,0.0
+272,МУХИ НЕ ОБИДИТ,mukhi n’e obidit,He/she wouldn’t hurt a fly.,"He/she is meek, timid, gentle, kind.","He wouldn’t hurt, harm a fly; he won’t say ’boo’ to a goose.",1.0
+273,МЫШИНАЯ ВОЗНЯ,myshynaya vozn’a,Mice’s fussing.,Pointless fussing over trifles.,,0.0
+274,НАБИТЬ РУКУ,nabit’ ruku,To strengthen one’s hand.,"To practice so as to acquire skill, to develop a good technique in something; to become a practiced hand at something; to give oneself a steady hand.",To get the knack of something,0.0
+275,НАБРАТЬ В РОТ ВОДЫ,nabrat’ v rot vody,To fill one’s mouth with water.,To remain silent; not to utter a word.,To keep mum,0.0
+276,НА ВЕС ЗОЛОТА,na v’es zolota,Worth its weight in gold.,Someone or something is extremely valuable or useful.,To be worth one’s/its weight in gold,0.5
+277,НАВОСТРИТЬ ЛЫЖИ,navostrit’ lýzhy,To sharpen the skis.,"To flee, to run away.",To take to one’s heels; to show a clean pair of heels.,0.0
+278,НАВОСТРИТЬ УШИ,navostrit’ ushy,To sharpen one’s ears.,To give sudden and intense attention to what is being said or to what is going to be said.,To prick up one’s ears.,0.5
+279,НАВЯЗНУТЬ В ЗУБАХ,nav’aznut’ v zubakh,To get stuck in one’s teeth.,To have had more than enough; to be sick and tired of something.,To set one’s teeth on edge.,0.0
+280,НАДЕЯТЬСЯ КАК НА КАМЕННУЮ ГОРУ,nad’eyattsa kak na kam’ennuyu goru,To rely on someone as on a rock mountain.,To rely fully on someone or something.,,0.0
+281,НАДУТЬ ГУБЫ,nadut’ guby,To blow up one’s lips.,"To be angry, to take offence wearing a sulky expression; to express dissatisfaction or displeasure; to be in a disagreeable mood.",To pout,0.0
+282,НАЖИМАТЬ НА ВСЕ КНОПКИ,nazhimat’ na vs’e knopki,To press on all the buttons.,To use every direct or indirect means in order to attain a goal; to exert personal and private influence on a matter affecting oneself or others.,To pull wires/strings.,0.0
+283,НАЖИМАТЬ НА ВСЕ ПЕДАЛИ,nazhimat’ na vs’e p’edali,To press all the pedals.,"To do everything in one’s power to carry out a task, a promise, etc.",To go all out,0.0
+284,НАЗЫВАТЬ ВЕЩИ СВОИМИ ИМЕНАМИ,nazyvat’ v’eshchy svoimi im’enami,To call things by their names.,"To speak frankly, plainly or bluntly.",To call things by their right/proper names; to call a spade a spade.,1.0
+285,НАЙТИ СЕБЯ,nayti s’eb’a,To find oneself.,"To find and realize one’s vocation, calling; to determine one’s aptitude, bent or inclinations.",,0.0
+286,НАКЛЕИВАТЬ ЯРЛЫКИ,nakl’eivat’ yarlyki,To stick labels on someone or something.,To give a standard or stereotyped estimation of someone or something (usually of a negative nature).,To pin a label on someone.,1.0
+287,НА ЛБУ НАПИСАНО,na lbu napisano,It’s written on the forehead.,Something about a person is quite obvious by the look on his face.,It’s written all over his face.,0.5
+288,НАЛОМАТЬ ДРОВ,nalomat’ drov,To break up some firewood,To commit follies; to make a mess of things.,,0.0
+289,НАМЫЛИТЬ ШЕЮ,namylit’ sheyu,To soap someone’s neck.,To reprimand or criticize someone sharply; to give someone a good rating.,To haul someone over the coals; to give someone a dressing-down.,0.0
+290,НАНЕСТИ УДАР ИЗ-ЗА УГЛА,nan’esti udar izza ugla,To strike a blow from round the corner.,"To act in an underhand, treacherous, sly manner.",A stab in the back,0.5
+291,НАПУСТИТЬ ТУМАНУ,napustit’ tumanu,To let the fog in.,To obscure the issue; to befog something; to confuse things; to try to mislead someone,,0.0
+292,НАСОЛИТЬ кому-либо,nasolit’,To salt someone.,To spite; to cause someone annoyance; to do someone a bad turn.,,0.0
+293,НАСТУПАТЬ кому-либо НА ПЯТКИ,nastupat’ na p’atki,To catch up with someone; to follow,someone very closely; to be close behind.,To be at someone’s heels,0.5
+294,НАХОДИТЬСЯ НА ТОЧКЕ ЗАМЕРЗАНИЯ,nakhodittsa na tochk’e zam’erzaniya,To be at freezing-point.,To remain in the same state or condition without developing or progressing; to be at a standstill.,,0.0
+295,НАШЛА КОСА НА КАМЕНЬ,nashla kosa na kam’en’,The scythe has struck a stone.,"A clash of conflicting personalities, interests, opinions, etc.",One has met his match; diamond cut diamond,0.0
+296,HE ВИДАТЬ КАК СВОИХ УШЕЙ,n’e vidat’ kak svoikh ushey,One won’t see it as his own ears.,"One will never see, get or possess something or someone.",You won’t see hide nor hair of something or someone; you have to kiss it good-bye.,0.0
+297,НЕ ВИДЕТЬ ДАЛЬШЕ СВОЕГО НОСА,n’e vid’at’ dal’she svoyevo nosa,Not to see farther than one’s nose.,To lack imagination or insight; to be conscious only of circumstances round one; the situation one is now in or events that are presently happening.,Not to see an inch beyond one’s nose; to see no further than one’s nose,0.5
+298,НЕ ВИДЕТЬ ЛЕСА ЗА ДЕРЕВЬЯМИ,n’e videt’ l’esa za d’er’ev’yami,Not to see the wood beyond the trees.,To be unable to get a clear view of the whole because of too many details.,To be unable to see the forest/wood for the trees,1.0
+299,НЕ ВИДЕТЬ СВЕТА БЕЛОГО,n’e videt’ sv’eta b’elovo,Not to see the white world.,"One is so burdened with work or cares that he has no peace, no rest and can’t lead a normal life.",,0.0
+300,НЕ ВЫХОДИТ ИЗ ГОЛОВЫ,n’e vykhodit iz golovy,It doesn’t come out of the one’s head,Something remains permanently in one’s mind; one is unable to get something out of one’s mind. ,It sticks in one’s mind.,0.5
+301,НЕ ЗА ГОРАМИ,n’e za gorami,Not beyond the hills.,Something is about to happen very soon.,Near at hand.,0.0
+302,НЕ ЛЕЗТЬ ЗА СЛОВОМ В КАРМАН,n’e l’ezt’ za slovom v karman,Not to climb for a word into one’s pocket.,"To be quick to respond, to answer promptly and well; not to be at a loss for words.",To have a ready/ quick tongue.,0.0
+303,НЕМ КАК РЫБА,n’em kak ryba,Dumb as a fish.,"Someone says very little or nothing; reserved, uncommunicative.",Close/dumb as an oyster; silent as a grave; tight-lipped,0.0
+304,"НЕ МЫТЬЁМ, ТАК КАТАНЬЕМ",n’e myt’yom tak katan’yem,"If not by washing, then by mangling.","To try to get something; to annoy or vex someone by any means, right or wrong.",By hook or by crook.,0.0
+305,НЕ НАХОДИТЬ СЕБЕ МЕСТА,n’e nakhodit’ s’eb’e m’esta,"To be extremely anxious, discontented; to fret; to worry;",to be extremely anxious; discontented; to fret; to worry; not to know what to do with oneself.,,0.0
+306,НЕ НЮХАТЬ ПОРОХУ,n’e n’ukhat’ porokhu,Not to smell gun-powder.,Not to have been in combat.,,0.0
+307,НЕ ОТ МИРА СЕГО,n’e ot mira s’evo,Not of this world.,A person whose mind is filled with visionary thoughts; one who is too imaginative instead of attending to things in a practical way; a day-dreamer.,To be in another world; to have one’s head in the clouds.,0.5
+308,НЕ УДАРИТЬ В ГРЯЗЬ ЛИЦОМ,n’e udarit’ v gr’az’ litsom,Not to strike the mud with one’s face.,To maintain one’s dignity; to acquit oneself well; not to disgrace oneself; to try to appear at one’s best.,To put one’s best foot forward; to make a good showing.,0.0
+309,НЕ УМЕТЬ ДВУХ СЛОВ СВЯЗАТЬ,n’e um’et’ dvukh slov sv’azat’,To be unable to tie two words together,To be unable to formulate one’s ideas or express one’s thoughts; to be incoherent,He can’t put two words together,1.0
+310,НЕ ФУНТ ИЗЮМУ,n’e funt iz’umu,That’s not a pound of raisins,"It’s not a trifle; it’s not to be regarded as negligible or unimportant; it’s no light,matter; it’s no joke.",It’s not to be sneezed/sniffled at,0.0
+311,НЕЧИСТ НА РУКУ,n’echist na ruku,Having an unclean hand.,"Inclined to stealing, swindling or cheating; dishonest, underhanded.",,0.0
+312,HE ЧУЯТЬ НОГ ПОД СОБОЙ,n’e chuyat’ nog pod soboy,Not to feel one’s feet under oneself.,"To be very happy, to be highly delighted",To be beside oneself with joy; to tread/walk on air,0.0
+313,НИ ДВА НИ ПОЛТОРА,ni dva ni poltora,Neither two nor one and a half.,Defies classification; neither good rior bad neither one thing nor the other.,,0.0
+314,НИ ЖИВ НИ МЁРТВ,ni zhiv ni m’ortv,Neither alive nor dead,Despondent; petrified with fear or astonishment.,More dead than alive.,0.5
+315,НИ ЗА КАКИЕ КОВРИЖКИ,ni za kakiye kovrizhki,Not for any gingerbread.,Not for anything; not on any account.,Not for the world; not on your life,0.0
+316,НИ КОЛА НИ ДВОРА,ni kola ni dvora,Neither a picket nor a yard.,To be very poor; not to have a roof over one’s head.,"To have neither house nor home. Beside the point, out of place; for no apparent reason; quite irrelevantly.",0.5
+317,НИ К СЕЛУ НИ К ГОРОДУ,ni k s’elu ni k gorodu,Neither to the village nor to the town.,"Beside the point, out of place; for no apparent reason; quite irrelevantly",Neither here nor there,0.0
+318,НИ НА ЧТО HE ПОХОЖЕ,ni na shto n’e pokhozhe,It doesn’t look like anything.,Very bad; unthinkable; unheard of; like nothing on earth; that won’t do; that’s no good at all.,,0.0
+319,НИ ПУХА НИ ПЕРА!,ni pukha ni p’era,Neither down nor feather.,Good luck!,,0.0
+320,НИ РЫБА НИ МЯСО,ni ryba ni m’aso,Neither fish nor meat.,A mediocre person.,"Neither fish, flesh nor fowl.",0.5
+321,НОЖ ОСТРЫЙ,nozh ostry,A sharp knife.,"Something extremely unpleasant or painful; something is the source of annoyance, grief, etc.",Gall and wormwood; this is sheer agony/hell.,0.0
+322,НОМЕР HE ПРОЙДЁТ,nom’er n’e proyd’ot,The number won’t pass through.,That won’t do; you can’t get away with it.,Nothing doing; that trick won’t work; that won’t wash.,0.0
+323,НОСА НЕ ВЫСУНУТЬ,nosa n’e vysunut’,Not to peep out one’s nose.,One can’t go outside.,One can’t even stick his nose out of the house,0.5
+324,НОСИТЬ ВОДУ РЕШЕТОМ,nosit’ vodu r’eshetom,To carry water in a sieve.,To do something useless; to waste time.,To plough the sand,0.0
+325,НУЖЕН КАК ПРОШЛОГОДНИЙ СНЕГ,nuzhen kak proschlogodny sn’eg,As needed as last year’s snow,Here is no need to.,,0.0
+326,ОБВЕСТИ ВОКРУГ ПАЛЬЦА,obv’esti vokrug pal’tsa,To lead someone round a finger.,"Without any difficulty to make a person do exactly what one wishes; to be able to handle or manage someone with ease; to cajole, persuade some artfully",To twist/turn someone round one’s little finger.,0.5
+327,ОБЕЩАТЬ ЗОЛОТЫЕ ГОРЫ,ob’eshchat’ zolotyye gory,To promise mountains of gold,To promise someone a fortune; to make extravagant promises.,To promise the moon,0.0
+328,ОБИВАТЬ ПОРОГИ,obivat’ porogi,To knock against the thresholds.,To go frequently somewhere trying to obtain something; to apply or petition with dogged persistence.,To haunt someone’s threshold; to camp on someone’s doorstep,0.0
+329,ОБРАТИТЬСЯ HE ПО АДРЕСУ,obratittsa n’e po adr’esu,To apply to the wrong address.,To come to the wrong person or place to get what one requires.,To come to the wrong shop,0.0
+330,ОДИН КАК ПЕРСТ,odin kak p’erst,Alone as a finger.,All alone in the world; all by oneself; without kinfolk.,,0.0
+331,"ОДНА НОГА ЗДЕСЬ, ДРУГАЯ ТАМ",odna noga zd’es’ drugaya tarn,"One foot’s here, the other’s there.","To go and fetch, to run and fetch; to do something very quickly, with lightning speed.",,0.0
+332,ОДНОГО ПОЛЯ ЯГОДА,odnovo pol’a yagoda,A berry from the same field.,"They look alike; they are similar in disposition, tastes, etc.; they are well matched; they deserve each other; one is no better than the other.",Not a pin to choose between them; cut from the same cloth; birds of one feather,0.0
+333,ОКАЗАТЬСЯ МЕЖДУ ДВУХ ОГНЕЙ,okazattsa m’ezhdu dvukh ogn’ey,To find oneself between two fires.,"To be or find oneself between two equally serious evils or dangers, between equally unpleasant alternatives, in a perplexing situation; to be attacked from two directions; to be criticized from both sides.",Between the devil and the deep blue sea; between two fires,1.0
+334,ОКАЗАТЬСЯ МЕЖДУ НЕБОМ И ЗЕМЛЁЙ,okazattsa m’ezhdu n’ebom i z’eml’oy,To find oneself between the sky and the earth.,,,0.0
+335,ОКАТИТЬ ХОЛОДНОЙ ВОДОЙ,okatit’ kholodnoy vodoy,To pour cold water over someone.,"To disparage someone, to discourage someone’s enthusiasm; to damp someone’s ardour; to throw someone into confusion.",To throw/ pour cold water on/over someone.,1.0
+336,ОКУНУТЬСЯ С ГОЛОВОЙ,konuttsa z golovoy,To plunge headlong,"To become utterly absorbed/engrossed in something; to be deeply immersed, irrevocably involved.",To be up to one’s ears in something; to throw oneself in something,0.0
+337,ОПУСТИТЬ РУКИ,opustft’ rtiki,To lower one’s hands,"To lose interest; to become disappointed, depressed; to be disheartened",To lose heart,0.0
+338,ОСТАВИТЬ С НОСОМ,ostavit’s nosom,To leave someone with his nose.,To leave someone without something he had hoped for; to make a fool of someone; to trick someone.,To leave someone holding the bag,0.0
+339,ОСТАТЬСЯ НА БОБАХ,ostattsa na bobakh,To be left on the beans,To be left without something one has hoped for; to be out in one’s reckoning; to get nothing for one’s pains; to be left with nothing.,To be left holding the bag,0.0
+340,ОСТАТЬСЯ У РАЗБИТОГО КОРЫТА,ostattsa u razbitovo koryta,To be left at the broken wash-tub.,"To be left with nothing, having lost everything one had; to be no better off than when one started.",To be back at the bottom of the ladder,0.0
+341,ОТКЛАДЫВАТЬ НА ЧЁРНЫЙ ДЕНЬ,otkladyvat’ na chorny d’en’,To put aside for a black day,"To save or reserve something (usually one’s income) for time of trouble, for bad times.",To save/put by for a rainy day,0.0
+342,ОТКРЫВАТЬ АМЕРИКУ,otkryvat’ am’eriku,To discover America.,To say something that everyone has long been aware of; to say or explain something that is already well known to everyone; to retail stale news.,The Dutch have taken Holland; Queen Ann is dead,0.0
+343,ОТКРЫВАТЬ кому-либо ГЛАЗА на кого-либо/что-либо,otkryvat’ glaza,To open someone’s eyes to someone or something,"To enable one to understand, to cause one be aware of or to realise a fact, truth, reality to which one had been blind.",To open someone’s eyes to something or someone,1.0
+344,ОТКРЫВАТЬ кому-либо ДУШУ/СЕРДЦЕ,otkryvat’ dushu/s’ertse,To open one’s soul / heart to someone.,To tell someone frankly of one’s innermost thoughts or feelings.,To lay bare one’s heart,0.0
+345,ОТКРЫВАТЬ СВОИ КАРТЫ,otkryvat’ svoyi karty,To show one’s cards,To stop making secrets of one’s plans or intentions; to reveal candidly all one’s aims,To lay / put one’s cards on the table; to show one’s hand,0.0
+346,ОТКУДА СЫР-БОР ЗАГОРЕЛСЯ,otkuda syr-bor zagor’els’a,Cf. To lay /put one’s,cards on the table; to show one’s hand.,That's how it all started.,0.0
+347,ПАЛЕЦ О ПАЛЕЦ НЕ УДАРИТЬ,pal’ets o pal’ets n’e udarit’,Not to strike one finger against another.,To be idle; not to stir oneself; not to make the slightest effort to attain one’s goal.,Not to raise/lift a finger. Not to hurt a fly.,0.0
+348,ПАЛКА О ДВУХ КОНЦАХ,palka o dvukh kontsakh,A staff with two ends.,Something that can have pleasant and unpleasant consequences; something that can bring good as well as harm.,A double-edged/two-edged weapon; it cuts both ways.,0.0
+349,ПАЛЬЦА В РОТ НЕ КЛАДИ,pal’tsa v rot n’e kladi,Don’t put your finger in his/ her mouth.,Someone is not to be trifled with; with this man one must be scrupulously exact; one must be on one’s guard with him because he is likely to take advantage of another’s false step.,,0.0
+350,ПАЛЬЦЕМ никого HE ТРОНУТЬ,pal’tsem n’e tronut’,Not to touch anyone with one’s finger,Not to do anyone any harm; not to hit someone.,Not to hurt a fly.,0.0
+351,ПАЛЬЧИКИ ОБЛИЖЕШЬ,pal’chiki oblizhesh,You’ll lick your fingers clean.,You’ll lick your fingers clean,Finger-licking good,0.5
+352,ПЕРВАЯ ЛАСТОЧКА,p’ervaya lastochka,The first swallow.,The first portent of something.,,0.0
+353,ПЕРЕГИБАТЬ ПАЛКУ,p’er’egibat’ palku,To bend the stick.,To go beyond the appointed or accepted limit; to go to the extreme; to go too far; to overdo something.,To overshoot the mark.,0.0
+354,ПЕРЕЛИВАТЬ ИЗ ПУСТОГО В ПОРОЖНЕЕ,p’erelivat’ is pustovo v porozhn’eye,To pour something from one empty vessel into another.,To waste time on something useless; to waste time in useless debate; to engage in idle chatter.,To mill the wind; to beat the air.,0.0
+355,ПЕРЕЛОМИТЬ СЕБЯ,p’er’elomit’ seb’a,To break oneself in two,"To master oneself; to conquer one’s temper; to change one’s behaviour, character, habits; to restrain or suppress one’s feelings; to overcome oneself or something in oneself.",,0.0
+356,ПЕРЕМЫВАТЬ КОСТОЧКИ,p’er’emyvat’ kostochki,To wash someone’s bones.,"To gossip, to say spiteful things about someone; to find detailed faults in a person.",To pick/pull someone to pieces,0.0
+357,ПЕРЕПОЛНИТЬ ЧАШУ ТЕРПЕНИЯ,p’er’epolnit’ chashu t’erp’eniya,To overfill the cup of patience,To bring someone to the end of his endurance or patience; to exasperate someone; to be at the end of one’s tether,The last straw; to break the camel’s back,0.0
+358,ПЕСЕНКА СПЕТА,p’es’enka sp’eta,One’s song has been sung.,One is near his end; one is ruined; it’s all done with him; he’s done for.,Someone’s goose is cooked,0.0
+359,ПИСАТЬ КАК КУРИЦА ЛАПОЙ,pisat’ kak kuritsa lapoy,To write like a chicken with its claw,To write quite indecipherably,One’s handwriting is like chicken tracks,0.5
+360,ПЛАВАТЬ КАК ТОПОР,plavat’ kak topor,To swim like an axe.,To be a poor swimmer or not to be able to swim at all.,To swim like a stone/like a tailor’s goose,0.0
+361,ПЛАКАТЬСЯ В ЖИЛЕТКУ,plakattsa v zhil’etku,To weep into someone’s waistcoast,To bewail one’s fate seeking sympathy or consolation.,To cry on someone’s shoulder,0.0
+362,ПЛАТИТЬ ТОЙ ЖЕ МОНЕТОЙ,platit’ toy zhe mon’etoy,To pay someone back in the same coin.,To act by using on an opponent the same methods he employed against one; to return like for like; to retaliate.,To pay one back in his own coin; to pay/answer back in kind,1.0
+363,ПЛЕВАТЬ В ПОТОЛОК,pl’evat’ v potolok,To spit at the ceiling,To do nothing at all; to be idle.,To fritter away the time; to sit twiddling,0.0
+364,ПЛЕСТИСЬ КАК ЧЕРЕПАХА,pl’estis’ kak cher’epakha,To crawl like a tortoise.,To go very slowly; to drag oneself along; to trudge.,To go at a crawl; to move at a snail’s pace,0.0
+365,ПЛЫТЬ ПО ТЕЧЕНИЮ,plyt’ po t’echeniyu,To go down stream,To do or think as most people do; to allow one’s actions and principles to be guided solely by the prevailing trend; to be carried away by the course of events.,To go/ swim with the stream/current; to follow the crowd.,1.0
+366,ПОБЫВАТЬ В чьей-либо ШКУРЕ,pobyvat’ v shkur’e,To be in someone else’s hide.,To be in the same unpleasant position or adverse circumstances as someone else.,To be in someone’s shoes/skin,1.0
+367,ПОГНАТЬСЯ ЗА ДВУМЯ ЗАЙЦАМИ,pognattsa za dvum’a zaitsami,To pursue two different aims simultaneously ,To run after two hares.,,0.0
+368,ПО ГОРЯЧИМ СЛЕДАМ,po gor’achim sl’edam,While the tracks are hot.,"Without losing time; immediately, directly after some event.",To let no grass grow under one’s feet,0.0
+369,ПОДВЕРНУТЬСЯ ПОД РУКУ,podv’ernuttsa pod ruku,to turn up under one’s hand,Something turns up without one’s having to make a special search for it.,To come to hand,0.5
+370,ПОДВЕСТИ кого-либо ПОД МОНАСТЫРЬ,podv’esti pod monastyr’,To bring someone up to a monastery. ,To put someone into a difficult position; to put someone in a tight spot; to cause someone much trouble.,,0.0
+371,ПОДВОДНЫЕ КАМНИ,podvodnyye kamni,Under-water rocks.,A difficulty which is hard to foresee; a hidden obstacle; a snag.,,0.0
+372,ПОД ГОРЯЧУЮ РУКУ,pod gor’achuyu ruku,Under a hot hand.,"One does something while still angry, excited, disturbed.",In the heat of the moment.,0.0
+373,ПОДЖАТЬ ХВОСТ,podzhat’ khvost,To turn one’s tail between one’s legs,"To become more cautious, circumspect; to cease boasting; to become less self-assured.",To have/put one’s tail between one’s legs; to sing small,1.0
+374,ПОДЛИТЬ МАСЛА В ОГОНЬ,podlit’ masla v ogon’,To add oil to the fire.,To act or speak in such a way as to increase the existing passion or excitement; to aggravate the trouble; to make a bad matter worse.,To add fuel to the fire,1.0
+375,ПОДЛОЖИТЬ СВИНЬЮ,podlozhit’ svin’yu,To lay a pig near someone,To do a vile thing to someone on the sly.,To play a dirty/mean trick on someone,0.0
+376,ПОДНЕСТИ ПИЛЮЛЮ,podn’esti pil’ul’u,To bring a pill to someone.,"To say or do something unpleasant, annoying, insulting.",To give someone a bitter pill to swallow,0.5
+377,ПОДНИМАТЬ НА ЩИТ,podnimat’ na shchit,To raise something or someone up on the shield.,"To extol, to eulogize, to boost",To praise to the skies,0.0
+378,ПОД НОСОМ,pod nosom,Under one’s nose.,Directly in front of one; in plain view; in one’s presence.,Near at hand; under someone’s very nose; before someone’s face,1.0
+379,ПОДНЯТЬ ВСЕХ НА НОГИ,podn’at’ vs’ekh na nogi,To raise everybody to his feet,To disturb everyone; to raise the alarm; to make everyone be more active; to rouse everyone to action.,,0.0
+380,ПОДПИСЫВАТЬСЯ под чем-либо ОБЕИМИ РУКАМИ,podpisyvattsa ob’eimi rukami,To sign something with both hands.,To willingly agree to something; to fully endorse something.,,0.0
+381,ПОДРЕЗАТЬ кому-либо КРЫЛЬЯ,podr’ezat’ kryl’ya,To clip someone’s wings,"To limit one’s movements, activities; to hamper one’s freedom of action; to destroy one’s self- confidence; to undermine one’s power or ability to do something.",To clip/cut someone’s wings/claws,1.0
+382,ПОД СУРДИНКУ,pod surdinku,With a mute.,"Softly, gently; on the quiet; on the sly; without being noticed",,0.0
+383,ПОЖИНАТЬ ПЛОДЫ,pozhinat’ plody,To reap the fruits,"To experience the results of one’s actions, deeds, behaviour.",To reap the fruits of something.,1.0
+384,ПОЙМАТЬ НА УДОЧКУ,poymat’ na udochku,To catch someone on one’s fishing line., By deceiving or outwitting someone to cause him to do something; to trick or to fool someone.,To catch out,0.0
+385,"ПОКАЗАТЬ, ГДЕ РАКИ ЗИМУЮТ",pokazat’ gd’e raki zimuyut,To show someone where the crayfish winter,To teach someone a lesson; to punish someone; to scold someone severely.,To make it hot for someone; to show someone a thing or two,0.0
+386,ПОКАЗАТЬ КОГТИ,pokazat’ kogti,To show one’s claws,"To show hostility, anger, or resentment; to display a threatening attitude",To show one’s teeth,0.5
+387,ПОКАЗАТЬ ПЯТКИ,pokazat’ p’atki,To show one’s heels.,To run away; to escape.,To take to one’s heels; to show a clean pair of heels; to take flight.,0.5
+388,ПОКАЗЫВАТЬ ТОВАР ЛИЦОМ,pokazyvat’ tovar litsom,To show one’s goods from the right side.,To show a thing its best side; to make the best of something to show something to its full advantage; to display oneself in a favourable light.,,0.0
+389,ПОЛНАЯ ЧАША,polnaya chasha,"One lives in plenty, in affluence, in luxury",,,0.0
+390,ПОЛОЖА РУКУ НА СЕРДЦЕ,polozha ruku na sertse,With one’s hand on one’s heart.,"To say something quite frankly, candidly, sincerely.","To say something with one’s hand upon one’s heart, open-heartedly",1.0
+391,ПОЛОЖИТЬ ЗУБЫ НА ПОЛКУ,polozhit’ zuby na polku,To put one’s teeth on a shelf,To go hungry; to starve.,To tighten one’s belt,0.0
+392,ПОЛОЖИТЬ кого-либо НА ОБЕ ЛОПАТКИ,polozhit’ na ob’e lopatki,To put someone on both his shoulder-blades.,"To defeat an opponent in an argument, competition, contest, etc.; to beat someone.",,0.0
+393,ПОЛОЖИТЬ что-либо ПОД СУКНО,polozhit’ pod sukno,To put something under the cloth.,To delay or postpone consideration of an official paper; to pigeon-hole a request or an application; to shelve a problem or a plan,,0.0
+394,ПОПАДАТЬСЯ кому-либо НА ЯЗЫК,popadattsa na yazyk,To land on someone’s tongue,To become the subject of criticism.or gossip.,,0.0
+395,ПО ПАЛЬЦАМ МОЖНО СОСЧИТАТЬ,po pal’tsam mozhno soshchitat’,They can be counted on one’s fingers.,Very few; in small quantities.,You can count them on your fingers,1.0
+396,ПОПАСТЬ В ПЕРЕПЛЁТ,popast’ v per’epl’ot,To get into a binding.,To get into a difficulty or into trouble; to find oneself in an awkward or dangerous situation.,To get into a scrape/mess/tight corner; to be in a spot; to be/be caught in a bind,0.5
+397,ПОПАСТЬ В ТОЧКУ,popast’ v tochku,To hit the right point,To come to the right conclusion; to come at the crux of the matter; to say or do what is exactly right as if by guessing correctly what must be said or done in the circumstances.,To hit the nail on the head; to hit the bull’s eye/the mark,0.0
+398,ПОПАСТЬ КАК КУР ВО ЩИ,popast’ kak kur vo shchi,To get oneself into the shchi*,To get into trouble; to be caught.,To get/fall into the soup; to get into hot water,0.0
+399,ПОПАСТЬ кому-либо НА ЗУБОК,popast’ na zubok,To find oneself on someone’s little tooth,To be subjected to biting or sarcastic criticism; to become the butt of ridicule.,To be torn to pieces,0.0
+400,"ПОПАСТЬ HE В БРОВЬ, А В ГЛАЗ",popast’ n’e v brov’ a v glaz,To hit not the eyebrow but the eye.,To guess right; to say something that is exactly right; to give the true explanation.,To hit the nail on the head; that hit the mark; you’ve said it!,0.0
+401,ПОПАСТЬ ПАЛЬЦЕМ В НЕБО,popast’ pal’tsem v n’cbo,To hit the sky with one’s finger.,To say or do something that is far from - being correct or quite out of place; to answer irrelevantly.,To get/take the wrong sow by the ear; to be wide of /way off the mark,0.0
+402,ПОПАСТЬСЯ НА чью-либо УДОЧКУ,popasttsa na lidochku,To be caught on someone’s fishing line.,"To permit oneself to be fooled; to fall for a hoax or trap; to accept a proposal, an offer, etc. made to tempt one to do something.",To swallow the bait: to rise to the fly; to be taken in; to fall into someone’s trap/snare,0.0
+403,ПОРОХУ НЕ ВЫДУМАЕТ,porokhu n’e vydumayet,He will not invent gunpowder.,"He will never do anything remarkable or outstanding (usually said of a dull-witted, not very bright person).",He will never set the Thames/world on fire,0.0
+404,ПОРОХУ HE ХВАТАЕТ,porokhu n’e khvatayet,Not enough gunpowder.,"One lacks energy, strength or resolution to do something.",It’s beyond him; he has not it in him; he is not up to it,0.0
+405,ПОСАДИТЬ кого-либо В ГАЛОШУ,posadit’ v galoshu,To put someone into a galosh,Put someone into an embarrassing or uncomfortable situation; to be made fun of; to get someone into a fix; to be in an awkward predicament.,,0.0
+406,ПОСЛЕДНИЙ КРИК МОДЫ,posl’edny krik mody,The latest cry of fashion.,The latest fashion; the latest craze.,The last word in fashion.,0.5
+407,ПОСЛЕДНЯЯ КАПЛЯ,posl’edn’aya kapl’a,The last drop.,The final circumstance of a series that makes a situation unbearable.,The last straw.,0.5
+408,ПОСЛЕДНЯЯ СПИЦА В КОЛЕСНИЦЕ,posl’edn’aya spitsa v kol’esnitse ,The last spoke in the chariot. ,A person of very little importance; one who doesn’t count; a minor figure.,A mere cog in the machine.,0.0
+409,ПОСЛЕ ДОЖДИЧКА В ЧЕТВЕРГ,posl’e dozhdichka v chetv’erg,After a little rain on a Thursday.,No one knows when.,When pigs fly; when two Fridays come together,0.0
+410,ПОСТАВИТЬ ВОПРОС РЕБРОМ,postavit’ vopros r’ebrom,To put a question edgewise.,"To announce or state something categorically; to say something in a manner that leaves no room for doubt; to ask something directly, openly; to put a question point-blank.",Not to mince words.,0.0
+411,ПОСТАВИТЬ ВСЁ НА КАРТУ,postavit’ vs’o na kartu,To put everything on the card.,"To risk all that one has on a single venture, method, etc.; to stake all one’s hopes on one source or means.",To put all one’s eggs in one basket,0.0
+412,ПОСТАВИТЬ кого-либо В ТУПИК,postavit’ v tupik,To put someone in a blind alley.,"To bewilder, to puzzle, to nonplus someone; to throw someone into confusion.",,0.0
+413,ПОСТАВИТЬ КРЕСТ на ком-либо/чём-либо,postavit’ kr’est,To put a cross on someone/something,To lose faith in someone or something; to stop thinking of someone or something; to give someone up for lost; to give something up as a hopeless case.,To kiss something good-bye,0.0
+414,ПОСТАВИТЬ кого-либо НА СВОЁ МЕСТО,postavit’ na svoyo m’esto,To put someone in his place,To snub a person who is overstepping his bounds; to check someone’s presumption,To put someone in his place. To rest on one’s laurels,1.0
+415,ПОЧИВАТЬ НА ЛАВРАХ,pochivat’ na lavrakh,To sleep on one’s laurels,To be satisfied with what one has already achieved or accomplished without striving for more.,To rest on one’s laurels,0.5
+416,ПРИБИРАТЬ К РУКАМ,pribirat’ k rukam,To take something in one’s hands,"To appropriate, to seize, to take possession of.",To lay one’s hands on something,1.0
+417,ПРИВЕСТИ кого-либо В СЕБЯ,priv’esti v seb’a,To bring someone into oneself.,To cause someone to regain consciousness; to revive someone.,To bring someone round/to,0.5
+418,ПРИЛОЖИТЬ РУКУ к чему-либо,prilozhit’ ruku,To put one’s hand on something,"To be actively involved in something (usually reprehensible, blameworthy).",To have/take a hand in something; to have a finger in the pie.,0.0
+419,ПРИНИМАТЬ ЗА ЧИСТУЮ МОНЕТУ,prinimat’ za chistuyu mon’etu,To take for a pure coin.,To regard something as true; to take something seriously.,To take in good faith; to take at face value,0.0
+420,ПРИПИРАТЬ кого-либо К СТЕНКЕ,pripirat’ k st’enk’e,To press someone against the wall.,"To put someone in a difficult or embarrassing position, forcing him to do or admit something; to put someone in desperate straits.",To drive/push someone to the wall; to drive someone into a corner; to pin someone down,0.5
+421,ПРИТЯНУТЬ что-либо ЗА УШИ,prit’anut’ za ushi,To pull something up by the ears.,To make use of something without adequate grounds; to advance farfetched arguments.,To drag something in.,0.0
+422,ПРОБНЫЙ ШАР,probny shar,A trial ball.,An approach or device (usually by making discreet inquiries) used to clarify a situation or test the opinions or feelings of others.,A trial balloon; a feeler,1.0
+423,ПРОВАЛИТЬСЯ С ТРЕСКОМ,provalittsa s tr’eskom,To collapse with a bang,To flop; to be a complete and ignominious failure.,To come a cropper/crasher; to fall flat on one’s face.,0.0
+424,ПРОГЛОТИТЬ ПИЛЮЛЮ,proglotit’ pil’ul’u,To swallow the pill.,"To disregard an insult; to endure an offence patiently, without resistance or complaint.",To swallow a bitter pill.,0.5
+425,ПРОГЛОТИТЬ ЯЗЫК,proglotit’ yazyk,To swallow one’s tongue.,To fall silent; to stop talking.,To lose one’s tongue.,0.5
+426,ПРОЖУЖЖАТЬ ВСЕ УШИ,prozhuzhzhat’ vs’e lishi,To buzz someone’s ears through.,To bore someone by telling him some- thing over and over again; to keep dinging something into someone’s ears.,To talk someone’s ears off about something; to drone on at someone; to go rabbiting on,0.0
+427,ПРОЙТИ КРАСНОЙ НИТЬЮ,proyti krasnoy nit’yu,To run through something with a red thread,"To be the basic idea, the key-note, the essence of something; to run through something (e. g. a book or a speech)",,0.0
+428,ПРОЙТИ СКВОЗЬ ОГОНЬ И ВОДУ,proyti skvoz’ ogon’ i vodu ,To go through fire and water,To go through a great deal in life; to encounter or face | the greatest dangers or hardest experiences; to endure perils of all kinds,To go through fire and water; to go through the mill,1.0
+429,ПРОЙТИСЬ ПО чьему-либо АДРЕСУ,proytis’ po adr’esu,To walk up and down someone’s address,To make a snide remark about someone; to make fun of someone; to make an implied criticism.,To have a fling at someone; go give someone a bad write-up,0.0
+430,ПРОПУСКАТЬ МИМО УШЕЙ,propuskat’ mimo ushey ,To let something pass by one’s ears,To pay no attention or not to react to something that has been or is being said.,,0.0
+431,ПРЯТАТЬ КОНЦЫ В ВОДУ,pr’atat’ kontsy v vodu,To hide the ends in water.,"To destroy evidence; to bury, remove every trace of something; to cover up one’s tracks.",And no one is the wiser.,0.0
+432,ПТИЧЬЕГО МОЛОКА HE ХВАТАЕТ,ptich’yevo moloka n’e khvatayet,Someone lacks bird’s milk.,A great abundance of everything.,,0.0
+433,ПУД СОЛИ СЪЕСТЬ с кем-либо,pud soli s’yest’,To eat a pood* of salt with someone,To live with or know someone for a long time; to spend a long time together with someone.,,0.0
+434,ПУСКАТЬ КОЗЛА В ОГОРОД,puskat’ kozla v ogorod,To let the goat into the kitchen garden.,"To give someone access to a place where he may be particularly harmful or dangerous, or to something from which he wishes to profit.",,0.0
+435,ПУСКАТЬ кому-либо ПЫЛЬ В ГЛАЗА,puskat’ pyl’ v glaza,To throw dust in someone’s eyes,"To make a false impression; to try to impress people with one’s superiority, to display oneself; to act in an ostentatious manner",To put on airs; to cut a dash; to throw dust in someone’s eyes,1.0
+436,ПУШКОЙ HE ПРОШИБЁШЬ,pushkoy n’e proshib’osh,You won’t breach it with a cannon-ball.,"You can’t persuade him, you can’t influence him, you can’t budge him.",,0.0
+437,РАБОТАТЬ ЗАСУЧИВ РУКАВА,rabotat’ zasuchiv rukava,To work with one’s sleeves rolled up. ,"To work assiduously, strenuously.",,0.0
+438,РАБОТАТЬ HE ПОКЛАДАЯ РУК,rabotat’ n’e pokladaya ruk,To work without giving rest to one’s hands.,"To work unceasingly, tirelessly, indefatigably.",To be as busy as a bee,0.0
+439,РАЗБИВАТЬСЯ В ЛЕПЁШКУ,razbivattsa v l’ep’oshku,"To do one’s utmost, to strain every nerve,",to do next to impossible to attain one’s end.,To lay oneself out; to go all out,0.0
+440,РАЗВЕСИТЬ УШИ,razv’esit’ ushi,To hang out one’s ears,To be so carried away by what one hears that one doesn’t react properly or forgets about something important.,,0.0
+441,РАЗВЯЗАТЬ кому-либо РУКИ,razv’azat’ ruki,To untie someone’s hands.,"To give someone freedom of action, choice or judgement in a matter.",To give someone a free hand; to untie someone’s hands.,1.0
+442,РАЗВЯЗАТЬ ЯЗЫК,razv’azat’ yazyk,To untie one’s tongue,To begin to talk a lot; to speak after having remained silent.,To loosen one’s tongue; to find one’s tongue’s tongue.,1.0
+443,РАЗРЯДИТЬ АТМОСФЕРУ,razr’adit’ atmosf’eru,To discharge the atmosphere.,To relieve tension; to create an atmosphere that will cool down a fiery argument.,To clear the air,0.0
+444,РАСХЛЕБЫВАТЬ КАШУ,raskhl’obyvat’ kashu,To eat up kasha,To disentangle something; to put things right; to clear up a mess; to get oneself out of a mess.,,0.0
+445,РВАТЬ И МЕТАТЬ,rvat’ i metat’,To tear and throw.,To get irritated; to be in a towering rage; to show angry impatience; to worry oneself into a state of temper.,To fret and fume,0.0
+446,РВАТЬ НА СЕБЕ ВОЛОСЫ,rvat’ na s’ebe volosy,To tear one’s hair.,To be desperate; to be distressed; to grieve.,To tear one’s hair.,1.0
+447,РВАТЬ кого-либо НА ЧАСТИ,rvat’ na chasti,To tear someone into pieces.,To pester someone with questions or requests; to bother someone too much; not to give someone any peace.,,0.0
+448,РЕВЕТЬ БЕЛУГОЙ,revet’ belugoy,To roar like a beluga.,To wail; to scream; to howl with frenzy.,,0.0
+449,РОДИТЬСЯ В СОРОЧКЕ,rodittsa v sorochk’e,To be born with a shirt on,"To be always lucky, successful, happy.",To always fall on one’s feet; to be born with a silver spoon in one’s mouth.,0.0
+450,РОДИТЬСЯ ПОД СЧАСТЛИВОЙ ЗВЕЗДОЙ,rodittsa pod schaslfvoy zv’ezdoy,To be born under a lucky star.,"To be always lucky, successful, happy",To always fall on one’s feet; to be born under a lucky star,1.0
+451,РУБИТЬ СПЛЕЧА,rubit’ spl’echa,To chop straight from the shoulder.,"To speak in a direct, outspoken, blunt way; without reserve or evasion; to act without previous intention or preparation, promptly, impulsively; to do something without giving it a thought.",Straight from the shoulder,0.5
+452,"РУБИТЬ СУК, НА КОТОРОМ СИДИШЬ",rubit’ suk na kotorom sidish,To be hewing down a bough on which you are sitting.,To act in such a way as to do oneself harm.,To cut one’s own throat; to saw off the bough on which one is sitting,1.0
+453,РУКА НЕ ДРОГНЕТ,ruka n’e drogn’et,One’s hand wouldn’t shake doing something.,One won’t hesitate to do something; one will do something without scruple.,One wouldn’t think twice about doing something; without a qualm.,0.0
+454,РУКА HE ПОДНИМАЕТСЯ,ruka n’e podnimayetsa,One’s hand won’t rise.,One can’t bring himself to do something; one is hesitant about doing something.,Not to have the heart to do something.,0.0
+455,РУКИ КОРОТКИ,ruki korotki,One’s hands are short.,"One doesn’t have enough authority, power or strength to do something; one is in no position to do something.",Just try! You coudn’t if you tried!,0.0
+456,РУКИ HE ДОХОДЯТ,ruki n’e dokhod’at,One’s hands don’t reach.,One has no time or possibility to undertake something.,,0.0
+457,РУКИ ЧЕШУТСЯ,ruki cheshutsa,One’s hands are itching.,Someone is anxious to do something.,One’s fingers/hands itch to do something.,1.0
+458,РУКОЙ HE ДОСТАНЕШЬ,rukoy n’e dostan’esh,You can’t reach someone with your hand.,Someone is out of reach (usually said of someone in a high position).,,0.0
+459,РЫТЬ ЯМУ кому-либо,ryt’ yamu,To dig a pit for someone,To cause someone trouble; to plunge into intrigue against someone; to do someone harm.,To make /prepare a pitfall for someone.,0.5
+460,САДИТЬСЯ НА ЛЮБИМОГО КОНЬКА,sadittsa na l’ubimovo kon’ka,To mount one’s favourite pony.,To dwell on one’s favourite topic; to be on one’s pet subject.,To mount/ride one’s hobby/hobby-horse,0.5
+461,САДИТЬСЯ НА ШЕЮ,sadittsa na sheyu,To sit down on someone’s neck,To submit someone to one’s willy; to put someone under one’s complete control; to use someone as a tool.,To live off someone,0.0
+462,САДИТЬСЯ HE В СВОИ САНИ,sadittsa n’e v svoi sani,To get into someone else’s sleigh.,"To undertake to do something one knows nothing about or which one who has inadequate knowledge, training, etc.; to occupy a post for which one is unsuited.",,0.0
+463,САМИ С УСАМИ,sami s usami,We too have a moustache of our own.,Not young in wisdom; no worse than.,We weren’t born yesterday.,0.0
+464,САПОГИ ВСМЯТКУ,sapogi vsm’atku,Soft-boiled boots.,"Rot, nonsense, rubbish, a trifling matter, nothing.",,0.0
+465,СБРАСЫВАТЬ МАСКУ,sbrasyvat’ masku,To throw off the mask.,"To show one’s true self, one’s true character and intentions.",To throw off the mask,1.0
+466,СВЕТЛАЯ ГОЛОВА,sv’etlaya golova,A bright head.,"A lucid mind, a clear intellect, a bright spirit.",A clear head,0.5
+467,СВОДИТЬ КОНЦЫ С КОНЦАМИ,svodit’ kontsy s kontsami,To bring the ends together.,With great effort or difficulty to balance one’s income with one’s expenditures; to manage with one’s resources.,To make both ends meet.,1.0
+468,СВОРОТИТЬ ГОРЫ,svorotit’ gory,To shift mountains.,To do something important which calls for great effort.,To move mountains.,1.0
+469,СВЯЗАТЬ кого-либо ПО РУКАМ И НОГАМ,To tie someone’s hands and feet,hands and feet.,To deprive someone of the possibility to act freely; to completely restrain someone’s activities by conditions or rules.,To bind/tie someone hand and foot,1.0
+470,СГЛАЖИВАТЬ ОСТРЫЕ УГЛЫ,sglazhivat’ ostryye ugly,To smooth sharp corners.,To smooth things over; to relieve the situation; to ease tension; to adjust differences,,0.0
+471,СГОРАТЬ CO СТЫДА,sgorat’ so styda,To burn with shame.,To feel great shame.,To burn with shame,0.5
+472,СГУЩАТЬ КРАСКИ,sgushchat’ kraski,To thicken the paints.,To exaggerate; to picture something as being worse than it really is.,To lay it on thick,0.0
+473,СДАВАТЬ В АРХИВ,sdavat’ v arkhiv,To relegate to the archives.,To dismiss as unfit for a particular use; to bury in oblivion as something obsolete or useless.,,0.0
+474,СЕМЬ ПОТОВ СОШЛО,s’em’ potov soshlo,Seven sweats have come off.,One has exerted himself to the fullest to accomplish something.,To sweat one’s guts out,0.0
+475,СЕМЬ ПЯТНИЦ НА НЕДЕЛЕ,s’em’ p’atnits na n’ed’el’e,Someone has seven Fridays in one week.,"Someone who easily and frequently changes his mind, mood or intentions.",Someone is in twenty minds; to chop and change,0.0
+476,СЕРДЦЕ /ДУША HE ЛЕЖИТ к кому-либо/чему-либо,sertse/dusha n’e l’ezhit,sertse/dusha n’e l’ezhit,"One’s heart/soul doesn’t lie for something or someone. One feels great pity, compassion, grief; one feels something keenly, takes something hard.",To put one’s foot in it: to get oneself into a fix/spot,0.0
+477,СЕРДЦЕ/ДУША РАЗРЫВАЕТСЯ НА ЧАСТИ,sertse/dusha razryvayetsa,One’s heart is breaking. ,"One feels great pity, compassion, grief; one feels something keenly, takes something hard.",One’s heart is breaking.,0.0
+478,СЕСТЬ В ЛУЖУ,-j s’est’ v luzhu,To sit down into a puddle.,To get oneself into an awkward position or compromising situation; to let oneself be duped; to do or say something stupid.,To put one’s foot in it: to get oneself into a fix/spot.,0.0
+479,СЕСТЬ НА МЕЛЬ,s’est’ na m’el’,To sit down on a shoal.,"To get into an extremely difficult situation; to be in unsatisfactory circumstances, especially with little money.",To be on the rocks; to be in low water; to be in a tight corner.,0.5
+480,СЖЕЧЬ КОРАБЛИ/МОСТЫ,szhech korabli/mosty,To burn the ships /bridges.,"To take an irrevocable step; to do something that makes it impossible to retreat, to change one’s plans, etc.",To burn one’s boats/bridges.,1.0
+481,СИДЕТЬ МЕЖДУ ДВУХ СТУЛЬЕВ,sid’et’ m’ezhdu dvukh stlil’yev,To sit between two chairs,"To try to adhere to two different, irreconcilable points of view: to try to keep the favour of both sides in a dispute",To run with the hare and hunt with the hounds; to play a double game.,0.0
+482,СИДЕТЬ НА ЧЕМОДАНАХ,sid’et’ na chemodanakh,To sit on one’s suitcasesю,Packed and waiting to go.,,0.0
+483,СИДЕТЬ СЛОЖА РУКИ,sid’et’ slozha niki,To sit with one’s arms folded.,To be idle; to sit still doing nothing.,To sit twiddling one’s thumbs,0.0
+484,СКЛОНЯТЬ кого-либо ВО ВСЕХ ПАДЕЖАХ,sklon’at’ vo vs’ekh pad’ezhakh,To decline someone in all cases.,To talk a lot about someone at every opportunity (usually in a derogatory manner).,,0.0
+485,СКОЛЬЗИТЬ ПО ПОВЕРХНОСТИ,skol’zit’ ро pov’erkhnosti,To glide on the surface.,To deal with a subject only superficially; to pay attention to outward appearances without going to the root of the matter.,To skim the surface of something never to go below the surface.,1.0
+486,"СКОЛЬКО ЛЕТ, СКОЛЬКО ЗИМ!",skol’ko l’et skol’ko zim,"So many summers, so many winters!",How long ago! (A greeting used when two people haven’t seen each other for a long time).,Long time no see! I haven’t seen you for ages! Fancy meeting you after all this time.,0.0
+487,СЛАБАЯ СТРУНКА,slabaya striinka,A weak string.,The most vulnerable aspect of someone’s character; a matter upon which one is easily affected or most sensitive.,A weak/soft point,0.0
+488,С ЛЁГКИМ СЕРДЦЕМ,s l’okhkim s’ertsem,With a light heart.,"Free from sorrow, discomfort, anxiety, misgivings.",With a light heart.,1.0
+489,С ЛЁГКОЙ РУКИ,s l’okhkoy ruki,From the light hand of someone.,At someone’s initiative or following someone’s example which set in motion a series of subsequent actions or deeds.,,0.0
+490,СЛЕД ПРОСТЫЛ,sl’ed prostyl,Someone’s footprints have grown cold.,"Someone has run away, disappeared; there’s not a trace of someone.",To vanish into thin air.,0.0
+491,СЛОМАТЬ ЛЁД,slomat’ l’od,To break the ice.,"To put an end to formality, stiffness or shyness in one’s relations with people; to make the first step; to mark the beginning; to cause any matter to start moving.",To start the ball rolling; to break the ice,1.0
+492,С ЛУНЫ СВАЛИЛСЯ,s luny svalils’a,One has fallen from the moon.,Someone is puzzled; someone doesn’t understand what is evident to everyone.,As if he were born yesterday; to fall from the moon.,1.0
+493,"СЛЫШНО, КАК МУХА ПРОЛЕТИТ",slyshno kak mukha prol’etit,One could hear a fly flying past.,It’s absolutely quiet; it’s deadly still.,You could hear a pin drop,0.0
+494,СЛЮНКИ ТЕКУТ,sl’iinki t’ekut,Saliva is flowing.,Someone is anxious to partake of some tasty food or drink.,To make someone’s mouth water,0.0
+495,СМАТЫВАТЬ УДОЧКИ,smatyvat’ udochki,To reel in the lines,To depart in haste,To take/sling one’s hook; to take to one’s heels; to clear out,0.5
+496,СМЕЯТЬСЯ В КУЛАК,sm’eyattsa v kulak,To laugh into one’s fist.,To laugh secretly to oneself while being outwardly serious.,To laugh in/up one’s sleeve,0.5
+497,СМОТРЕТЬ В КОРЕНЬ,smotret’ v kor’en’,To look into the root,To look deep into the matter; to investigate the matter thoroughly; to try to grasp the crux of a matter; to tackle something at its source,To get to the heart/root of something.,0.5
+498,СМОТРЕТЬ В ОБА,smotret’ v oba,To look through both.,To look attentively; to be closely observant; to be on the alert; to be particularly watchful,To keep one’s eyes peeled/skinned,0.0
+499,СМОТРЕТЬ кому-либо В РОТ,smotr’et’ v rot,To look someone in the mouth.,To listen attentively and servilely to what one says; to fawn on someone.,To hang on someone’s words,0.0
+500,СМОТРЕТЬ ДРУГИМИ ГЛАЗАМИ,smotret’ drugimi glazami,To look at someone or something with different eyes.,To look at or assess someone or something in a different way.,To look with another eye upon.,0.5
+501,СМОТРЕТЬ КАК БАРАН НА НОВЫЕ ВОРОТА,smotret’ kak baran na novyye vorota,To look at someone or something like a ram at a new gate.,"To look at someone or something with a puzzled, perplexed or dismayed expression on one s face; to look rather stupid, not understanding what is going on; to look quite lost.",,0.0
+502,СМОТРЕТЬ СВЕРХУ ВНИЗ,smotr’et’ sverkhu vniz,To look down at someone from above.,"To regard someone as inferior or with disapproval; to treat someone haughtily, disdainfully.",To look down on someone; to look down,0.5
+503,СМОТРЕТЬ СКВОЗЬ ПАЛЬЦЫ,smotr’et’ skvoz’ pal’tsy,To look through one’s fingers.,To purposely avoid seeing; to deliberately ignore a piece of misconduct or a transgression; to refuse to observe something; to connive at; to wink at.,To make light of; to turn a blind eye to; to look the other way; to look through one’s fingers.,1.0
+504,СМОТРЕТЬ СКВОЗЬ РОЗОВЫЕ ОЧКИ,smotr’et’ skvoz’ rozovyve ochki,To look through rose-coloured glasses.,Not to see a person’s shortcomings: to take too optimistic a view of someone or something.,To view/look through rose coloured-glasses,1.0
+505,СНИМАТЬ ПЕНКИ,snimat’ penki,To skim.,To appropriate part of the results of someone else’s labour.,To skim the cream off.,0.5
+506,СНИМАТЬ с кого-либо СТРУЖКУ,snimat’ struzhku,To take the shavings off someone.,"To criticize someone severely, to rate someone soundly, to scold someone.",To tear someone off a strip.,0.0
+507,СНЯТЬ перед кем-либо ШЛЯПУ,sn’at’ shl’apu,To take off one’s hat before someone.,"To express respect, admiration for a person’s achievements.",To take off one’s hat to someone,1.0
+508,СОБАКУ СЪЕЛ на чём-либо,sobaku s’yel,One has eaten the dog at something.,One has acquired great skill or experience in something; one knows something thoroughly; one is an expert in something.,To have something at one’s fingertips; to know something inside out; to know the ropes; he’s been around,0.0
+509,СОВАТЬ HOC во что-либо,sovat’ nos,To stick one’s nose into something.,To meddle in or interfere with other people’s affairs; to intrude where one is not wanted.,To poke / stick one’s nose into something,1.0
+510,СОН В РУКУ,son v ruku,The dream has come into one’s hand.,Said of a dream that has come true.,,0.0
+511,СОРИТЬ ДЕНЬГАМИ,sorit’ d’en’gami,To litter with money.,To spend a large sum of money recklessly; to squander money.,To throw one’s money about,0.5
+512,CO СКРИПОМ,so skripom,With a creak.,"To do something very slowly, with great difficulty or effort, reluctantly.",,0.0
+513,С ОТКРЫТОЙ ДУШОЙ/ ОТКРЫТЫМ СЕРДЦЕМ,s otkrytoy dushoy/otkrytym s’ertsem,With an open heart/soul,"To treat, someone or do something sincerely, trustfully, frankly, openly, without prejudice.",,0.0
+514,СПАТЬ БЕЗ ЗАДНИХ НОГ,spat’ b’ez zadnikh nog ,To sleep without one’s hind legs.,To sleep soundly.,To sleep like a log/top,0.0
+515,С ПЛЕЧ ДОЛОЙ,s pi’ech doloy,Off one’s shoulders. ,"One needn’t bother about something any longer; one no longer has an irksome burden to bear; one has got rid of duties, cares, responsibilities.","That’s done, thank goodness.",0.0
+516,СПУТАТЬ ВСЕ КАРТЫ,sptitat’ vs’e karty,To mix up all the cards.,To spoil or ruin someone’s plans; to upset someone’s calculations.,To upset someone’s apple-cart.,0.0
+517,СРАЖАТЬСЯ С ВЕТРЯНЫМИ МЕЛЬНИЦАМИ,srazhattsa s vetr’anymi m’el’nitsami,To fight against the windmills.,To waste energy in combating imaginary evils or difficulties; to attack an imaginary foe.,To tilt at windmills.,0.0
+518,СТАВИТЬ ВО ГЛАВУ УГЛА,stavit’ vo glavu ugla,To put something in the vertex of an angle.,To assign primary importance to something; to consider something to be indispensible.,,0.0
+519,СТАВИТЬ кого-либо НА НОГИ,stavit’ na nogi,To put someone on his feet.,To cure someone of an illness.,,0.0
+520,СТАВИТЬ НА ОДНУ ДОСКУ,stavit’ na odnu dosku,To put someone on the same board with someone else.,To put someone on the same level with someone else; to consider one person comparable with another.,,0.0
+521,СТАВИТЬ что-либо С НОГ НА ГОЛОВУ,stavit’ s nog na golovu,To put something from its feet into its head.,To give a distorted picture of something; to put things in the wrong order; to take the effect for the cause.,To put the cart before the horse,0.0
+522,СТАВИТЬ ТОЧКИ НАД И,stavit’ tochki nad i,To put dots above the i’s,To make something clear and definite; to give most careful attention to detail.,To put the finishing touches to; to dot one’s i’s and cross one’s t’s.,0.0
+523,СТАНОВИТЬСЯ НА ДЫБЫ,stanovittsa na dyby,To stand up on one’s hind legs.,To resist; to protest; to display stubbornness.,To rear up; to stand up on one’s hind legs,1.0
+524,СТАРО КАК МИР,staro kak mir,As old as the world.,"Very old, stale, uninteresting because heard before.",As old as the hills,0.0
+525,СТИРАТЬ ГРАНИ,stirat’ grani,To grind off the edges.,To remove differences or distinctions.,,0.0
+526,СТОИТ КАК ВКОПАННЫЙ,One stands as if dug in.,One stands as if dug in.,"One stands quite still, motionless.",To stand as if rooted to the ground.,0.0
+527,СТОЯТЬ за кого-либо/что-либо ГОРОЙ,stoyat’ goroy,To stand for someone or something like a mountain.,"To defend someone or something with all one’s might, by every possible means; to be solidly behind someone or something; to stand firm or stick up for someone or something.",To stand for someone through thick and thing; to back someone up to the hilt.,0.0
+528,СТОЯТЬ НАД ДУШОЙ,stoyat’ nad dushoy,To stand over someone’s soul.,To annoy someone by constantly watching him; to importune someone.,To stand over someone; to breath down someone’s neck; to worry the life out of someone.,0.0
+529,СТОЯТЬ ПОПЕРЁК ГОРЛА,stoyat’ pop’er’ok gorla,To stand across someone’s throat.,"To become unbearable, unendurable; to be a source of annoyance, irritation, especially a persistent one.",A thorn in one’s flesh/side.,0.0
+530,СТОЯТЬ ПОПЕРЁК ДОРОГИ,stoyat’ pop’er’ok dorogi,To stand across the road.,"To be an obstacle, hindrance or impediment to someone; to hamper someone’s chances of success or progress.",To be stand in someone’s way,0.0
+531,СТРЕЛЯНЫЙ ВОРОБЕЙ,str’el’any vorob’ey,A sparrow that has been shot at.,A person experienced in the matter at hand; someone not easily deceived.,An old hand; a knowing old bird,0.0
+532,СТРЕЛЯТЬ ИЗ ПУШКИ ПО ВОРОБЬЯМ,str’el’at’ is pushki po vorob’yam,To fire a cannon at sparrows.,To use an instrument or take measures far more powerful than is necessary; to make a great effort for a small gain.,To use a sledge-hammer to crack a nut; to break a fly/butterfly up on the wheel.,0.0
+533,СТРИЧЬ ВСЕХ ПОД ОДНУ ГРЕБЁНКУ,strich vs’ekh pod odrni gr’eb’onku,To cut everyone’s hair with one comb.,To treat everyone alike; to reduce everyone to the same level; to judge all people the same way.,,0.0
+534,СТРОИТЬ НА ПЕСКЕ,stroit’ na p’esk’e,To build something on sand.,"To make plans, organise a scheme, etc., on an insecure foundation.",To build on sand.,1.0
+535,С ТЯЖЁЛЫМ СЕРДЦЕМ,s t’azholym s’ertsem,With a heavy heart.,"To be anxious, depressed, in low spirits: to have a presentiment that something unpleasant or undesirable is about to happen.",With a heavy heart,1.0
+536,СЧИТАТЬ ВОРОН,shchitat’ voron,To count the crows.,"To gape at something; to be distracted, inattentive; to be bored. ",,0.0
+537,СЫТ ПО ГОРЛО,syt po gorlo,Full right up to the throat.,One has had too much of something; one is surfeited with something.,To be fed up with something; to have one’s fill of something.,0.5
+538,ТАНЦЕВАТЬ ОТ ПЕЧКИ,tantsevat’ ot p’echki,To dance from the stove.,"To begin with something that is elementary, familiar, or simpler, repeating all the movements or operations from the very beginning; to begin from the beginning.",,0.0
+539,ТАСКАТЬ КАШТАНЫ ИЗ ОГНЯ,taskat’ kashtany iz ogn’a,To pull the chestnuts out of the fire. ,To do the hardest and the most painstaking part of some job for someone else’s benefit.,To pull the chestnuts out of the fire,1.0
+540,ТАЩИТЬ ЗА УШИ,tashchit’ za ushy,To pull someone by the ears.,"To do everything to help someone (usually one who is remiss and of less than average ability) in his studies, in obtaining promotion, etc.",,0.0
+541,ТЁПЛОЕ МЕСТЕЧКО,t’oploye m’est’echko,A warm little place.,A highly paid appointment or job; a profitable position.,A cushy/snug job,0.0
+542,ТЕРЯТЬ ГОЛОВУ,t’er’at’ golovu,To lose one’s head.,"To become flustered, confused, panic stricken; to lose one’s self-control.",To lose one’s head/wits; to lose one’s presence of mind.,1.0
+543,ТЕРЯТЬ ПОЧВУ ПОД НОГАМИ,t’er’at’ pochvu pod nogami,To lose the ground under one’s feet.,"To lose self-confidence in one’s occupation, social position or convictions.",To feel the ground slipping away from under one’s feet.,0.5
+544,"ТИШЕ ВОДЫ, НИЖЕ TPABЫ",tishe vody nizhe travy,"Quieter than water, lower than grass.","One is meek, timid, mild, quiet.",Quiet as a mouse; meek as a lamb.,0.0
+545,ТОЛОЧЬ ВОДУ В СТУПЕ,toloch vodu v sttip’e,To pound the water in the mortar.,"To do useless work, to engage in fruitless talk that can have no results, to waste time.",To beat the air; to mill the wind.,0.0
+546,ТРЕЩАТЬ ПО ШВАМ,tr’eshchat’ po shvam,To burst at the seams.,"To be on the verge of destruction, collapse, ruin.",To go/fall to pieces; to fall/burst apart at the seams.,0.0
+547,ТЯЖЕЛАЯ АРТИЛЛЕРИЯ,t’azholaya artil’eriya,Heavy artillery.,Something that can be used in an emergency as an effective means of achieving an end.,,0.0
+548,ТЯЖЁЛ НА ПОДЪЁМ,t’azhol na pod’yorn,t’azhol na pod’yom,"Heavy on the rise. Slow or unwilling to do something; sluggish, hard to move or rouse to action.",,0.0
+549,ТЯНУТЬ ВРЕМЯ,t’amit’ vr’em’a,To drag the time.,To be slow in acting; to procrastinate; to wait for a favourable opportunity.,To bide one’s time,0.0
+550,ТЯНУТЬ ЗА ЯЗЫК,t’arnit’ za yazyk,To pull someone by the tongue.,To make someone say something; to pump someone.,,0.0
+551,УБИТЬ ДВУХ ЗАЙЦЕВ,ubit’ dvukh zaitsev,To kill two hares.,To achieve two objects simultaneously; to attain two results with one means.,To kill two birds with one stone.,0.0
+552,УДАРИТЬ КАК ОБУХОМ ПО ГОЛОВЕ,udarit’ kak obukhom po golov’e,To strike as if with an axe-butt on the head.,"To amaze, to perplex, to stun someone; to take someone aback.",To knock someone down with a feather; to knock someone off his pins.,0.0
+553,УДАРИТЬ ПО РУКАМ,udarit’ po rukam,To strike each other’s hands.,To confirm an agreement or a business deal; to strike a bargain.,To shake hands on it.,1.0
+554,УЗНАТЬ что-либо ИЗ ПЕРВЫХ РУК,uznat’ is pervykh ruk,To learn something from the first hands.,To receive information direct from a primary source without intermediaries.,At first hand.,1.0
+555,УЙТИ В КУСТЫ,uyti v kusty,To go into the scrubs.,To withdraw from one’s promise or an undertaking; to disclaim further responsibility for something.,To make oneself scarce; to back out; to show the white feather.,0.0
+556,УЙТИ В СЕБЯ,uyti v s’eb’a,To go into one’s own self.,"To become withdrawn, uncommunicative; to become less sociable and more reserved.",To retire into oneself,0.5
+557,УЙТИ С ГОЛОВОЙ во что-либо,uyti z golovoy,To go headlong into something.,"To be fully absorbed, deeply engrossed or totally involved in something.",To throw oneself/plunge into something; to get up to one’s neck in something.,0.0
+558,УКАЗАТЬ кому-либо НА ДВЕРЬ,ukazat’ na dv’er’,to point to the door.,"Peremptorily to ask a person, whose presence is unwelcome, to leave the house, room, etc.",To show someone the door,0.5
+559,УМЫВАТЬ РУКИ,umyvat’ ruki,To wash one’s hands,To divest oneself of any further connection with or responsibility for something; to abandon the matter entirely.,To wash one’s hands of something.,1.0
+560,УНОСИТЬ НОГИ,unosit’ nogi,To carry away one’s legs.,To flee; to run as fast as one’s legs will carry one: to have a narrow escape.,To escape by the skin of one’s teeth.,0.0
+561,УПАСТЬ С НЕБА НА ЗЕМЛЮ,upast’ s n’eba na z’eml’u,To fall from the sky to the earth.,To be disillusioned; to abandon fantasy and return to practical realities.,To come down to earth.,0.5
+562,УСТРАИВАТЬ СЦЕНУ,ustraivat’ stsenu,To make a scene.,"To start a noisy or violent argument, quarrel or scrap with someone, expressing one’s dissatisfaction, irritation, etc.",To stage/kick up a row; to make a scene.,1.0
+563,УТЕРЕТЬ кому-либо НОС,ut’er’et’ nos,To wipe someone’s nose.,To win an advantage over someone; to humiliate or cause disgruntlement; to make a clever retort.,To score off someone; to get the better of someone; to steal a march on someone.,0.0
+564,УХО РЕЖЕТ,ukho r’ezhet,Something cuts one’s ear.,It’s grating upon one’s ears; it’s painful to listen to; it offends the ear.,,0.0
+565,УШИ ВЯНУТ,ushy v’anut,One’s ears fade.,"It is so ridiculous, absurd or silly that it’s disgusting to listen to.",It makes one sick to hear about it,0.0
+566,ХВАТАТЬ ЗВЁЗДЫ С НЕБА,khvatat’ zv’ozdy s n’eba,To snatch the stars from the sky.,To be very good at something; to be able to do something remarkable.,He is as good as they come,0.0
+567,ХВАТАТЬСЯ ЗА ГОЛОВУ,khvatattsa za golovu,To clutch one’s head.,To be struck with horror; to abandon oneself to despair.,,0.0
+568,ХВАТАТЬСЯ ЗА СОЛОМИНКУ,khvatattsa za solominku,To clutch at a straw.,"When in extreme danger, difficulty, etc., to try to seize any chance, however small or useless, of getting out of it.",To catch/clutch at a straw,1.0
+569,ХОДИТЬ ВОКРУГ ДА ОКОЛО,khodit’ vokriig da okolo,To walk round and about.,"To avoid saying something openly, frankly, directly; to avoid the essential facts; not to come to the point; to approach a matter in a roundabout way.",To beat about the bush,0.0
+570,ХОДИТЬ НА ГОЛОВЕ,khodit’ na golov’e,To walk on one’s head.,To get into mischief; to play pranks; to be naughty (usually said of children).,,0.0
+571,ХОДИТЬ ПО КРАЮ ПРОПАСТИ,khodit’ ро krayu propasti,To walk on a brink of an abyss.,To be in imminent mortal danger; to be on the verge of a disaster.,On a brink of a precipice,1.0
+572,ХОДИТЬ ПО СТРУНКЕ,khodit’ po strtink’e,To walk on a string.,"To be completely under someone’s authority; to be very obedient, almost to the point of servility.",To be at someone’s beck and call; to dance attendance upon someone; to toe the line,0.5
+573,ХОТЬ ТРАВА НЕ РАСТИ,khot’ trava n’e rasti,Who cares whether or not the grass grows.,One couldn’t care less; it’s all the same to someone.,Not to care a straw,0.0
+574,ХОТЬ ШАРОМ ПОКАТИ,khot’ sharom pokati,You could even roll a ball through it.,There’s nothing there; it’s completely empty.,Bare as a bone; as bare as the palm of one’s hand.,0.0
+575,ХРОМАТЬ НА ОБЕ НОГИ,khromat’ na ob’e nogi,To limp on both legs;,"To have serious gaps in one’s knowledge, training or abilities.",,0.0
+576,ХУДОЙ КАК СПИЧКА,khudoy kak spichka,Thin as a matchstick.,Very thin.,,0.0
+577,ЦЕНЫ НЕТ кому-либо/чему-либо,tseny n’et,There’s no price on someone or something,"Someone or something is priceless, invaluable.",,0.0
+578,ЧЕРЕЗ чью-либо ГОЛОВУ,cher’ez golovu,Over someone’s head.,To do something without informing one’s immediate superior; to apply to a higher authority by passing an intermediate one.,To go over someone’s head,1.0
+579,ЧЕРЕЗ ЧАС ПО ЧАЙНОЙ ЛОЖКЕ,her’ez chas ро chaynoy lozhk’e,One teaspoonful every other hour.,To be few and at long intervals; very slowly.,In drops; in/by driblets; few and far between,0.0
+580,ЧЁРНАЯ КОШКА ПРОБЕЖАЛА,chornaya koshka prob’ezhala,A black cat has run between them.,There’s a coolness between them; they have become estranged.,They have fallen out,0.0
+581,ЧЁРНЫМ ПО БЕЛОМУ,chornym po b’elomu,In black on white.,"To declare or state something definitely, clearly, distinctly.",In black and white,1.0
+582,ЧЁРТОВА ДЮЖИНА,chortova d’tizhina,A devil’s dozen.,Thirteen.,A devil’s/a baker’s dozen,1.0
+583,ЧЕСАТЬ ЯЗЫК,chesat’ yazyk,To scratch one’s tongue.,To engage in idle talk; to talk continuously; to chatter.,To wag one’s tongue,0.5
+584,ЧИТАТЬ МЕЖДУ СТРОК,chitat’ m’ezhdu strok,To read between the lines.,To discern the concealed meaning; to draw conclusions which are not obvious in something said or written.,To read between the lines.,1.0
+585,ЧУДЕСА В РЕШЕТЕ,chudesa v r’eshet’e,Miracles in a sieve.,"It’s amazing, incredible, unbelievable extraordinary; it’s a fantastic tale.",,0.0
+586,ЧУЖИМИ РУКАМИ ЖАР ЗАГРЕБАТЬ,chuzhimi rukami zhar zagr’ebat’,To bank up the fire with someone else’s hands.,To benefit by the results of someone else’s work; to use the results of someone else’s work to achieve one’s selfish ends.,To make a cat’s-paw of someone; to pull someone’s chestnuts out of the fire.,0.0
+587,ШАПКАМИ ЗАКИДАЕМ,shapkami zakidayem,"We’ll pelt you (him, etc.) with our caps. ",We expect to win without difficulty; it’s as good as certain (to boast of an easy victory).,It’s a walk-over; it’s in the bag,0.0
+588,ШАПОЧНОЕ ЗНАКОМСТВО,shapochnoye znakomstvo,A cap acquaintance.,A slight acquaintance.,A nodding/bowing acquaintance,0.0
+589,ШИТО БЕЛЫМИ НИТКАМИ,shito b’elymi nitkami,It is sewn with white thread.,It is a flimsy story or excuse easily seen through; it is all too obvious; it is quite transparent.,Something does not hold water; made up out of whole cloth.,0.0
+590,ШУТКИ В СТОРОНУ,shutki v storonu,Jokes aside.,Speaking seriously; it’s a serious matter; let’s get down to business.,Joking apart/aside; all kidding aside.,1.0
+591,ЯБЛОКУ НЕГДЕ УПАСТЬ,yabloku n’egd’e upast’,No room for an apple to fall.,"Used to indicate that there is a large number of people in one place, that the place is overcrowded, that there is hardly room to move or turn around.",There’s no room to swing a cat,0.0
+592,ЯЗЫК СЛОМАЕШЬ,yazyk slomayesh,You can break your tongue.,It’s very difficult to pronounce a word or a phrase.,You can break /twist your tongue,1.0
+593,ЯЗЫК ХОРОШО ПОДВЕШЕН,yazyk horosho podv’eshen,One’s tongue is hung well.,Someone is a smooth talker; someone has a glib tongue.,To have the gift of the gab.,0.0
+594,ЯСНО КАК ДЕНЬ,yasno kak d’en’,Clear as day.,"Easy to see or comprehend; quite evident, obvious; as plain or clear as can be.",As plain as the nose on your face; as plain as day,1.0

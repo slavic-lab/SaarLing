@@ -1,0 +1,595 @@
+id,head_ru,transliteration,literal,meaning,equivalents
+1,БАБУШКА НАДВОЕ СКАЗАЛА,babuschka nadwoje ßkasala,Großmutter hat es zweideutig gesagt.,"Noch ist unklar, ob etw. gelingt. ",das is noch gar nicht heraus.
+2,БЕЖАТЬ ВЫСУНУВ ЯЗЫК,beshatl wyßunuw jasyk,Mit hängender Zunge laufen.,In atemloser Eile laufen.,
+3,БЕЗ СУЧКА БЕЗ ЗАДОРИНКИ,bes ßutschka bes sadorinki,Ohne Astloch; ohne rauhe Stelle.,"Etw. geht glatt, ohne Komplikationen.",wie am Schnürchen.
+4,БЕЛАЯ ВОРОНА,belaja worona,Ein weißer Rabe.,"Ein Mensch, der sich deutlich von anderen unterscheidet; eine große Ausnahme.",ein weißer Rabe
+5,БИТЬ В ОДНУ ТОЧКУ,bitj w odnu totschku,Auf einen Punkt schlagen.,Seine gesamten Bemühungen auf die Erreichung eines Zieles konzentrieren.,
+6,БИТЬ КЛЮЧОМ,bitj kljutschom,Wie eine Quelle sprudeln.,Stürmisch hervorbrechen; pulsieren.,
+7,БИТЬСЯ КАК РЫБА ОБ ЛЁД,bitza kak ryba ob ljod,Wie ein Fisch ans Eis schlagen.,Sich vergeblich um Befreiung aus einer ausweglosen Lage bemühen.,"sich abmühen / zappeln, wie der Fisch auf dem Trocknen"
+8,БЛУЖДАТЬ В ПОТЁМКАХ,blushdatj w potjomkach,Im Finstern umherirren.,Sich in einer Sache schlecht auskennen; etw. aufs Geratewohl tun.,im Dunkeln tappen
+9,БОЛЬНОЕ МЕСТО,boljnoje meßto,Die kranke Stelle.,"Das, was am stärksten beunruhigt; die Ursache von Sorgen und Kümmernissen.",der wunde Punkt
+10,БОЛЬНОЙ ВОПРОС,boljnoj woproß,Eine schlimme Frage.,"Ein herangereiftes, doch schwer zu lösendes Problem.",eine heikle Frage; ein wunder Punkt.
+11,БОЯТЬСЯ СОБСТВЕННОЙ ТЕНИ,bojatza ßobßtwennoj teni,Den eigenen Schatten fürchten.,Sich ohne Grund fürchten,
+12,БРАТЬ кого-либо ЗА СЕРДЦЕ/ДУШУ,bratj (kowo-libo) sa ßerze/duschu,J-n ans Herz greifen.,J-n stark erregen; j-n tief bewegen,j-m zu Herzen gehen.
+13,БРАТЬ кого-либо ПОД КРЫЛЫШКО,bratj (kowo-libo) pod krylyschko,J-n unter die Fittiche nehmen.,J-n in seine Obhut nehmen.,j-n unter seine Fittiche nehmen.
+14,БРАТЬ С ПОТОЛКА,bratj ß potolka,Von der Decke nehmen.,Ohne ausreichenden Grund behaupten.,aus der Luft greifen.
+15,БРАТЬСЯ ЗА УМ,bratza sa um,Nach dem Verstand greifen.,Verständig werden.,zur Vernunft kommen
+16,БРОСАТЬ КАМЕШКИ В чей-либо ОГОРОД,broßatj kameschki w (tschej-libo) ogorod,Steine in j-s Garten werfen. ,"Über j-n abfällige, ironische Bemerkungen machen; j-m gegenüber beleidigende Anspielungen machen.",
+17,БРОСАТЬ СЛОВА НА ВЕТЕР,broßatj ßlowa na weter,Die Worte in den Wind werfen.,"Reden, ohne Beachtung zu finden.",in den Wind reden
+18,БРОСАТЬСЯ кому-либо В ГЛАЗА,broßatza (komu-libo) w glasa,Sich j-m in die Augen werfen.,J-s ganze Aufmerksamkeit erregen; besonders augenfällig sein.,j-m in die Augen springen.
+19,БРОСАТЬСЯ СЛОВАМИ,broßatza ßlowami,Mit Worten werfen.,Unverantwortlich (daher)reden und Versprechungen machen.,
+20,БРОСИТЬ ТЕНЬ на кого-либо/что-либо,broßitj tenj (na kowo-libo/tschto-libo),Schatten auf j-n werfen.,J-n verleumden; schlecht von j-m reden; j-n verdächtigen.,einen Schatten auf j-n/etw. werfen
+21,БЫТЬ МЕЖДУ МОЛОТОМ И НАКОВАЛЬНЕЙ,byyj meshdu molotom i nakowaljnej,Zwischen Hammer und Amboß sein,"Sich in einer solchen Lage befinden, daß dieselbe Gefahr oder Unannehmlichkeit von zwei Seiten droht.",in der Klemme sein
+22,БЫТЬ НА ГОЛОВУ ВЫШЕ,bytj na golowu wysche,Um einen Kopf größer sein.,"Klüger, erfahrener, beschlagener sein als j-d; j-m geistig überlegen sein.",
+23,БЫТЬ НА ДРУЖЕСКОЙ НОГЕ,bytj na drusheßkoj noge,Auf freundschaftlichem Fuße sein.,"Ein enges, freundschaftliches Verhältnis zu j-m haben.",auf freundschaftlichem Fuße mit j-m stehen
+24,БЫТЬ НА НОЖАХ,bytj na noshach,Bei den Messern sein.,Mit j-m im Streit liegen; verfeindet sein.,
+25,БЫТЬ НА СЕДЬМОМ НЕБЕ,bytj na ßedjmom nebe,Im siebenten Himmel sein.,Überaus glücklich sein.,im siebenten Himmel sein
+26,БЫТЬ HE В СВОЕЙ ТАРЕЛКЕ,bytj ne w ßwojej tarelke,Nicht in seinem eigenen Teller sein.,"Mißmutig, mißgestimmt sein; sich nicht wohl fühlen.",
+27,БЫТЬ НЕ ИЗ РОБКОГО ДЕСЯТКА,bytj ne is robkowo deßjatka,Nicht von der schüchternen Gruppe sein.,Beherzt / mutig sein.,
+28,БЫТЬ HE КО ДВОРУ,bytj ne ko dworu,Nicht zum Hof gehören.,Unangebracht sein; nicht passen. ,
+29,БЫТЬ НЕ НА СВОЁМ МЕСТЕ,bytj ne na ßwojom meßte,Nicht an seinem Platz sein.,"Nicht die Aufgabe erfüllen können, die man übernommen hat.",nicht am richtigen Platz sein
+30,БЫТЬ ОДЕТЫМ С ИГОЛОЧКИ,bytj odetym ß igolotschki,Von der Nadel weg gekleidet sein.,"Gerade erst fertiggestellte, neue Kleidung tragen.",wie aus dem Ei gepellt sein
+31,БЫТЬ у кого-либо ПОД БАШМАКОМ,bytj (u kowo-libo) pod baschmakom,Bei j-m unter dem Schuh sein. ,Völlig abhängig von j-m sein; sich widerspruchslos j-m unterordnen.,unter j-s Pantoffel stehen
+32,БЫТЬ СВЯЗАННЫМ СВОИМ СЛОВОМ,bytj ßwjasannym ßwoim ßlowom,Durch sein Wort gebunden sein.,Pflichtbewußt sein gegebenes Wort halten.,sich durch sein Wort gebunden fühlen
+33,ВАЛИТЬ В ОДНУ КУЧУ,walitj v odnu kutschu,Auf einen Haufen wälzen.,Alles ohne Beachtung von Unterschieden vermengen; keinerlei Ordnungsprinzip berücksichtigen.,alles in einen Topf werfen
+34,ВАЛИТЬ С БОЛЬНОЙ ГОЛОВЫ НА ЗДОРОВУЮ,walitj ß boljnoj golowy na sdorowuju,Vom kranken Kopf auf den gesunden wälzen. ,"Die Schuld auf einen anderen, auf den Unschuldigen schieben.",
+35,ВАЛИТЬСЯ ИЗ РУК,walitza is ruk,Aus den Händen fallen.,"Nicht klappen (aus Mangel an Geschick, wegen schlechter Laune und aus ähnlichen Gründen).","aus Mangel an Geschick, wegen schlechter Laune und aus ähnlichen Gründen; nicht von der Hand gehen"
+36,ВАРИТЬСЯ В СОБСТВЕННОМ СОКУ,waritza w ßobßtwennom ßoku,Im eigenen Saft kochen.,Leben oder arbeiten ohne Verkehr mit anderen Menschen; die Erfahrungen anderer mißachten.,
+37,ВБИВАТЬ В ГОЛОВУ,wbiwatj w golowu,In den Kopf schlagen.,Sich durch häufiges Wiederholen elw. einprägen.,
+38,ВБИВАТЬ КЛИН между кем-либо,wbiwatj klin (meshdu kem-libo),Einen Keil zwischen j-n schlagen.,Das gute Einvernehmen zwischen Menschen zerstören.,einen Keil zwischen zwei Menschen treiben
+39,ВЕРТЕТЬСЯ КАК БЕЛКА В КОЛЕСЕ,wertetza kak belka w koleße,Sich wie ein Eichhörnchen im Rad drehen. ,Sehr beschäftigt sein; geschäftig hin und her eilen; Scherereien haben.,weder Rast noch Ruh kennen
+40,ВЕРТИТСЯ у кого-либо НА ЯЗЫКЕ,wertitza (u kowo-libo) na jasyke,Es dreht sich bei j-m auf der Zunge.,"Etw. sagen wollen, was einem im Moment nicht einfällt.",es liegt j-m auf der Zunge
+41,ВЕШАТЬ HOC,weschatj noß,Die Nase hängen (lassen),Verzagt / niedergeschlagen sein; Verdruß empfinden,den Kopf hängen lassen
+42,ВЗВЕШИВАТЬ СВОИ СЛОВА,wsweschiwatj ßwoi ßlowa,Seine Worte abwägen. ,"Sorgfältig überlegen und einschätzen, was man sagen will.",seine Worte wägen
+43,ВЗДОХНУТЬ СВОБОДНО,wsdochnutj ßwobodno,Frei aufatmen.,"Sich von Sorgen, Verpflichtungen usw. befreit fühlen.",erleichtert / befreit aufatmen
+44,ВЗЯТЬ БЫКА ЗА РОГА,wsjatj byka sa roga,Den Stier bei den Hörnern packen.,Eine Angelegenheit energisch in Angriff nehmen.,den Stier bei den Hörnern packen
+45,ВЗЯТЬ ГОЛЫМИ РУКАМИ,wsjatj golymi rukami,Mit bloßen Händen zufassen.,Sich etw. ohne besondere Anstrengung aneignen.,
+46,ВЗЯТЬ СЕБЯ В РУКИ,wsjatj ßebja w ruki,Sich in die Hände nehmen.,"Seine Gefühlsregungen, seine Stimmungen zügeln und zu vollkommener Selbstbeherrschung gelangen.",sich in der Gewalt haben
+47,ВЗЯТЬ СЛОВО,wsjatj ßlowo,Das Wort nehmen.,Aus eigenem Antrieb auf einer Versammlung sprechen.,das Wort ergreifen
+48,ВИДЕТЬ кого-либо НАСКВОЗЬ,widetj (kowo-libo) naßkwosj,Durch j-n hindurchsehen.,J-n gründlich kennen; j-n durchschauen.,
+49,ВИДНО КАК НА ЛАДОНИ,widno kak na ladoni,Sichtbar wie auf der Handfläche.,"Etw. ist völlig klar, ganz deutlich zu sehen.",
+50,ВИДНО ПТИЦУ ПО ПОЛЁТУ,widno ptizu po poljotu,Der Vogel ist am Fluge erkennbar.,"Man erkennt den Menschen an seinen Handlungen, an seinem Verhalten.",
+51,ВИЛАМИ НА ВОДЕ ПИСАНО,wilami na wode pißano,Mit der Gabel aufs Wasser geschrieben.	,"Noch ist unklar, wie sich etw. entwickelt, ob etw. gelingt, in Erfüllung geht.",
+52,ВИСЕТЬ В ВОЗДУХЕ,wißetj w wosduche,In der Luft hängen.,Noch nicht entschieden sein; sich in einer ungewissen Lage befinden.,in der Luft hängen
+53,ВИСЕТЬ НА ВОЛОСКЕ,wißetj na woloske,An einem Härchen hängen.,"Sehr bedroht sein, in einer gefahrvollen Lage befindlich.",an einem seidenen Faden hängen
+54,ВИСЕТЬ НА ТЕЛЕФОНЕ,wißetj na telefone,Am Telefon hängen.,Ein langes Telefongespräch führen.,an der Strippe hängen
+55,ВИТАТЬ В ОБЛАКАХ,witatj w oblakach,Sich in den Wolken aufhalten.,Sich Träumereien hingeben; sich fruchtlosen Phantasien hingeben; nicht auf dem Boden der Tatsachen stehen.,in den Wolken schweben
+56,ВИТЬ ВЕРЁВКИ из кого-либо,witj werjowki (is kowo-libo),Seile aus j-m winden.,Großen Einfluß auf j-n haben; mit j-m nach Belieben verfahren; j-n dem eigenen Willen unterordnen.,j-n um den kleinen Finger wickeln
+57,ВКЛАДЫВАТЬ ДУШУ во что-либо,wkladywatj duschu (wo tschto-Iibo),Die Seele in etw. legen. ,"Sich einer Sache ganz widmen; etw. mit Liebe, Hingabe und Eifer tun.",
+58,ВЛЕТЕТЬ В КОПЕЕЧКУ,wletetj w kopejetschku,In die Kopeke fliegen.,Teuer zu stehen kommen.,das reißt / läuft ins Geld
+59,ВЛЮБИТЬСЯ ПО УШИ,wljubitza po uschi,Sich bis an die Ohren verlieben.,Sehr verliebt sein.,bis über beide Ohren verliebt sein
+60,ВОГНАТЬ кого-либо В КРАСКУ,wognatj (kowo-libo) w kraßku,J-n in die Farbe treiben.,J-n zum Erröten bringen; j-n in Verlegenheit bringen.,
+61,ВОДИТЬ кого-либо ЗА НОС,woditj (kowo-libo) sa noß,J-n an der Nase führen.,J-n betrügen / überlisten; ein Versprechen nicht erfüllen.,j-n an der Nase herumführen
+62,ВОДОЙ HE РАЗОЛЬЁШЬ,wodoj ne rasoljosch,Selbst mit Wasser treibst du sie nicht auseinander.,Sie sind sehr eng befreundet; sie sind unzertrennlich.,sie halten zusammen wie die Kletten
+63,ВОДЫ НЕ ЗАМУТИТ,wody ne samutit,Er wird das Wasser nicht trüben.,"Er ist sehr bescheiden, sehr ruhig.",er kann kein Wässerchen trüben
+64,ВОЙТИ В ИСТОРИЮ,wojti w ißtoriju,In die Geschichte eingehen.,Bekannt werden; den Menschen als bedeutsames Ereignis im Gedächtnis bleiben.,in die Geschichte eingehen
+65,ВОЙТИ В КОЛЕЮ,wojti w koleju,In die Fahrspur hineingehen.,Zur gewohnten Lebensweise zurückkehren; den normalen Verlauf nehmen. ,ins rechte Gleis kommen
+66,ВОЙТИ В РОЛЬ,wojti w rolj,In die Rolle hineingehen.,"In eine neue Arbeit, eine neue Stellung hineinwachsen.",
+67,ВОЛОСЫ СТАНОВЯТСЯ ДЫБОМ,woloßy ßtanowjatza dybom,Die Haare sträuben sich.,J-n erfaßt Entsetzen.,j-m stehen die Haare zu Berge; j-m sträuben sich die Haare
+68,ВОТ ГДЕ СОБАКА ЗАРЫТА,wot gde ßobaka saryta,Da liegt der Hund begraben.,Das ist die wahre Ursache; das ist der Kern der Angelegenheit.,da liegt der Hund begraben
+69,ВПИСАТЬ НОВУЮ СТРАНИЦУ во что-либо,wpißatj nowuju ßtranizu (wo tschto-libo),Eine neue Seite in einer Sache schreiben.,"Entdeckungen machen, etw. Herausragendes auf einem Gebiet tun.",
+70,В ПОДМЁТКИ HE ГОДИТСЯ кому-либо,w podmjodtki ne goditza (komu-libo),Er taugt nicht einmal als Schuhsohle für j-n.,J-d ist in seinen Eigenschaften beträchtlich schlechter als ein anderer; j-d ist einem anderen unterlegen.,er kann ihm nicht das Wasser reichen
+71,ВРАСТАТЬ КОРНЯМИ,wrastatj kornjami,Mit den Wurzeln einwachsen.,Sich an etw. gewöhnen; etw. liebgewinnen; Zuneigung zu etw. fassen.,
+72,ВСТАВАТЬ С ЛЕВОЙ НОГИ,wßtawatj ß lewoj nogi,Mit dem linken Fuß aufstehen.,Schlecht gelaunt sein; sehr gereizt sein.,mit dem linken Fuß zuerst aufstehen
+73,ВСТАВАТЬ С ПЕТУХАМИ,wßtawatj ß petuchami,Mit den Hähnen aufstehen.,Sehr zeitig aufstehen.,beim ersten Hahnenschrei aufstehen
+74,ВСТАВЛЯТЬ ПАЛКИ В КОЛЁСА,wßtawljatj palki w koljoßa,Stöcke in die Räder einsetzen.,J-m absichtlich Schwierigkeiten bereiten; j-m Hindernisse in den Weg legen.,j-m Knüppel zwischen die Beine werfen
+75,ВСТРЕЧАТЬ В ШТЫКИ,wßtretschatj w schtyki,J-m mit aufgepflanztem Bajonett begegnen.,J-m sehr feindlich begegnen.,
+76,ВСТУПИТЬ В СТРОЙ,wßtupitj w ßtroj,Sich in eine Formation eingliedem.,In Betrieb genommen werden.,
+77,В УС НЕ ДУТЬ,w uß ne dutj,Nicht in den Schnurrbart blasen.,Sich nicht beunruhigen; sich nichts daraus machen.,
+78,ВЫБИВАТЬ у кого-либо ПОЧВУ ИЗ-ПОД НОГ,wybiwatj (u kowo-libo) potschwu is-pod nog,J-m den Boden unter den Füßen wegschlagen.,J-m das Vertrauen in etw. nehmen; j-s seelisches Gleichgewicht stören.,j-m den Boden unter den Füßen entziehen
+79,ВЫБИТЬ ИЗ КОЛЕИ,wybitj is kolei,Aus der Fahrspur herausschlagen.,J-n in der gewohnten Lebensweise stören.,aus dem Gleis bringen
+80,ВЫБИТЬ ИЗ СЕДЛА,wybitj is ßedla,Aus dem Sattel schlagen.,J-m den Lebensinhalt nehmen; j-m den Glauben an etw. nehmen; j-s seelisches Gleichgewicht stören.,aus dem Gleichgewicht bringen
+81,ВЫБРОСИТЬ ИЗ ГОЛОВЫ,wybroßitj is golowy,Aus dem Kopf hinauswerfen.,"Sich bemühen, j-n oder etw. zu vergessen; eine Absicht aufgeben.",sich etw. aus dem Kopf schlagen
+82,ВЫВОДИТЬ кого-либо ИЗ СЕБЯ,wywoditj (kowo-libo) is ßebja,J-n aus sich herausführen.,J-m die Selbstbeherrschung rauben.,j-n aus dem Hänschen bringen
+83,ВЫВОДИТЬ ИЗ СТРОЯ,wywoditj is ßtroja,Aus einer Formation (heraus)führen.,Außer Betrieb setzen.,
+84,ВЫВОДИТЬ кого-либо НА ЧИСТУЮ ВОДУ,wywoditj (kowo-libo) na tschißtuju wodu,J-n in klares Wasser führen.,J-n entlarven.,
+85,ВЫЕДЕННОГО ЯЙЦА НЕ СТОИТ,wyjedennowo jajza ne ßtoit,Kein leergegessenes Ei wert sein.,Das verdient keine Beachtung; das hat keine Bedeutung.,
+86,ВЫЙТИ ИЗ ПЕЛЁНОК,wyjti is peljonok ,Aus den Windeln gehen.,Selbständig werden; erwachsen werden.,den Kinderschuhen entwachsen
+87,ВЫЙТИ ИЗ СЕБЯ,wyjti is ßebja,Aus sich hinausgehen.,Außer sich geraten; die Selbstkontrolle verlieren.,aus der Haut fahren
+88,ВЫЙТИ ИЗ СТРОЯ,wyjti is ßtroja,Aus einer Formation austreten.,Nicht funktionieren; kaputt sein.,
+89,ВЫЙТИ СУХИМ ИЗ ВОДЫ,wyjti ßuchim is wody,Trocken aus dem Wasser steigen.,Der verdienten Strafe entgehen.,mit heiler Haut davonkommen
+90,ВЫЛЕТЕТЬ В ТРУБУ,wyletetj w trubu,In den Schornstein fliegen.,"Ruiniert sein, völlig verarmen.",sein Geld durch den Schornstein gejagt haben
+91,ВЫНЕСТИ что-либо НА СВОИХ ПЛЕЧАХ,wyneßti (tschto-libo) na ßwoich pletschach,Etw. auf seinen Schultern tragen.,"Mit etw. allein, ohne fremde Hilfe fertigwerden.",
+92,ВЫНОСИТЬ COP ИЗ ИЗБЫ,wynoßitj ßor is isby,Den Kehricht aus der Hütte tragen.,"Streitereien, Gezänk zwischen sich Nahestehenden in aller Öffentlichkeit austragen.",seine schmutzige Wäsche in der Öffentlichkeit waschen; etw. aus der Schule plaudern
+93,ВЫРАСТАТЬ В чьих-либо ГЛАЗАХ,wyrastatj w (tschjich-libo) glasach,In j-s Augen wachsen.,J-s Achtung erringen; von j-m hoch eingeschätzt werden.,in j-s Augen steigen
+94,ВЫРВАТЬ что-либо С КОРНЕМ,wyrwatj (tschto-libo) ß kornem,Etw. mit der Wurzel herausreißen. ,Etw. völlig und endgültig vernichten; etw. ausrotten.,etw. an der Wurzel packen; etw. mit Stumpf und Stiel ausrotten
+95,ВЫСОСАТЬ что-либо ИЗ ПАЛЬЦА,wyßoßatj (tschto-libo) is paljza,Etw. aus dem Finger saugen.,Elw. ohne ausreichende Begründung behaupten; etw. erfinden.,sich etw. aus den Fingern saugen
+96,ВЫТЯГИВАТЬСЯ В СТРУНКУ,wytjagiwatza w ßtrunku,Sich wie eine Saite strecken.,Strammstehen.,kerzengerade stehen
+97,ГАДАТЬ НА КОФЕЙНОЙ ГУЩЕ,gadatj na kofejnoj gustsche,Aus dem Kaffeesatz wahrsagen.,Unbegründete Voraussagen machen.,aus dem Kaffeesatz wahrsagen
+98,ГЛАДИТЬ кого-либо ПО ГОЛОВКЕ,gladitj (kowo-libo) po golowke,J-m das Köpfchen streicheln.,Allzu große Nachsicht j-m gegenüber üben; allzu nachsichtig j-m gegenüber sein.,
+99,ГЛАДИТЬ кого-либо ПРОТИВ ШЕРСТИ,gladitj (kowo-libo) protiw scherßti,J-m das Haar gegen den Strich streicheln. ,J-m widersprechen; j-m zuwiderhandeln.,
+100,ГЛАЗА РАЗБЕГАЮТСЯ,glasa rasbegajutza,Die Augen laufen auseinander.,J-d kann sich nicht mehr konzentrieren; j-d wird durch vielfältige Eindrücke abgelenkt.,
+101,ГЛАЗА РАЗГОРЕЛИСЬ,glasa rasgorelißj,Die Augen entflammten.,Auf etw. sehr erpicht sein; auf etw. versessen sein.,
+102,ГОВОРИТЬ ПОД РУКУ,goworitj pod ruku,Unter die Hand sprechen.,"Etw. zur unpassenden Zeit sagen; durch Reden j-n daran hindern, sich zu konzentrieren. ",
+103,ГОЛОВА ИДЁТ КРУГОМ,golowa idjot krugom,Der Kopf geht ringsum.,J-d kann keinen klaren Gedanken fassen (wegen der Vielzahl der Eindrücke).,wegen der Vielzahl der Eindrücke; j-m schwirrt der Kopf
+104,ГОЛОДНЫЙ КАК ВОЛК,golodnyj kak wolk,Hungrig wie ein Wolf.,Sehr hungrig.,hungrig wie ein Wolf
+105,ГОРИТ В РУКАХ,gorit w rukach,Es brennt in den Händen.,Eine Arbeit geht gut und zugig voran; etw. gelingt.,die Arbeit geht leicht von der Hand
+106,ГОТОВ СКВОЗЬ ЗЕМЛЮ ПРОВАЛИТЬСЯ,gotow ßkwosj semlju prowalitza,"Bereit, durch die Erde zu stürzen.",Sich vor Scham verbergen wollen.,am liebsten in die Erde versinken wollen
+107,ГУСЕЙ ДРАЗНИТЬ,gußej drasnitj,Die Gänse reizen.,"J-n reizen, j-n ärgern.",
+108,ДАВАТЬ кому-либо СДАЧИ,dawatj (komu-Iibo) ßdatschi,J-m den Restbetrag herausgeben.,"Einen Schlag mit einem Schlag, eine Beleidigung mit einer Beleidigung beantworten.",j-m keine Antwort schuldig bleiben
+109,ДАЛЬШЕ ЕХАТЬ НЕКУДА,daljsche jechatj nekuda,Man kann nirgendwohin weiterfahren.,Schlimmer kann es gar nicht kommen.,das ist die Höhe
+110,ДВА САПОГА ПАРА,dwa ßapoga para,Zwei Stiefel sind ein Paar.,Einander besonders wegen der Eigenschaften ähnlich sein; einer ist nicht besser als der andere.,gleich und gleich gesellt sich gern; sie sind einander wert
+111,ДЕЛАТЬ ИЗ МУХИ СЛОНА,delatj is muchi ßlona,Aus einer Fliege einen Elefanten machen.,Etw. stark übertreiben; etw. Unbedeutendem eine große Bedeutung geben.,aus einer Mücke einen Elefanten machen
+112,ДЕЛАТЬ ПОГОДУ,delatj pogodu,Das Wetter machen.,Den Lauf einer Sache bestimmen; einen entscheidenden Einfluß auf etw. ausüben; ausschlaggebend sein.,
+113,ДЕЛАТЬ что-либо С ЗАКРЫТЫМИ ГЛАЗАМИ,delatj (tschto-libo) ß sakrytymi glasami,Etw. mit geschlossenen Augen tun.,"Ohne nachzudenken, unbedacht etw. tun.",
+114,ДЕЛАТЬ что-либо СПУСТЯ РУКАВА,delatj (tschto-libo) ßpußtja rukawa,Etw. mit nicht hochgekrempelten Ärmeln tun.,Etw. nachlässig tun; etw. hinschludern.,
+115,ДЕЛИТЬ ШКУРУ НЕУБИТОГО МЕДВЕДЯ,delitj schkuru neubitowo medwedja,Das Fell des (noch) nicht erlegten Bären teilen.,Voreilig etw. ausrechnen; den Gewinn eines noch nicht realisierten Vorhabens verteilen.,
+116,ДЕНЕГ КУРЫ HE КЛЮЮТ,deneg kury ne kljujut,Die Hühner picken das Geld nicht auf.,Sehr viel Geld; Geld im Überfluß haben.,Geld wie Heu
+117,ДЕРЖАТЬ В ЧЁРНОМ ТЕЛЕ,dershatj w tschornom tele,"J-n im schwarzen Leib (d. h. schmutzig, ungewaschen) halten.",Streng mit j-m verfahren; ; j-n unterdrücken; j-n stiefmütterlich behandeln. ,
+118,ДЕРЖАТЬ КАМЕНЬ ЗА ПАЗУХОЙ,dershatj kamenj sa pasuchoj,Den Stein hinter dem Hemd halten.,"Seinen Zorn j-m gegenüber verbergen; bereit sein, sich an j-m zu rächen.",Böses im Schilde führen
+119,ДЕРЖАТЬ HOC ПО ВЕТРУ,dershatj noß po wetru,Die Nase nach dem Wind halten.,Sich den Umständen anpassen; seine Auffassungen ändern ohne eigene Grundsätze.,den Mantel nach dem Wind hängen
+120,ДЕРЖАТЬ СЕБЯ В РУКАХ,dershatj ßebja w rukach,Sich in den Händen halten.,Seine Gefühlsanwandlungen zügeln; die Selbstbeherrschung bewahren.,sich in der Gewalt haben
+121,ДЕРЖАТЬ УХО ВОСТРО,dershatj ucho woßtro,Das Ohr spitz halten.,J-m mißtrauen; sehr vorsichtig / wachsam sein.,auf der Hut sein; auf dem Quivive sein
+122,ДЕРЖАТЬ ЯЗЫК ЗА ЗУБАМИ,dershatj jasyk sa subami,Die Zunge hinter den Zähnen halten.,Schweigen; nichts Unbedachtes äußern; vorsichtig mit seinen Äußerungen sein.,seine Zunge im Zaum halten; den Mund halten
+123,ДЕРЖАТЬСЯ В ТЕНИ,dershatza v teni,Sich im Schatten halten. ,Unbemerkt bleiben; bescheiden im Hintergrund stehen.,sich im Hintergrund halten
+124,ДЛИННЫЙ ЯЗЫК,dlinnyj jasyk,Eine lange Zunge.,Redselig sein; sehr geschwätzig sein.,
+125,ДОВОДИТЬ кого-либо ДО БЕЛОГО КАЛЕНИЯ,dowoditj (kowo-libo) do belowo kalenija,Zur Weißglut bringen,j-m die Selbstbeherrschung rauben,j-n zur Weißglut bringen
+126,ДОЛГАЯ ПЕСНЯ,dolgaja peßnja,Ein langes Lied.,Eine langwierige Sache; etw. das seine Zeit zur Realisierung braucht., eine langwierige Angelegenheit
+127,ДОСТАТЬ ИЗ-ПОД ЗЕМЛИ,doßtatj is-pod semli,Etw. aus der Erde herausnehmen. ,"Sich etw. mit beliebigen Mitteln, auf beliebige Weise verschaffen.","bis ans Ende der Welt laufen, um etw. zu bekommen"
+128,ДО УПАДУ,do upadu,Bis zum Umfallen.,Bis zu völliger Erschöpfung.,bis zum Umfallen
+129,ДОХОДИТЬ ДО чьих-либо УШЕЙ,dochoditj do (tschjich-libo) uschej,Bis zu j-s Ohren gelangen.,J-m bekannt werden.,j-m zu Ohren kommen
+130,ДРОЖИТ КАК ОСИНОВЫЙ ЛИСТ,droshit kak oßinowyi lißt,Er zittert wie ein Espenblatt.,Er ist sehr stark erregt (vor Furcht). ,er zittert wie Espenlaub
+131,ДУША НАРАСПАШКУ,duscha naraßpaschku,Die Seele aufgeknöpft.,"Ein aufrichtiger, gerader, offenherziger Mensch.",er trägt sein Herz auf der Zunge
+132,ДУША HE НА МЕСТЕ,duscha ne na meßte,Herz nicht am (rechten) Fleck.,"Aufgeregt, sehr unruhig sein.",
+133,ДУША УШЛА В ПЯТКИ,duscha uschla w pjatki,Das Herz fuhr (ihm) in die Ferse.,Sehr erschreckt sein durch ein Ereignis; große Furcht empfinden.,das Herz rutschte (ihm) in die Hose
+134,ДЫРЯВАЯ ГОЛОВА,dyrjawaja golowa,Ein durchlöcherter Kopf.,"J-d mit sehr schlechtem Gedächtnis; ein sehr vergeßlicher, sehr zerstreuter Mensch.",ein Gedächtnis wie ein Sieb
+135,ЕСТЬ ЕЩЁ ПОРОХ В ПОРОХОВНИЦАХ,jeßtj jestscho poroch w porochownizach,Noch ist Pulver in den Pulvertaschen.,"J-d ist voller Energie, voller Kampfkraft, voll von Leistungswillen.",noch ist nicht alles Pulver verschossen
+136,ЕХАТЬ ЗАЙЦЕМ,jechatj sajzem,Als Hase fahren.,"Ein Verkehrsmittel benutzen, ohne zu bezahlen.",als blinder Passagier fahren; schwarzfahren
+137,ЖДАТЬ У МОРЯ ПОГОДЫ,shdatj u morja pogody,Am Meer auf das Wetter warten.,Sich vagen Hoffnungen hingeben; in passiver Haltung auf etw. warten.,
+138,ЖИТЬ ДУША В ДУШУ,shitj duscha w duschu,Seele in Seele leben.,In bestem Einvernehmen leben.,ein Herz und eine Seele sein
+139,ЖИТЬ КАК КОШКА С СОБАКОЙ,shitj kak koschka ß ßobakoj,Wie die Katze mit dem Hund leben.,In ständiger Feindschaft leben; sich ständig zanken.,wie Hund und Katze miteinander leben
+140,ЖИТЬ КАК НА ВУЛКАНЕ,shitj kak na wulkane,Wie auf einem Vulkan leben.,In ständiger Erwartung von Unannehmlichkeiten leben.,wie auf einem Pulverfass sitzen
+141,ЖИТЬ НА ШИРОКУЮ НОГУ,shitj na schirokuju nogu,Auf breitem Fuß leben.,"Ein reiches, luxuriöses Leben führen.",auf großem Fuß leben
+142,ЖИТЬ ПРИПЕВАЮЧИ,shitj pripewajutschi,Singend leben.,"Ein sorgloses Leben führen, fröhlich und angenehm leben.",in Saus und Braus leben
+143,ЗАБЛУДИТЬСЯ В ТРЁХ СОСНАХ,sabluditza w trjoch ßoßnach,Sich zwischen drei Kiefern verirren.,Aus einer einfachen Situation keinen Ausweg finden.,
+144,ЗАВАРИТЬ КАШУ,sawaritj kaschu,Sich einen Brei einrühren.,Sich etw. Unangenehmes einbrocken.,sich eine Suppe einbrocken
+145,ЗАГЛЯДЫВАТЬ В ДУШУ,sagljadywatj w duschu,Einen Blick in die Seele werfen.,J-s geheime Gedanken und Gefühle zu erfahren suchen.,j-m ins Herz sehen
+146,ЗАГОВАРИВАТЬ ЗУБЫ,sagowariwatj suby,Zahnweh besprechen.,Ablenkende Gespräche führen; j-n beschwatzen.,
+147,ЗАДАТЬ ПЕРЦУ,sadatj perzu,Pfeffer geben.,"J-n rügen oder strafen, indem man ihm gegenüber die eigene Stärke deutlich macht. ",j-m die Hölle heiß machen
+148,ЗАДЕТЬ ЗА ЖИВОЕ,sadetj sa shiwoje,Das Lebendige berühren.,J-n empfindlich treffen; j-s Stolz beleidigen.,den wunden Punkt berühren
+149,ЗАДИРАТЬ HOC,sadiratj noß,Die Nase hochheben.,Überheblich werden; stolz / wichtig tun.,die Nase hochtragen
+150,ЗАЙТИ В ТУПИК,sajti w tupik,In eine Sackgasse gehen.,"In eine schwierige, ausweglose Lage geraten.",in eine Sackgasse geraten
+151,ЗАКИНУТЬ УДОЧКУ,sakinutj udotschku,Die Angel auswerfen.,Durch vorsichtige Bemerkungen etw. auszukundschaften versuchen,seine Fühler ausstrecken
+152,ЗАКОЛДОВАННЫЙ КРУГ,sakoldowannyj krug,Ein Zauberkreis.,"Eine ausweglose Lage; ein solches Zusam­mentreffen von Umständen, aus dem ein Ausweg schwer zu finden ist.",
+153,ЗАКРАДЫВАТЬСЯ В ДУШУ,sakradywatza w duschu,Sich in die Seele einschleichen.,"Unbemerkt, allmählich entstehen.","Gefühle, Gedanken"
+154,ЗАКРЫВАТЬ на что-либо ГЛАЗА,sakrywatj (na tschto-libo) glasa,Einer Sache gegenüber die Augen verschließen. ,Absichtlich einer Sache keine Aufmerksamkeit widmen.,die Augen vor etw. verschließen
+155,ЗАМЕСТИ СЛЕДЫ,sameßti ßledy,Die Spuren zuwehen.,"Das, was als Beweisstück dienen könnte, beseitigen.",die Spuren verwischen
+156,ЗАМКНУТЬСЯ В СЕБЕ,samknutza w ßebe,Sich in sich verschließen.,Sich zurückziehen; die Menschen fliehen.,
+157,ЗАМОРИТЬ ЧЕРВЯЧКА,samoritj tscherwjatschka,Ein Würmchen vertilgen.,Mit einem kleinen Imbiß den größten Hunger stillen.,einen Bissen zu sich nehmen; einen Happen essen.
+158,ЗАРУБИТЬ НА НОСУ,sarubitj na noßu,In die Nase einkerben; eine Kerbe in die Nase machen.,Sich etw. gut merken; sich etw. fest einprägen.,sich etw. hinter die Ohren schreiben
+159,ЗАТКНУТЬ ЗА ПОЯС,satknutj sa pojaß,Hinter den Gürtel stecken.,J-m überlegen sein; j-n übertreffen.,j-n in die Tasche stecken
+160,ЗВЁЗД С НЕБА НЕ ХВАТАЕТ,swjosd ß neba ne chwatajet,Er greift die Sterne nicht vom Himmel.,Er zeichnet sich durch nichts Besonderes aus; er hat mittelmäßige Fähigkeiten.,j-d ist kein großes Licht
+161,ЗЕЛЁНАЯ УЛИЦА,seljonaja uliza,Grüne Straße.,Es gibt keine Hindernisse für j-n in etw.,grünes Licht
+162,ЗНАТЬ что-либо ВДОЛЬ И ПОПЕРЁК,snatj (tschto-libo) wdolj i poperjok,Etw. kreuz und quer kennen. ,Etw. bis in die Feinheiten genau kennen.,etw. in- und auswendig kennen; etw. aus dem Effeff kennen
+163,ЗНАТЬ ВСЕ ХОДЫ И ВЫХОДЫ,snatj wße chody i wychody,Alle Ein- und Ausgänge kennen.,"Sich sehr genau in einer Sache auskennen; genau wissen, was in einer bestimmten Situation zu tun ist.",alle Schliche kennen
+164,ЗНАТЬ КАК СВОИ ПЯТЬ ПАЛЬЦЕВ,snatj kak ßwoi pjatj paljzew,Wie seine fünf Finger kennen.,"Etw. ausgezeichnet, gründlich kennen.",etw. wie seine Westentasche kennen
+165,ЗНАТЬ МЕРУ,snatj meru,Das Maß kennen.,Die Grenzen seiner Möglichkeiten kennen; maßvoll sein; maßhalten.,
+166,ЗОЛОТАЯ СЕРЕДИНА,solotaja ßeredina,Die goldene Mitte.,"Eine Handlungsweise, die kein Risiko eingeht.",der goldene Mittelweg
+167,ЗОЛОТОЕ ДНО,solotoje dno,Der goldene Boden.,"Eine reiche, unerschöpfliche Einkommensquelle.",eine Goldgrube
+168,ЗОЛОТЫЕ РУКИ,solotyje ruki,Goldene Hände.,"Ein Meister seines Fachs; ein sehr geschickter Mensch, unter dessen Händen alles gelingt, was er beginnt.",
+169,ЗОНДИРОВАТЬ ПОЧВУ,sondirowatj potschwu,Den Boden sondieren.,"J-n aushorchen; j-s Meinung, die Situation auskundschaften, um die eigenen Erfolgsaussichten abzuschätzen.",
+170,ИГРАТЬ ПЕРВУЮ СКРИПКУ,igratj perwuju ßkripku,Die erste Geige spielen.,Eine führende Rolle in einem Kreis oder bei einer Sache spielen.,die erste Geige spielen
+171,ИГРАТЬ С ОГНЁМ,igratj ß ognjom,Mit dem Feuer spielen.,"Unvorsichtig handeln, ohne an die Folgen zu denken.",mit dem Feuer spielen
+172,ИДТИ В ГОРУ,idti w goru,Bergauf gehen.,Erfolgreich sein. Karriere machen.,
+173,ИДТИ В ОГОНЬ И В ВОДУ,idti w ogonj i w wodu,Ins Feuer und ins Wasser gehen.,Eine selbstlose Handlung begehen.,für j-n durchs Feuer gehen
+174,ИДТИ КУДА ГЛАЗА ГЛЯДЯТ,idti kuda glasa gljadjat,Gehen wohin die Augen sehen.,Ohne ein bestimmtes Ziel gehen.,immer der Nase nach gehen
+175,ИДТИ НА ПОВОДУ,idti na powodu,Am Zügel gehen.,In seinem Tun von j-m abhängig sein.,am Gängelband geführt werden
+176,ИДТИ ПО чьим-либо СТОПАМ,idti po (tschjim-libo) ßtopam,Nach j-s Fuß gehen.,J-m etw. nachmachen; j-s Beispiel folgen.,in j-s Fußstapfen treten
+177,ИДТИ ПРОТИВ ТЕЧЕНИЯ,idti protiw tetschenija,Gegen die Strömung gehen.,"Der vorherrschenden Meinung, der Tradition zuwiderhandeln.",gegen den Strom schwimmen
+178,ИЗЛИТЬ ДУШУ,islitj duschu,Die Seele ausgießen.,"J-m offen erzählen, was einen bewegt.",j-m sein Herz ausschütten
+179,ИЗМЕРИТЬ кого-либо ВЗГЛЯДОМ,ismeritj (kowo-libo) wsgjadom,J-n mit dem Blick messen.,"J-n hochmütig, verächtlich betrachten.",
+180,ИЗ ОДНОГО ТЕСТА,is odnowo teßta,Aus demselben Teig (gemacht).,"Einen ähnlichen Charakter, ähnlich Ansichten haben wie die anderen.",aus demselben Holz geschnitzt
+181,ИЗ РЯДА ВОН ВЫХОДЯЩИЙ,is rjada won wychodjastschij,Aus der Reiche hinausgehend.,"Außergewöhnlich, hervorragend.",
+182,ИМЕТЬ ВЕС,imetj weß ,Gewicht haben.,Einfluß haben; Autorität besitzen.,Gewicht haben
+183,ИМЕТЬ ГОЛОВУ НА ПЛЕЧАХ,imetj golowu na pletschach,Den Kopf auf den Schultern haben.,Ein heller Kopf sein; Verstand haben.,Köpfchen haben
+184,ИСКАТЬ ВЧЕРАШНИЙ ДЕНЬ,ißkatj wtscheraschnij denj,Den gestrigen Tag suchen.,Etw. unwiederbringlich Vergangenes zu finden hoffen.,den gestrigen Tag suchen
+185,ИСКАТЬ / НЕ НАЙТИ ДНЁМ С ОГНЁМ,ißkatj / ne najti dnjom ß ognjom,Am Tag mit Licht suchen / nicht zu finden sein.,Etw. ist sehr schwer zu finden.,
+186,ИСКАТЬ ИГОЛКУ В СТОГЕ СЕНА,ißkatj igolku w ßtoge ßena,Eine Nadel im Heuschober suchen.,Einen kleinen Gegenstand unter einer Fülle anderer Gegenstände suchen; einen Menschen in einer Menschenmenge suchen.,eine Stecknadel im Heuhaufen suchen
+187,ИСКРЫ ИЗ ГЛАЗ ПОСЫПАЛИСЬ,ißkry is glas posypalißj,Funken regneten aus den Augen.,Durch einen schmerzhaft starken Schlag auf den Kopf beginnt es in den Augen zu flimmern,j-d sieht Sterne
+188,ИСПИТЬ ЧАШУ ДО ДНА,ißpitj tschaschu do dna,Den Becher bis auf den Grund austrinken.,Kummer bis zum Äußersten leiden müssen.,den Kelch bis zur Neige leeren
+189,ИСПОРТИТЬ ВСЮ МУЗЫКУ,ißportitj wßju musyku,Die ganze Musik verderben.,"J-m den ganzen Plan vermasseln, einer Sache schaden.",
+190,И УХОМ HE ВЕДЁТ,i uchom ne wedjot,Er bewegt nicht einmal das Ohr.,Er schenkt der Sache keinerlei Beachtung; er macht sich nichts daraus.,er zuckt nicht mit der Wimper
+191,ИЩИ ВЕТРА В ПОЛЕ,istschi wetra w pole,Suche den Wind auf dem Feld.,Nutzloses Suchen nach etw.,
+192,КАК АРШИН ПРОГЛОТИЛ,kak arschin proglotil,Als hätte er einen Arschin verschluckt.,Er hält sich unnatürlich gerade.,als hätte er einen Stock verschluckt
+193,КАК БЕЗ РУК,kak bes ruk,Gleichsam ohne Hände.,Völlig hilflos.,
+194,КАК В АПТЕКЕ,kak w apteke,Wie in der Apotheke.,Sehr genau.,
+195,КАК В ВОДУ ГЛЯДЕЛ,kak w wodu gljadel,Als hätte er ins Wasser gesehen.,Als hätte er es vorher gewußt.,
+196,КАК В ВОДУ ОПУЩЕННЫЙ,kak w wodu opustschennyj,Wie ins Wasser getaucht.,"Deprimiert, niedergedrückt.",wie ein begossener Pudel
+197,КАК ВЕТРОМ СДУЛО,kak wetrom ßdulo, Wie vom Wind fortgeweht.,J-d ist unverhofft und augenblicklich verschwunden.,wie weggeblasen
+198,КАК ГОРА С ПЛЕЧ СВАЛИЛАСЬ,kak gora ß pletsch ßwalilaßj,Gleichsam ein Berg von den Schultern gestürzt.,Sehr erleichtert sein.,ihm ist ein Stein vom Herzen gefallen
+199,КАК ГРОМ СРЕДИ ЯСНОГО НЕБА,kak grom ßredi jasnowo neba,Wie ein Donner mitten am klaren Himmel.,"Unerwartet, plötzlich.",wie ein Blitz aus heiterem Himmel
+200,КАК ДВАЖДЫ ДВА ЧЕТЫРЕ,kak dwashdy dwa tschetyre,Wie zweimal zwei vier ist.,"Völlig klar, unumstritten.","so, wie zweimal zwei vier ist"
+201,КАК ДВЕ КАПЛИ ВОДЫ,kak dwe kapli wody,Wie zwei Wassertropfen.,Sehr ähnlich.,wie ein Ei dem anderen
+202,КАК ЗА КАМЕННОЙ СТЕНОЙ,kak sa kamennoj ßtenoj,Gleichsam hinter einer Steinmauer. ,Sich unter j-s zuverlässigem Schutz befinden.,
+203,КАК ИЗ-ПОД ЗЕМЛИ ВЫРОС,kak iß-pod semli wyroß,Gleichsam aus der Erde gewachsen.,"J-d ist plötzlich, unerwartet erschienen.",
+204,КАК ИЗ РОГА ИЗОБИЛИЯ,kak is roga isobilija,Wie aus dem Füllhorn.,"In großer Menge, unerschöpflich.",
+205,КАК КОРОВА ЯЗЫКОМ СЛИЗАЛА,kak korowa jasykom ßlisala,Als hätte die Kuh es mit der Zunge weggeleckt.,"J-d, etw. ist schnell und spurlos verschwunden.",
+206,КАК НА ИГОЛКАХ,kak na igolkach,Wie auf Nadeln.,"Sehr beunruhigt, nervös sein.",wie auf Nadeln sitzen
+207,КАК НЕБО ОТ ЗЕМЛИ,kak nebo ot semli,(Ein Unterschied) wie Himmel und Erde.,Sich sehr deutlich voneinander unterscheiden.,ein himmelweiter Unterschied
+208,КАК ОБ СТЕНКУ ГОРОХ,kak ob ßtenku goroch,Wie die Erbse von der Wand.,Wirkungslos an j-m abprallen.,wie gegen eine Wand reden
+209,КАК ПО МАСЛУ,kak po maßlu,Wie über Butter.,"Ohne Schwierigkeiten, reibungslos.",wie geschmiert
+210,КАК ПО НОТАМ РАЗЫГРАТЬ,kak po notam rasygratj,Wie nach Noten spielen.,Etw. ohne Schwierigkeiten nach einem sorgfältig ausgearbeiteten Plan tun.,es geht wie nach Noten
+211,КАК РУКОЙ СНЯЛО,kak rukoj ßnjalo,Gleichsam mit der Hand weggenommen.,"Auf einmal völlig verschwunden, vergangen (Schmerzen, Müdigkeit).",wie weggewischt
+212,КАК РЫБА В ВОДЕ,kak ryba w wode,Wie ein Fisch im Wasser.,"Sich frei, sehr angenehm fühlen.",sich wie ein Fisch im Wasser fühlen; j-d ist in seinem Element
+213,КАК С ГУСЯ ВОДА,kak ß gußja woda,Wie das Wasser von der Gans. ,Es macht j-m nichts aus; es läßt j-n kalt.,das gleitet an ihm ab
+214,КАК СЕЛЬДЕЙ В БОЧКЕ,kak ßeljdej w botschke,Wie die Heringe im Faß.,"Dicht gedrängt, nicht durchzukommen (durch die Menschenmenge).",wie die Heringe
+215,КАК СКВОЗЬ ЗЕМЛЮ ПРОВАЛИЛСЯ,kak ßkwosj semlju prowalilßja,Als wäre er durch die Erde gefallen.,Spurlos verschwunden.,wie vom Erdboden verschluckt
+216,КАК СНЕГ НА ГОЛОВУ,kak ßneg na golowu,Wie Schnee auf den Kopf.,"Völlig unerwartet, ganz plötzlich.",wie ein Blitz aus heiterem Himmel
+217,КАК ЧЁРТ ОТ ЛАДАНА,kak tschort ot ladana,Wie der Teufel vor dem Weihrauch (fliehen).,Sich mit allen Kräften vor j-m oder etw. zu retten suchen.,etw. furchten wie der Teufel das Weihwasser
+218,КАМЕНЬ НА СЕРДЦЕ,kamenj na ßerze,Ein Stein auf dem Herzen.,"J-d empfindet ein quälendes, bedrückendes Gefühl.",etw. liegt j-m schwer auf der Seele
+219,КАМЕНЬ С ДУШИ СВАЛИЛСЯ,kamenj ß duschi ßwalilßja,Ein Stein ist von der Seele gefallen.,"J-d empfindet ein Gefühl seelischer Erleichterung, der Erlösung von etw. Quälendem.",j-m fiel ein Stein vom Herzen
+220,КАМНЯ НА КАМНЕ HE ОСТАВИТЬ,kamnja na kamne ne oßtawitj,Einen Stein nicht auf dem (anderen) Stein lassen.,"Etw. scharf kritisieren, kein Argument gelten lassen.",keinen Stein auf dem anderen lassen
+221,КАПЛЯ В МОРЕ,kaplja w more,Ein Tropfen im Meer.,Eine verschwindend kleine Menge (im Vergleich zu etw.).,ein Tropfen auf den heißen Stein
+222,КАТАТЬСЯ КАК СЫР В МАСЛЕ,katatza kak syr w maßle,Sich wie der Käse in der Butler wälzen.,"Im Zufriedenheit, im Wohlstand leben.",wie die Made im Speck leben
+223,КАТИТЬСЯ ПОД ГОРУ,katitza pod goru,Bergab rollen.,Sich in negativer Weise entwickeln; sich verschlechtern. ,bergab gehen
+224,КАШИ НЕ СВАРИШЬ с кем-либо,kaschi ne ßwarisch (ß kem-libo),Mit j-m kann man keinen Brei kochen.,Sich mit j-m nicht einigen können; nicht übereinkommen mit j-m.,mit j-m nicht unter einen Hut kommen
+225,КИДАЕТ В ЖАР,kidajet w shar,J-d wird in Hitze geworfen.,J-d gerät in starke Erregung; j-d wird sehr aufgeregt.,es überkommt j-n heiß
+226,КЛЕВАТЬ НОСОМ,klewatj noßom,Mit der Nase picken.,Einnicken; fur einen Moment leicht einschlafen.,
+227,КЛИН КЛИНОМ ВЫШИБАТЬ,klin klinom wyschibatj,Einen Keil mit einem (anderen) Keil herausschlagen.,Ein Übel durch ein anderes bekämpfen.,den Teufel mit Beelzebub austreiben
+228,КОГДА РАК СВИСТНЕТ,kogda rak ßwißnet,Wenn der Krebs pfeift.,"Unbekannt wann, niemals.",wenn Ostern und Pfingsten auf einen Tag fallen; am Nimmerleinstag
+229,КОТ НАПЛАКАЛ,kot naplakal,Der Kater hat Tränen vergossen.,Sehr wenig; eine ganz geringe Anzahl.,einen Fingerhut voll
+230,КОШКИ СКРЕБУТ НА ДУШЕ,koschki ßkrebut na dusche,Katzen scharren an der Seele.,Innerlich erregt sein; schwer ums Herz sein.,"Sorge, Kummer nagt an j-m"
+231,КРАЕУГОЛЬНЫЙ КАМЕНЬ,krajeugoljnyj kamenj,Der Eckstein.,"Der wesentliche Teil; die Grundidee, der Ausgangspunkt.",
+232,КРАСИВЫЙ ЖЕСТ,kraßiwyj sheßt,Eine schöne Geste.,"Eine berechnend ausgeführte Handlung, durch die ein guter Eindruck erweckt werden soll.",eine schöne Geste
+233,КРАСНЫЙ КАК РАК,kraßnyj kak rak,Rot wie ein Krebs.,"J-d hat intensive Gesichtsröte, besonders durch starke Erregung oder Scham.",krebsrot
+234,КРЕПКИЙ ОРЕШЕК,krepkij oreschek,Eine harte Nuß.,Eine schwer lösbare Aufgabe: ein schwer zugänglicher Mensch.,eine harte Nuß; ein harter Brocken
+235,КРИЧАТЬ о чём-либо НА ВСЕХ ПЕРЕКРЁСТКАХ,kritschatj (o tschom-libo) na wßech perekrjoßtkach,Etw. an allen Kreuzungen ausschreien. ,"Etw. überall und jedem erzählen, etw. ausposaunen.",etw. in alle Welt posaunen
+236,КРОВЬ С МОЛОКОМ,krowj ß molokom,Blut mit Milch.,Ein gesunder Mensch mit prächtiger Gesichtsfarbe.,Milch und Blut
+237,"КТО В ЛЕС, КТО ПО ДРОВА","kto w leß, kto po drowa","Der eine in den Wald, der andere nach Brennholz.","Unharmonisch, uneinheitlich handeln (meist beim Singen und Musizieren)","der eine sagt hü, der andere hott"
+238,КУДА ВЕТЕР ДУЕТ,kuda weter dujet,Wohin der Wind weht.,Die Meinung unter dem Gesichtspunkt des eigenen materiellen Vorteils ändern.,den Mantel nach dem Wind hängen
+239,КУПИТЬ КОТА В МЕШКЕ,kupitj kota w meschke,Den Kater im Sack kaufen.,"Etw. erwerben, ohne über dessen Eigenschaften unterrichtet zu sein.",die Katze im Sack kaufen
+240,КУРАМ НА СМЕХ,kuram na ßmech,Den Hühnern zum Gelächter.,"Unsinnig, absurd; zum Lachen.",da lachen ja die Hühner
+241,КУСАТЬ СЕБЕ ЛОКТИ,kußatj ßebe lokti,Sich in die Ellenbogen beißen.,Sich über einen Mißerfolg ärgern.,
+242,ЛЁГКАЯ РУКА,ljochkaja ruka,Eine leichte Hand.,J-d zeichnet sich durch großes Geschick aus.,eine glückliche Hand haben
+243,ЛЁГОК НА ПОДЪЁМ,Ijogok na podjom,Leicht in Schwung.,J-d kommt leicht in Bewegung; j-d ist schnell entschlossen.,
+244,ЛЁД ТРОНУЛСЯ,ljod tronulßja,Das Eis hat sich bewegt.,Der Anfang ist gemacht.,der Grundstein ist gelegt
+245,ЛЕЗТЬ В БУТЫЛКУ,lestj w butylku,In die Flasche kriechen.,Sich grundlos oder wegen einer Bagatelle erzürnen.,auf die Palme gehen
+246,ЛЕЗТЬ В ДУШУ,lestj w duschu,In die Seele kriechen.,Die Gedanken und Gefühle eines anderen aufdringlich zu erkennen versuchen. ,
+247,ЛЕЗТЬ ИЗ КОЖИ ВОН,lestj is koshi won,Aus der Haut kriechen.,Großen Eifer an den Tag legen; sich sehr bemühen.,alles daransetzen
+248,ЛИТЬ ВОДУ НА чью-либо МЕЛЬНИЦУ,litj wodu na (tschju-libo) meljnizu,Wasser auf j-s Mühle gießen.,J-n durch eigenes Tun doch gegen den eigenen Willen unterstützen.,das ist Wasser auf j-s Mühle
+249,ЛИТЬ КАК ИЗ ВЕДРА,litj kak is wedra,Wie aus dem Eimer gießen.,"Von starkem, strömendem Regen.",es gießt wie aus Kannen
+250,ЛИТЬ КРОКОДИЛОВЫ СЛЁЗЫ,krokodilowy ßljosy,Krokodilstränen vergießen.,"Geheuchelte Tränen weinen, geheucheltes Bedauern bekunden. ",Krokodilstränen weinen
+251,ЛОВИТЬ НА ЛЕТУ,lowitj na letu,Im Flug auffangen. ,Begierig lauschen; schnell erfassen; schnell begreifen.,
+252,ЛОВИТЬ кого-либо НА СЛОВЕ,lowitj (kowo-llbo) na ßlowe,J-n beim Wort ertappen.,"Von j-m erwarten, daß er das tut, was er versprochen hat.",j-n beim Wort nehmen
+253,ЛОВИТЬ РЫБУ В МУТНОЙ ВОДЕ,lowitj rybu w mutnoj wode,Einen Fisch im trüben Wasser fangen.,Seinen Vorteil aus j-s Bemühungen ziehen; unklare Umstände zum eigenen Vorteil ausnützen.,im trüben fischen
+254,ЛОМАТЬ ГОЛОВУ над чем-либо,lomatj golowu (nad tschem-libo),Den Kopf über etw. zerbrechen.,Angestrengt nachdenken; etw. Kompliziertes verstehen wollen.,sich den Kopf über etw. zerbrechen
+255,ЛОМАТЬ КОПЬЯ,lomatj kopja,Lanzen zerbrechen.,Um etw. kämpfen; hitzig wegen etw. streiten.,
+256,ЛОМИТЬСЯ В ОТКРЫТУЮ ДВЕРЬ,lomitza w otkrytuju dwerj,Gewaltsam durch eine offene Tür eindringen.,"Etw. behaupten, was niemand bezweifelt.",offene Türen einrennen
+257,ЛОПНУТЬ КАК МЫЛЬНЫЙ ПУЗЫРЬ,lopnutj kak myljnyj pusyrj,Wie eine Seifenblase zerplatzen.,Etw. das keiner ernsten Prüfung standhält.,wie eine Seifenblase zerplatzen
+258,МАСТЕР НА ВСЕ РУКИ,maßter na wße ruki,Ein Meister in allen Händen.,"Ein vielseitiger, sehr geschickter Mensch.",
+259,МАХНУТЬ РУКОЙ,machnutj rukoj,Mit der Hand abwinken.,"Auf etw. verzichten, etw. aufgeben",
+260,МЕДВЕДЬ НА УХО НАСТУПИЛ,medwedj na ucho naßtupil,Der Bär ist j-m aufs Ohr getreten.,J-d hat absolut kein musikalisches Gehör.,
+261,МЕДВЕЖЬЯ УСЛУГА,medweshja ußluga,Ein Bärendienst.,"Ungeschickte Hilfe; ein ungewollt schlechter, zweifelhafter Dienst.",ein Bärendienst
+262,МЕНЯТЬ КУКУШКУ НА ЯСТРЕБА,menjatj kukuschku na jaßtreba,Einen Kuckuck gegen einen Habicht tauschen.,"Einen schlechten Tausch machen, sich in seinen Berechnungen irren.",
+263,МЕРИТЬ НА СВОЙ АРШИН,meritj na swoj arschin,"Nach dem eigenen Arschin (altes russisches Längenmaß, 71,1 cm) messen.",Über alle nur nach den eigenen Vorstellungen urteilen.,mit eigenem Maßstab messen
+264,МЕТАТЬ ГРОМЫ И МОЛНИИ,metatj gromy i molnii,Donner und Blitze schleudern.,J-n streng rügen; j-n zornig und erregt  beschuldigen.,Gift und Galle speien
+265,МИР ТЕСЕН,mir teßen,Die Welt ist klein.,überall kann man unerwartet Bekannten begegnen.,die Welt ist ein Dorf
+266,МНОГО ВОДЫ УТЕКЛО,mnogo wody uteklo,Viel Wasser ist (seither) geflossen. ,Viel Zeit ist vergangen: es hat sich viel geändert,seitdem ist schon viel Wasser hinuntergeflossen
+267,МОРЕ ПО КОЛЕНО,more po koleno,Das Meer ist knietief.,J-d fürchtet sich vor nichts.,
+268,МОТАТЬ СЕБЕ НА УС,motatj ßebe na uß,Sich etw. in den Schnurrbart wickeln.,Sich etw. gut merken.,sich etw. hinter die Ohren schreiben
+269,МОЯ ХАТА С КРАЮ,moja chata ß kraju,Meine Hütte steht am Rande (des Ortes).,Das geht mich nichts an; ich weiß von nichts.,mein Name ist Hase
+270,МУРАШКИ БЕГАЮТ ПО СПИНЕ,muraschki begajut po ßpine,Ameisen laufen j-m über den Rücken.,"J-n überläuft ein Schauder; j-d hat Schüttelfrost (vor Angst, Erregung).",es läuft j-m kalt über den Rücken
+271,МУТИТЬ ВОДУ,mutitj wodu,Das Wasser trüben.,"Etw. vorsätzlich stören, etw. durcheinanderbringen.",
+272,МУХИ НЕ ОБИДИТ,muchi ne obidit,Er beleidigt keine Fliege.,"Ein ruhiger, gutmütiger Mensch.",er tut keiner Fliege etw. zuleide
+273,МЫШИНАЯ ВОЗНЯ,myschinaja wosnja,Mäusespektakel. ,"Kleinliche, nichtige Scherereien.",
+274,НАБИТЬ РУКУ,nabitj ruku,Schwielen an der Hand bekommen.,Fertigkeit. Geschick in etw. erlangen.,
+275,НАБРАТЬ В РОТ ВОДЫ,nabratj w rot wody,Wasser in den Mund nehmen.,Stillschweigen bewahren.,stumm wie ein Fisch sein; ein Schloß vor dem Mund haben
+276,НА ВЕС ЗОЛОТА,na weß soIota,Etw. wird mit Gold aufgewogen.,"Sehr kostbar, sehr teuer.",das ist Goldes wert
+277,НАВОСТРИТЬ ЛЫЖИ,nawoßtritj lyshi,Die Schier spitzen.,Die Absicht haben davonzulaufen; fortlaufen.,sich auf und davon machen
+278,НАВОСТРИТЬ УШИ,nawoßtritj uschi,Die Ohren spitzen.,Mit gespannter Aufmerksamkeit zuhören; lauschen.,die Ohren spitzen
+279,НАВЯЗНУТЬ В ЗУБАХ,nawjasnutj w subach,In den Zähnen hängenbleiben.,überdrüssig; zuwider werden.,zum Halse heraushängen
+280,НАДЕЯТЬСЯ КАК НА КАМЕННУЮ ГОРУ,nadejatza kak na kamennuju goru,Vertrauen wie auf einen Berg von Stein.,Sich voll und ganz auf etw. verlassen; auf etw. vertrauen.,felsenfest auf etw. vertrauen
+281,НАДУТЬ ГУБЫ,nadutj guby,Die Lippen aufblähen.,Schmollen; beleidigt sein.,
+282,НАЖИМАТЬ НА ВСЕ КНОПКИ,nashimatj na wße knopki,Auf alle Knöpfe drücken.,"Alle Möglichkeiten nutzen, um etw. zu erreichen; seine Beziehungen ausnützen.",alle Hebel in Bewegung setzen
+283,НАЖИМАТЬ НА ВСЕ ПЕДАЛИ,nashimatj na wße pedali,Auf alle Pedalen drücken.,"Alle Anstrengungen unternehmen, um etw. zu erreichen.",alle Register ziehen
+284,НАЗЫВАТЬ ВЕЩИ СВОИМИ ИМЕНАМИ,nasywatj westschi ßwoimi imenami,Die Dinge mit ihren Namen nennen.,Ohne Beschönigung und ohne Nachsicht von j-m oder etw. reden. ,die Dinge beim rechten Namen nennen
+285,НАЙТИ СЕБЯ,najti ßebja,Sich selbst finden. ,Die eigenen Neigungen und Interessen verstehen.,zu sich finden
+286,НАКЛЕИВАТЬ ЯРЛЫКИ,nakleiwatj jarlyki,Etiketts an j-n oder elw. kleben. ,"Eine schablonenhafte, skizzenhafte Charakteristik. Bewertung von j-m oder etw. geben.",
+287,НА ЛБУ НАПИСАНО,na lbu napißano,Auf der Stirn geschrieben. ,J-m etw. sofort ansehen.,etw. steht j-m auf der Stirn geschrieben
+288,НАЛОМАТЬ ДРОВ,nalomatj drow,Viel Brennholz brechen. ,Dummheiten machen. Fehler machen. ,
+289,НАМЫЛИТЬ ШЕЮ,namylitj scheju,Den Hals einseifen.,J-n tüchtig auszanken.,j-m den Kopf waschen
+290,НАНЕСТИ УДАР ИЗ-ЗА УГЛА,naneßti udar is-sa ugla,Einen Schlag aus dem Hinterhalt versetzen.,Insgeheim j-m etw. Böses tun.,
+291,НАПУСТИТЬ ТУМАНУ,napußtitj tumanu,Nebel hereinlassen.,Etw. durcheinanderbringen; j-n in die Irre führen.,j-n blauen Dunst vormachen
+292,НАСОЛИТЬ кому-либо,naßolitj (komu-libo),J-m etw. versalzen.,J-m Unannehmlichkeiten bereiten; j-n ärgern.,j-m die Suppe versalzen
+293,НАСТУПАТЬ кому-либо НА ПЯТКИ,naßtupatj (komu-libo) na pjatki,J-m auf die Fersen treten.,J-n einholen; j-m dicht folgen., j-m an die Fersen heften; j-m auf den Fersen sein
+294,НАХОДИТЬСЯ НА ТОЧКЕ ЗАМЕРЗАНИЯ,nachoditza na totschke samersanija,Sich auf dem Gefrierpunkt befinden.,Sich in einem Zustand ohne Bewegung und Entwicklung befinden.,auf dem toten Punkt angelangt sein
+295,НАШЛА КОСА НА КАМЕНЬ,naschla koßa na kamenj,Die Sense ist an einen Stein gestoßen,"Unterschiedliche Meinungen, Interessen, Charaktere u. a. sind zusammengestoßen.",
+296,HE ВИДАТЬ КАК СВОИХ УШЕЙ,ne widatj kak ßwoich uschej,Nicht zu sehen wie die eigenen Ohren.,Etw. nie bekommen. ,
+297,НЕ ВИДЕТЬ ДАЛЬШЕ СВОЕГО НОСА,ne widetj daljsche ßwojewo noßa,Nicht weiter als die eigene Nase sehen. ,"Beschränkt sein; nicht über den eigenen, engen Horizont hinaussehen können.",nicht über die eigene Nasenspitze hinaussehen
+298,НЕ ВИДЕТЬ ЛЕСА ЗА ДЕРЕВЬЯМИ,ne widetj leßa sa derewjami,Den Wald hinter den Bäumen nicht sehen. ,Bei der Fülle von Einzelheiten das Ganze nicht sehen. ,den Wald vor lauter Bäumen nicht sehen
+299,НЕ ВИДЕТЬ СВЕТА БЕЛОГО,ne widetj ßweta belowo,Die weite Welt nicht sehen. ,"Durch Arbeit, Sorgen belastet, bedrückt sein; kein geruhsames Leben kennen.",
+300,НЕ ВЫХОДИТ ИЗ ГОЛОВЫ,ne wychodit is golowy,Es geht nicht aus j-s Kopf.,Immer an etw. Bestimmtes denken müssen.,etw. geht j-m nicht aus dem Kopf
+301,НЕ ЗА ГОРАМИ,ne sa gorami,Nicht hinter den Bergen.,"Etw. ereignet sich in Bälde, in naher Zukunft; etw. steht unmittelbar bevor.",
+302,НЕ ЛЕЗТЬ ЗА СЛОВОМ В КАРМАН,ne lestj sa ßlowom w karman, Nicht nach dem Wort in die Tasche greifen.,Immer eine Antwort wissen.,um eine Antwort nicht verlegen sein
+303,НЕМ КАК РЫБА,nem kak ryba,Stumm wie ein Fisch.,"J-d bewahrt Schweigen, verrät kein Geheimnis.",stumm wie ein Fisch
+304,"НЕ МЫТЬЁМ, ТАК КАТАНЬЕМ","ne mytjom, tak katanjem","Wenn nicht durchs Waschen, dann durchs Rollen.","Wenn nicht auf die eine, dann auf die andere Weise; wenn nicht so, dann so.",
+305,НЕ НАХОДИТЬ СЕБЕ МЕСТА,ne nachoditj ßebe meßta,Keinen Platz für sich finden.,"Sehr aufgeregt, sehr unruhig sein.",
+306,НЕ НЮХАТЬ ПОРОХУ,ne njuchatj porochu,Kein Schießpulver riechen.,Noch nicht im Krieg gewesen sein.,noch kein Pulver gerochen haben
+307,НЕ ОТ МИРА СЕГО,ne ot mira ßewo,Nicht von dieser Welt. ,"Von einem lebensuntüchtigen Menschen, einem Träumer.",
+308,НЕ УДАРИТЬ В ГРЯЗЬ ЛИЦОМ,ne udaritj w grjasj lizom,Nicht mit dem Gesicht in den Schmutz schlagen.,Sich nicht blamieren; sich von der besten Seite zeigen.,seinen Mann stehen
+309,НЕ УМЕТЬ ДВУХ СЛОВ СВЯЗАТЬ,ne umetj dwuch ßlow ßwjasatj,Nicht zwei Wörter verknüpfen können.,Nicht zusammenhängend sprechen können; seine Gedanken nicht vortragen können.,
+310,НЕ ФУНТ ИЗЮМУ,ne funt isjumu,Das ist kein Pfund Rosinen.,Etw. ist (für j-n) keine Kleinigkeit.,das ist doch kein Pappenstiel
+311,НЕЧИСТ НА РУКУ,netschißt na ruku,Er ist nicht sauber an der Hand. ,"Er neigt zu Diebstahl, zu Betrügereien.",er hat klebrige Finger
+312,HE ЧУЯТЬ НОГ ПОД СОБОЙ,ne tschujatj nog pod ßoboj,Keine Beine unter sich fühlen.,In gehobener Stimmung sein; begeistert sein.,
+313,НИ ДВА НИ ПОЛТОРА,ni dwa ni poltora,Weder zwei noch anderthalb. ,"Weder gut noch schlecht, unbekannt wie (etw. ist).",nichts Halbes und nichts Ganzes
+314,НИ ЖИВ НИ МЁРТВ,ni shiw ni mjortw,Weder lebendig noch tot.,"Sehr deprimiert, sehr erschrocken.",mehr tot als lebendig
+315,НИ ЗА КАКИЕ КОВРИЖКИ,ni sa kakije kowrishki,Nicht für irgendwelche Pfefferkuchen.,Auf gar keinen Fall.,um nichts auf der Welt
+316,НИ КОЛА НИ ДВОРА,ni kola ni dwora,Weder einen Pflock noch einen Hof (haben).,Sehr arm sein.,weder Haus noch Hof
+317,НИ К СЕЛУ НИ К ГОРОДУ,ni k ßelu ni k gorodu,Weder zum Dorf noch zur Stadt.,"Völlig unpassend, deplaziert.",
+318,НИ НА ЧТО HE ПОХОЖЕ,ni na tschto ne pochoshe,Das hat mit nichts Ähnlichkeit.,"Das gehört sich nicht, das ist unerhört.",
+319,НИ ПУХА НИ ПЕРА!,ni pucha ni pera!,Weder Flaum noch Feder!,Ich wünsche Erfolg!,Hals- und Beinbruch!
+320,НИ РЫБА НИ МЯСО,ni ryba ni mjaßo,Weder Fisch noch Fleisch.,Nichts Bestimmtes (meist von einer Person),weder Fisch noch Fleisch
+321,НОЖ ОСТРЫЙ,nosh oßtryj,Ein scharfes Messer. ,"Es ist für j-n sehr unangenehm, unerwünscht.",
+322,НОМЕР HE ПРОЙДЁТ,nomer ne projdjot,Die Nummer wird nicht durchgehen.,Das wird nicht gelingen.,
+323,НОСА НЕ ВЫСУНУТЬ,noßa ne wyßunutj,Seine Nase nicht hinausstecken.,"Nicht hinausgehen, sich nicht zeigen.",
+324,НОСИТЬ ВОДУ РЕШЕТОМ,noßitj wodu reschetom,Wasser mit dem Sieb tragen.,"Etw. umsonst tun, sich erfolglos abmühen.",mit einem Sieb Wasser schöpfen
+325,НУЖЕН КАК ПРОШЛОГОДНИЙ СНЕГ,nushen kak proschlogodnij ßneg,Nötig wie der vorjährige Schnee.,"Völlig unnötig, überflüssig.",
+326,ОБВЕСТИ ВОКРУГ ПАЛЬЦА,obweßti wokrug paljza,Um den Finger herumführen.,"J-n täuschen, überlisten. |",j-n hinters Licht führen
+327,ОБЕЩАТЬ ЗОЛОТЫЕ ГОРЫ,obestschatj solotyje gory,Goldene Berge versprechen., J-m große Versprechungen machen. ,j-m goldene Berge versprechen
+328,ОБИВАТЬ ПОРОГИ,obiwatj porogi,Die Türschwellen abnutzen.,"Von Behörde zu Behörde laufen, um irgendeine Angelegenheit durchzusetzen.",
+329,ОБРАТИТЬСЯ HE ПО АДРЕСУ,obratitza ne po adreßu,Sich nicht an die richtige Adresse wenden.,Sich an den falschen Adressaten wenden.,sich an die falsche Adresse wenden
+330,ОДИН КАК ПЕРСТ,odin kak perßt,Allein wie der Finger.,"Mutterseelenallein, ohne Angehörige.",
+331,"ОДНА НОГА ЗДЕСЬ, ДРУГАЯ ТАМ","odna noga sdeßj, drugaja tam","Ein Bein hier, das andere dort.",Blitzschnell irgendwohin laufen und etw. holen.,
+332,ОДНОГО ПОЛЯ ЯГОДА,odnowo polja jagoda,Beeren von demselben Feld.,Von einem Schlag; dasselbe Kaliber.,
+333,ОКАЗАТЬСЯ МЕЖДУ ДВУХ ОГНЕЙ,okasatza meshdu dwuch ognej,Sich zwischen zwei Feuern befinden.,"Sich in einer Lage befinden, in der Gefahr von beiden Seiten droht.",zwischen zwei Feuer geraten
+334,ОКАЗАТЬСЯ МЕЖДУ НЕБОМ И ЗЕМЛЁЙ,okasatza meshdu nebom i semljoj,Sich zwischen Himmel und Erde befinden.,Kein Dach über dem Kopf haben.,
+335,ОКАТИТЬ ХОЛОДНОЙ ВОДОЙ,okatitj cholodnoj wodoj,Mit kaltem Wasser übergießen.,"J-s Eifer, j-s Leidenschaft abkühlen; j-n in Verwirrung stürzen. ",j-m eine kalte Dusche geben
+336,ОКУНУТЬСЯ С ГОЛОВОЙ,okunutza ß golowoj,Mit dem Kopf untertauchen.,Sich einer Sache völlig widmen; in etw. völlig aufgehen.,sich in eine Sache stürzen
+337,ОПУСТИТЬ РУКИ,opußtitj ruki,Die Hände sinken lassen.,"Jedes Interesse an etw, verlieren; aus Verzweiflung untätig werden.",die Hände sinken lassen
+338,ОСТАВИТЬ С НОСОМ,oßtawitj ß noßom,J-n mit einer Nase zurücklassen.,J-n in seinen Erwartungen enttäuschen.,j-m eine Nase drehen
+339,ОСТАТЬСЯ НА БОБАХ,oßtatza na bobach,Auf den Bohnen (sitzen) bleiben.,Das Nachsehen haben; leer ausgehen.,
+340,ОСТАТЬСЯ У РАЗБИТОГО КОРЫТА,oßtatza u rasbitowo koryta,Am zerschlagenen Trog zurückbleiben.,Alles verloren haben; wieder von vorn anfangen müssen; enttäuscht wieder am Anfang stehen.,
+341,ОТКЛАДЫВАТЬ НА ЧЁРНЫЙ ДЕНЬ,otkladywatj na tschornyj denj,Für den schwarzen Tag zurücklegen.,Für den Notfall zurücklegen; einen Notgroschen zurücklegen.,auf die hohe Kante legen
+342,ОТКРЫВАТЬ АМЕРИКУ,otkrywatj ameriku,Amerika entdecken.,Etw. längst Bekanntes sagen.,
+343,ОТКРЫВАТЬ кому-либо ГЛАЗА на кого-либо/что-либо,otkrywatj (komu-libo) glasa (na kowo-libo / tschto-libo),J-m die Augen für j-n oder etw. öffnen.,"J-m helfen, die Lage richtig einzuschätzen; j-n aufklären.",j-m die Augen öffnen
+344,ОТКРЫВАТЬ кому-либо ДУШУ/СЕРДЦЕ,otkrywatj (komu-libo) duschu / ßerze,J-m gegenüber seine Seele / sein Herz öffnen.,Über seine geheimsten Gedanken und Gefühle offen reden; sich j-m anvertrauen.,j-m sein Herz ausschütteln
+345,ОТКРЫВАТЬ СВОИ КАРТЫ,otkrywatj ßwoi karty,Seine Karten aufdecken.,"Seine Gedanken, seine Pläne offen darlegen.",seine Karten offen auf den Tisch legen
+346,ОТКУДА СЫР-БОР ЗАГОРЕЛСЯ,otkuda syr-bor sagorelßja,Deshalb fing der feuchte Wald an zu brennen.,Daraus ist der ganze Streit entstanden; so ist es dazu gekommen.,
+347,ПАЛЕЦ О ПАЛЕЦ НЕ УДАРИТЬ,palez o palez ne udaritj,Einen Finger nicht an den anderen Finger stoßen., Nichts tun (für die Erreichung eines Zieles).,keinen Finger rühren
+348,ПАЛКА О ДВУХ КОНЦАХ,palka o dwuch konzach,Ein Stock hat zwei Enden.,"Von etw., das gut oder schlecht ausgehen kann.",ein zweischneidiges Schwert
+349,ПАЛЬЦА В РОТ НЕ КЛАДИ кому-либо,paljza w rot ne kladi (komu-libo),Leg den Finger nicht in j-s Mund.,Nimm dich vor j-m in acht.,
+350,ПАЛЬЦЕМ кого-либо HE ТРОНУТЬ,paljzem (kowo-libo) ne tronutj,Keinen mit dem Finger berühren. ,J-m nichts zuleide tun.,j-m kein Haar krümmen
+351,ПАЛЬЧИКИ ОБЛИЖЕШЬ,paltschiki oblishesch,Die Fingerchen wirst du dir ablecken.,Von etw. sehr Schmackhaftem.,danach möchte man sich die Finger ablecken
+352,ПЕРВАЯ ЛАСТОЧКА,perwaja laßtotschka,Die erste Schwalbe.,"Die ersten Anzeichen von etw., ein Vorbote.",
+353,ПЕРЕГИБАТЬ ПАЛКУ,peregibatj palku,Den Stock zu sehr biegen.,Etw. übertreiben; überrtrieben hohe Forderungen stellen.,den Bogen überspannen
+354,ПЕРЕЛИВАТЬ ИЗ ПУСТОГО В ПОРОЖНЕЕ,pereliwatj is pußtowo w poroshneje,Aus einem leeren Gefäß in ein anderes gießen.,"Etw. Nutzloses tun, die Zeit nutzlos vergeuden; mit leerem Geschwätz die Zeit verbringen.",leeres Stroh dreschen
+355,ПЕРЕЛОМИТЬ СЕБЯ,perelomitj ßebja,Sich entzweibrechen.,"Sich zwingen, anders zu werden; seinen Charakter, seine Gewohnheiten ändern.",
+356,ПЕРЕМЫВАТЬ КОСТОЧКИ,peremywatj koßtotschki,J-s Knochen waschen.,J-n durchhecheln; über j-n klatschen.,
+357,ПЕРЕПОЛНИТЬ ЧАШУ ТЕРПЕНИЯ,perepolnitj tschaschu terpenija,Den Becher der Geduld zu voll füllen.,Die Geduld überstrapazieren.,das Maß voll machen
+358,ПЕСЕНКА СПЕТА,peßenka ßpeta,Das Liedchen ist gesungen. ,"Das Ende von etw. ist gekommen (von j-s Leben, von der Arbeit u. a.).",mit j-m ist es aus
+359,ПИСАТЬ КАК КУРИЦА ЛАПОЙ,pißatj kak kuriza lapoj,Wie das Huhn mit der Pfote schreiben.,"Unleserlich schreiben, schmieren.",
+360,ПЛАВАТЬ КАК ТОПОР,plawatj kak topor,Wie eine Axt schwimmen.,Sehr schlecht schwimmen; nicht schwimmen können. ,schwimmen wie eine bleierne Ente
+361,ПЛАКАТЬСЯ В ЖИЛЕТКУ,plakatza w shiletku,J-m in die Weste weinen.,"J-m seinen Kummer klagen, um Mitleid zu erregen.",sich an j-s Schulter ausweinen
+362,ПЛАТИТЬ ТОЙ ЖЕ МОНЕТОЙ,platitj toj she monetoj,Mit gleicher Münze zahlen.,Etw. gebührend beantworten.,mit gleicher Münze heimzahlen; Gleiches mit Gleichem vergelten
+363,ПЛЕВАТЬ В ПОТОЛОК,plewatj w potolok,An die Decke spucken.,Faulenzen; nichts tun.,Däumchen drehen
+364,ПЛЕСТИСЬ КАК ЧЕРЕПАХА,pleßtißj kak tscherepacha,Sich wie eine Schildkröte dahinschleppen.,Ganz langsam gehen; schleichen. ,im Schneckentempo gehen
+365,ПЛЫТЬ ПО ТЕЧЕНИЮ,plytj po tetscheniju,Mit der Strömung schwimmen.,Die allgemeine Meinung vertreten; sich den Umstanden anpassen.,mit dem Strom schwimmen
+366,ПОБЫВАТЬ В чьей-либо ШКУРЕ,pobywatj w (tschjej-libo) schkure,Sich in j-s Haut aufhalten.,Sich in j-s Lage befinden (meist einer unangenehmen).,in j-s Haut stecken
+367,ПОГНАТЬСЯ ЗА ДВУМЯ ЗАЙЦАМИ,pognatza sa dwumja sajzami,Zwei Hasen nachjagen,Gleichzeitig zwei Ziele verfolgen.,
+368,ПО ГОРЯЧИМ СЛЕДАМ,po gorjatschim ßledam,Auf heißen Spuren.,Unverzüglich im Anschluß an ein Ereignis.,
+369,ПОДВЕРНУТЬСЯ ПОД РУКУ,podwernutza pod ruku,Plötzlich unter die Hand geraten. ,Zufällig verfügbar sein; greifbar sein.,
+370,ПОДВЕСТИ кого-либо ПОД МОНАСТЫРЬ,podweßti (kowo-libo) pod monaßtyrj,J-n unter das Kloster führen. ,J-m Unannehmlichkeiten bereiten.,j-n in Teufels Küche bringen
+371,ПОДВОДНЫЕ КАМНИ,podwodnyje kamni,Steine unter Wasser.,Versteckte Gefahren; unverhoffte Schwierigkeiten.,gefährliche Klippen
+372,ПОД ГОРЯЧУЮ РУКУ,pod gorjatschuju ruku,Unter einer hitzigen Hand.,"Im Zustand der Erregung, der Gereiztheit (etw. tun).",in der Hitze des Gefechts
+373,ПОДЖАТЬ ХВОСТ,podshatj chwoßt,Den Schwanz einziehen.,Klein beigeben; bescheidener werden,den Schwanz einziehen
+374,ПОДЛИТЬ МАСЛА В ОГОНЬ,podlitj maßla w ogonj,Öl ins Feuer gießen.,Die Beziehungen verschärfen; den Zorn noch mehr entfachen; den Streit schüren.,Öl ins Feuer gießen
+375,ПОДЛОЖИТЬ СВИНЬЮ,podloshitj ßwinju,J-m ein Schwein zuschieben.,J-n hereinlegen; j-m Unannehmlichkeiten bereiten.,j-m ein Bein stellen; j-m einen Knüppel zwischen die Beine werfen
+376,ПОДНЕСТИ ПИЛЮЛЮ,podneßti piljulju,Eine Pille reichen.,"Etw. Unangenehmes, Beleidigendes sagen oder tun. ",j-m eine bittere Pille geben
+377,ПОДНИМАТЬ НА ЩИТ,podnimatj na stschit,Auf den Schild erheben.,Sehr loben; preisen.,
+378,ПОД НОСОМ у кого-либо,pod noßom (u kowo-Iibo),Unter der Nase bei j-m.,In unmittelbarer Nähe.,vor der Nase; vor j-s Augen
+379,ПОДНЯТЬ ВСЕХ НА НОГИ,podnjatj wßech na nogi,Alle auf die Füße stellen.,Zur Tätigkeit anhalten; in Bewegung bringen.,alle auf die Beine bringen
+380,ПОДПИСЫВАТЬСЯ под чем-либо ОБЕИМИ РУКАМИ,podpißywatza (pod tschem-libo) obeimi rukami,Etw. mit beiden Händen unterschreiben.,Bereitwillig seine Zustimmung zu etw. geben.,
+381,ПОДРЕЗАТЬ кому-либо КРЫЛЬЯ,podresatj (komu-libo) krylja,J-m die Flügel beschneiden.,"J-s Freiheit einschränken; j-s Glauben an die eigene Kraft, an die eigenen Möglichkeiten erschüttern.",j-m die Flügel stutzen
+382,ПОД СУРДИНКУ,pod ßurdinku,Mit dem Dämpfer.,"Heimlich, unbemerkt.",
+383,ПОЖИНАТЬ ПЛОДЫ,poshinatj plody,Die Früchte ernten.,Etw. ausnützen; vorliegende Ergebnisse verwenden.,die Früchte ernten
+384,ПОЙМАТЬ НА УДОЧКУ,pojmatj na udotschku,Mit der Angel fangen.,"J-n überlisten, verlocken.",j-n an der Angel haben
+385,"ПОКАЗАТЬ, ГДЕ РАКИ ЗИМУЮТ","pokasatj, gde raki simujut","Zeigen, wo die Krebse den Winter verbringen.",Es j-m zeigen (als Drohung).,"j-m zeigen, was eine Harke ist"
+386,ПОКАЗАТЬ КОГТИ,pokasatj kogti,Die Krallen zeigen.,"J-m gegenüber deutlich machen, daß man ihm eine Abfuhr erteilen kann; eine drohende Haltung annehmen.",die Krallen zeigen; die Zähne zeigen
+387,ПОКАЗАТЬ ПЯТКИ,pokasatj pjatki,Die Fersen zeigen.,Die Flucht ergreifen; davonlaufen; fliehen.,Fersengeld geben
+388,ПОКАЗЫВАТЬ ТОВАР ЛИЦОМ,pokasywatj towar lizom,Die Ware mit der Vorderseite (Schauseite) zeigen. ,Etw. von der besten Seite zeigen; etw. in der vorteilhaftesten Weise darstellen.,
+389,ПОЛНАЯ ЧАША,polnaja tschascha,Ein voller Becher.,Alles ist im Überfluss vorhanden; j-d führt ein luxuriöses Leben.,
+390,ПОЛОЖА РУКУ НА СЕРДЦЕ,polosha ruku na ßerze,Die Hand aufs Herz legend.,Aufrichtig sein; die Wahrheit sagen.,Hand aufs Herz
+391,ПОЛОЖИТЬ ЗУБЫ НА ПОЛКУ,poloshitj suby na polku,Die Zähne ins Fach legen.,"Not leiden, hungern.",am Hungertuch nagen
+392,ПОЛОЖИТЬ кого-либо НА ОБЕ ЛОПАТКИ,poloshitj (kowo-libo) na obe lopatki,J-n auf beide Schulterblätter legen.,"J-n im Streit, im Wettkampf besiegen; j-n bezwingen.",j-n auf die Schultern legen
+393,ПОЛОЖИТЬ что-либо ПОД СУКНО,poloshitj (tschto-libo) pod ßukno,Etw. unters Tuch legen. ,Die Entscheidung von etw. hinausschieben.,etw. auf die lange Bank schieben
+394,ПОПАДАТЬСЯ кому-либо НА ЯЗЫК,popadatza (komu-libo) na jasyk,J-m auf die Zunge geraten.,Gesprächsthema werden; ins Gerede kommen.,
+395,ПО ПАЛЬЦАМ МОЖНО СОСЧИТАТЬ,po paljzam moshno ßoßtschitatj,Man kann es an den Fingern zusammenzählen. ,(Es sind) sehr wenige. ,"j-n, etw. an den Fingern abzählen"
+396,ПОПАСТЬ В ПЕРЕПЛЁТ,popaßtj w perepljot,In den Einband geraten.,"Sich in einer komplizierten, gefährlichen oder unangenehmen Lage befinden.",in die Klemme geraten
+397,ПОПАСТЬ В ТОЧКУ,popaßtj w totschku,Den Punkt treffen.,"Gerade das tun oder sagen, was in einem bestimmten Moment erforderlich ist, was erwartet wird.",den Nagel auf den Kopf treffen; ins Schwarze treffen
+398,ПОПАСТЬ КАК КУР ВО ЩИ,popaßtj kak kur wo stschi,Wie der Hahn in die Kohlsuppe geraten.,In ein unerwartetes Unglück geraten; in eine unangenehme Lage geraten.,in die Klemme geraten
+399,ПОПАСТЬ кому-либо НА ЗУБОК,popaßtj (komu-libo) na subok,J-m aufs Zähnchen geraten.,"Zum Gegenstand der Spöttelei, des Geredes, gehässiger Kritik werden.",
+400,"ПОПАСТЬ HE В БРОВЬ, А В ГЛАЗ","popaßtj ne w browj, a w glas",Nicht in die Braue sondern ins Auge treffen.,"Das Ziel treffen, treffsicher sein (von einem Ausdruck).","den Nagel auf den Kopf treffen, ins Schwarze treffen"
+401,ПОПАСТЬ ПАЛЬЦЕМ В НЕБО,popaßtj paljzem w nebo,Mit dem Finger in den Himmel treffen.,Etw. Unpassendes sagen oder tun.,einen Bock schießen
+402,ПОПАСТЬСЯ НА чью-либо УДОЧКУ,popaßtza na (tschju-libo) udotschku,An j-s Angel geraten.,"Sich überlisten, täuschen lassen; hereinfallen.",j-m auf den Leim gehen
+403,ПОРОХУ НЕ ВЫДУМАЕТ,porochu ne wydumajet,Er wird das Pulver nicht erfinden.,Er ist reichlich dumm; mit ihm ist es nicht weit her.,er hat das Pulver nicht erfunden
+404,ПОРОХУ HE ХВАТАЕТ,porochu ne chwatajet,Das Pulver reicht nicht.,"Es fehlt an Kraft, Willen und Ausdauer zur Erreichung eines Zieles.",j-m geht die Puste aus
+405,ПОСАДИТЬ кого-либо В ГАЛОШУ,poßaditj (kowo-libo) w galoschu,J-n in die Galosche stecken.,"J-n in eine lächerliche, peinliche Lage bringen.",
+406,ПОСЛЕДНИЙ КРИК МОДЫ,poßlednij krik mody,Der letzte Schrei der Mode.,Eine modische Neuheit.,der letzte Schrei
+407,ПОСЛЕДНЯЯ КАПЛЯ,poßlednjaja kaplja,Der letzte Tropfen.,"Das abschließende Ereignis, durch das die Gesamtumstände unerträglich werden.",
+408,ПОСЛЕДНЯЯ СПИЦА В КОЛЕСНИЦЕ,poßlednjaja ßpiza w koleßnize,Die letzte Speiche am Wagen.,"Ein unbedeutender Mensch, ein Niemand.",
+409,ПОСЛЕ ДОЖДИЧКА В ЧЕТВЕРГ,poßle doshditschka w tschetwerg,Am Donnerstag nach dem Regen.,Unbekannt wann.,
+410,ПОСТАВИТЬ ВОПРОС РЕБРОМ,poßtawitj woproß rebrom,Die Frage mit der Kante stellen.,"Eine Frage entschieden, kategorisch stellen; direkt fragen; eine Frage scharf formulieren.",
+411,ПОСТАВИТЬ ВСЁ НА КАРТУ,poßtawitj wßjo na kartu,Alles auf die Karte setzen.,"Ein Risiko, eine Gefahr auf sich nehmen, in der Hoffnung, dadurch etw. Bestimmtes zu erreichen.",alles auf eine Karte setzen
+412,ПОСТАВИТЬ кого-либо В ТУПИК,poßtawitj (kowo-libo) w tupik,J-n in eine Sackgasse stellen.,J-n in Verlegenheit bringen; bei j-m Verwirrung auslösen.,j-n in die Enge treiben
+413,ПОСТАВИТЬ КРЕСТ на ком-либо/чём-либо,poßtawitj kreßt (na kom-libo / tschom-libo),Auf j-n / etw. ein Kreuz setzen.,Den Glauben an j-n / etw. verlieren; sich endgültig von j-m / etw. abwenden; die Hoffnung aufgeben.,
+414,ПОСТАВИТЬ кого-либо НА СВОЁ МЕСТО,poßtawitj (kowo-libo) na ßwojo meßto,J-n an seinen Platz stellen.,"J-m deutlich machen, wer er wirklich ist; j-n zurechtweisen.",j-n in die Schranken weisen
+415,ПОЧИВАТЬ НА ЛАВРАХ,potschiwatj na lawrach,Sich auf den Lorbeeren ausruhen.,Sich mit dem Erreichten zufriedengeben.,sich auf seinen Lorbeeren ausruhen
+416,ПРИБИРАТЬ К РУКАМ,pribiratj k rukam,In die Hände nehmen.,Etw. an sich reißen; sich etw. aneignen.,die Hand auf etw. legen; sich etw. unter den Nagel reißen
+417,ПРИВЕСТИ кого-либо В СЕБЯ,priweßti (kowo-libo) w ßebja,J-n zu sich führen.,J-n von einer Ohnmacht befreien; j-n zur Besinnung bringen.,
+418,ПРИЛОЖИТЬ РУКУ к чему-либо,priloshitj ruku (k tschemu-libo),Seine Hand zu etw. legen.,Sich an etw. (meist Ungebührlichem) beteiligen.,die Hand bei etw. im Spiel haben
+419,ПРИНИМАТЬ ЗА ЧИСТУЮ МОНЕТУ,prinimatj sa tschißtuju monetu,Für reine Münze nehmen.,Etw. als Wahrheit ansehen; etw. ernst nehmen.,etw. für bare Münze nehmen
+420,ПРИПИРАТЬ кого-либо К СТЕНКЕ,pripiratj (kowo-libo) k ßtenke,J-n an die Wand drücken.,"J-n in eine ausweglose Lage bringen, j-n zwingen etw. zu machen oder zu gestehen.",j-n in die Enge treiben
+421,ПРИТЯНУТЬ что-либо ЗА УШИ,pritjanutj (tschto-libo) sa uschi,Etw. an den Ohren heranziehen.,"Etw. ohne ausreichenden Grund, ungerechtfertigt anführen.",etw. an den Haaren herbeiziehen
+422,ПРОБНЫЙ ШАР,probnyj schar,Versuchsballon.,Verfahren zur Klärung eines Sachverhaltes.,ein Versuchsballon
+423,ПРОВАЛИТЬСЯ С ТРЕСКОМ,prowalitza ß treßkom,Mit großem Krach durchfallen.,Einen schmachvollen Mißerfolg erleiden.,mit Pauken und Trompeten durchfallen
+424,ПРОГЛОТИТЬ ПИЛЮЛЮ,proglotitj piljulju,Die Pille schlucken.,Schweigend eine Kränkung hinnehmen.,die bittere Pille schlucken
+425,ПРОГЛОТИТЬ ЯЗЫК,proglotitj jasyk,Die Zunge verschlucken.,"Schweigen, nicht sprechen, nicht antworten.",
+426,ПРОЖУЖЖАТЬ ВСЕ УШИ,proshushshatj wße uschi,J-m in die Ohren vollsummen.,J-n durch beständiges Reden über ein und dasselbe langweilen.,j-m die Ohren vollreden
+427,ПРОЙТИ КРАСНОЙ НИТЬЮ,projti kraßnoj nitju,Als roter Faden durchlaufen.,"Das Wesentliche, der Leitgedanke von etw. sein.",sich wie ein roter Faden durch etw. ziehen
+428,ПРОЙТИ СКВОЗЬ ОГОНЬ И ВОДУ,projti ßkwosj ogonj i wodu,Durch Feuer und Wasser gehen.,"Viel im Leben ertragen, schwierige Situationen durchleben.",mit allen Wassern gewaschen sein; mit allen Hunden gehetzt sein
+429,ПРОЙТИСЬ ПО чьему-либо АДРЕСУ,projtißj po (tschjemu-libo) adreßu,An j-s Adresse gehen.,"Sich über j-n mißbilligend, spöttisch äußern.",an j-s Adresse gerichtet sein
+430,ПРОПУСКАТЬ МИМО УШЕЙ,propußkatj mimo uschej,An den Ohren vorbeilassen.,"Etw. nicht beachten; nicht reagieren auf etw.; etw. überhören, nicht hören wollen.",
+431,ПРЯТАТЬ КОНЦЫ В ВОДУ,prjatatj konzy w wodu,Die Enden im Wasser verstecken.,"Alle Spuren eines Vergehens, einer Straftat verwischen.",die Spuren verwischen
+432,ПТИЧЬЕГО МОЛОКА HE ХВАТАЕТ,ptitschewo moloka ne chwatajet,Nur die Vogelmilch fehlt.,Es herrscht großer Überfluß; es ist von allem da.,
+433,ПУД СОЛИ СЪЕСТЬ с кем-либо,pud ßoli ßjeßtj (ß kem-libo),Ein Pud Salz mit j-m gegessen haben.,Lange Zeit miteinander leben.,einen Scheffel Salz mit j-m essen
+434,ПУСКАТЬ КОЗЛА В ОГОРОД,pußkatj kosla w ogorod,Den Ziegenbock in den Garten lassen.,"J-n dorthin lassen, wo er Schaden anrichten kann.",den Bock zum Gärtner machen
+435,ПУСКАТЬ кому-либо ПЫЛЬ В ГЛАЗА,pußkatj (komu-libo) pylj w glasa,J-m Staub in die Augen schleudern.,Sich j-m in beschönigender Weise darstellen; eine falsche Vorstellung über sich bei j-m wecken.,j-m Sand in die Augen streuen
+436,ПУШКОЙ HE ПРОШИБЁШЬ,puschkoj ne proschibjosch,Selbst mit der Kanone dringst du nicht durch.,Nicht überzeugen können; keinerlei Einfluß ausüben; sich nicht durchsetzen können.,
+437,РАБОТАТЬ ЗАСУЧИВ РУКАВА,rabotatj saßutschiw rukawa,Mit hochgekrempelten Ärmeln arbeiten.,"Fleißig, energisch arbeiten.",
+438,РАБОТАТЬ HE ПОКЛАДАЯ РУК,rabotatj ne pokladaja ruk,"Arbeiten, ohne die Hände hinzulegen.",Unermüdlich arbeiten.,
+439,РАЗБИВАТЬСЯ В ЛЕПЁШКУ,rasbiwatza w lepjoschku,(Beim Aufprall) dünn wie ein Fladen werden.,"Sich für etw. fast umbringen, allzu diensteifrig sein.",sich die Beine ausreißen
+440,РАЗВЕСИТЬ УШИ,rasweßitj uschi,Die Ohren ausbreiten.,"Aufmerksam, vertrauensvoll lauschen; Faseleien glauben.",ganz Ohr sein
+441,РАЗВЯЗАТЬ кому-либо РУКИ,raswjasatj (komu-libo) ruki,J-m die Hände entfesseln.,"J-m völlige Freiheit geben, etw. zu tun.",j-m freie Hand lassen
+442,РАЗВЯЗАТЬ ЯЗЫК,raswjasatj jasyk,Die Zunge lösen.,Schwatzhaft werden.,
+443,РАЗРЯДИТЬ АТМОСФЕРУ,rasrjaditj atmoßferu,Die Atmosphäre entspannen.,An Spannung nachlassen; eine Atmosphäre für ruhige Erörterungen schaffen.,die Atmosphäre entspannen
+444,РАСХЛЕБЫВАТЬ КАШУ,raßchljobywatj kaschu,Den Brei auslöffeln.,"Eine komplizierte, unangenehme Sache erledigen.",die Suppe auslöffeln
+445,РВАТЬ И МЕТАТЬ,rwatj i metatj,Reißen und werfen.,"Erzürnt, erbost, erregt sein über j-n oder etw.",Gift und Galle speien
+446,РВАТЬ НА СЕБЕ ВОЛОСЫ,rwatj na ßebe woloßy,Sich die Haare ausreißen.,In Verzweiflung geraten; sich sehr ärgern über sich selbst.,sich die Haare raufen
+447,РВАТЬ кого-либо НА ЧАСТИ,rwatj (kowo-libo) na tschaßti,J-n in Stücke reißen.,"J-n mit Bitten, Aufträgen u.ä. bestürmen und ihm keine Ruhe gönnen.",
+448,РЕВЕТЬ БЕЛУГОЙ,rewetj belugoj,Wie ein Hausen brüllen., Wütend schreien; laut weinen.,wie am Spieß brüllen
+449,РОДИТЬСЯ В СОРОЧКЕ,roditza w ßorotschke,Im Hemd geboren werden.,"Immer Erfolg haben, ein Glückspilz sein.",unter einem günstigen Stern geboren sein; ein Sonntagskind sein
+450,РОДИТЬСЯ ПОД СЧАСТЛИВОЙ ЗВЕЗДОЙ,roditza pod stschaßliwoj swesdoj,Unter einem glücklichen Stern geboren werden.,Immer Erfolg haben; ein Glückspilz sein. ,unter einem günstigen Stern geboren sein
+451,РУБИТЬ СПЛЕЧА,rubitj ßpletscha,Mit aller Kraft hauen.,"Geradezu / aufrichtig reden, handeln, dabei oft unbedacht und ohne Umsicht.",mit der Tür ins Haus fallen
+452,"РУБИТЬ СУК, НА КОТОРОМ СИДИШЬ","rubitj ßuk, na kotorom ßidisch","Den Ast abhauen, auf dem du sitzst.",Sich selbst durch sein Handeln schaden.,"den Ast absägen, auf dem man sitzt"
+453,РУКА НЕ ДРОГНЕТ,ruka ne drognet,Die Hand zittert nicht.,Mit Entschiedenheit etw. tun.,vor etw. nicht zurückschrecken
+454,РУКА HE ПОДНИМАЕТСЯ,ruka ne podnimajetza,Die Hand erhebt sich nicht.,"Keine Entschlusskraft haben, etw. zu tun.",
+455,РУКИ КОРОТКИ,ruki korotki,Die Arme sind kurz.,"Keine Macht, Möglichkeit haben, etw. zu tun; j-s Macht reicht nicht so weit.",
+456,РУКИ HE ДОХОДЯТ,ruki ne dochodjat,Die Arme reichen nicht bis zu etw.,"Keine Zeit oder Möglichkeit haben, sich mit j-m zu beschäftigen, etw. zu tun.",
+457,РУКИ ЧЕШУТСЯ,ruki tscheschutza,Die Hände jucken.,"J-d verspürt den starken Wunsch, etw. zu tun, sich mit etw. zu beschäftigen.",es juckt j-m in den Fingern
+458,РУКОЙ HE ДОСТАНЕШЬ,rukoj ne doßtanesch,Mit der Hand erreichst du es nicht.,"Unerreichbar für j-n (von einem Menschen, der eine hohe Stellung bekleidet).",
+459,РЫТЬ ЯМУ кому-либо,rytj jamu (komu-libo),J-m eine Grube graben.,"Ränke schmieden, intrigieren.",j-m eine Grube graben
+460,САДИТЬСЯ НА ЛЮБИМОГО КОНЬКА,ßaditza na ljubimowo konjka,Sich auf sein Lieblingspferd setzen.,Sich über sein Lieblingsthema verbreiten.,sein Steckenpferd reiten
+461,САДИТЬСЯ НА ШЕЮ,ßaditza na scheju,Sich j-m auf den Hals setzen.,Sich j-n unterordnen; j-n in völlige Abhängigkeit von sich bringen; j-n ausnützen.,
+462,САДИТЬСЯ HE В СВОИ САНИ,ßaditza ne w ßwoi ßani,Sich nicht in den eigenen Schlitten setzen.,"Sich mit etw. beschäftigen, wofür man ungenügende Kenntnisse hat, wozu man nur mangelhafte Fähigkeiten besitzt.",
+463,САМИ С УСАМИ,ßami ß ußami,Wir haben selber Schnurrbärte.,"Wir sind nicht schlechter, nicht dümmer als die anderen.",wir sind nicht von gestern
+464,САПОГИ ВСМЯТКУ,ßapogi wßmjatku,Weichgekochte Stiefel.,Völliger Blödsinn; dummes Zeug.,
+465,СБРАСЫВАТЬ МАСКУ,sbraßywatj maßku,Die Maske abwerfen.,"Sein wahres Gesicht zeigen; aufhören, sich zu verstellen.",die Maske fallen lassen
+466,СВЕТЛАЯ ГОЛОВА,ßwetlaja golowa,Ein heller Kopf.,"Ein sehr kluger, logisch denkender Mensch.",ein heller Kopf
+467,СВОДИТЬ КОНЦЫ С КОНЦАМИ,ßwoditj konzy ß konzami,Ende mit Ende zusammenführen.,"Knapp mit seinem Gehalt, Lohn auskommen.",
+468,СВОРОТИТЬ ГОРЫ,ßworotitj gory,Berge fortschieben.,"Etw. Bedeutendes tun, das große Anstrengungen fordert.",Berge versetzen
+469,СВЯЗАТЬ кого-либо ПО РУКАМ И НОГАМ,ßwjasatj (kowo-libo) po rukam i nogam,J-n an Händen und Füßen binden.,J-m die Handlungsfreiheit nehmen; j-s Verhalten von Bedingungen abhängig machen.,j-m sind die Hände gebunden
+470,СГЛАЖИВАТЬ ОСТРЫЕ УГЛЫ,sglashiwatj oßtryje ugly,Scharfe Ecken beseitigen.,"Die Schärfe der Gegensätze, der Widersprüche mildern.",
+471,СГОРАТЬ CO СТЫДА,sgoratj ßo ßtyda,Vor Scham glühen.,Sich sehr schämen.,vor Scham vergehen
+472,СГУЩАТЬ КРАСКИ,sgustschatj kraßki,Die Farben verdicken.,"Stark übertreiben, etw. schlimmer darstellen, als es ist.",dick auftragen
+473,СДАВАТЬ В АРХИВ,sdawatj w archiw,"Dem Archiv übergeben, ins Archiv räumen.",Als etw. Veraltetes der Vergessenheit preisgeben.,etw. ad acta legen
+474,СЕМЬ ПОТОВ СОШЛО с кого-либо,ßemj potow ßoschlo (ß kowo-libo),J-m brach siebenmal der Schweiß aus.,"J-d hat viel Mühe für die Erfüllung, Verwirklichung von etw. aufgewandt.",
+475,СЕМЬ ПЯТНИЦ НА НЕДЕЛЕ,ßemj pjatniz na nedele,Sieben Freitage in der Woche.,"J-d ändert oft und leicht seine Entschlüsse, Absichten, Stimmungen usw.",
+476,СЕРДЦЕ /ДУША HE ЛЕЖИТ к кому-либо/чему-либо,ßerze / duscha ne leshit (k komu-libo/tschemu-libo) ,Das Herz / die Seele liegt nicht zu j-m / etw.,"J-d hat kein Interesse für j-n / etw., kein Zutrauen zu j-m.",kein Gefallen an j-m / etw. finden
+477,СЕРДЦЕ/ДУША РАЗРЫВАЕТСЯ НА ЧАСТИ,ßerze / duscha rasrywajetza na tschaßti,Das Herz / die Seele wird zerrissen.,"J-d empfindet tiefes Leid, überwindet etw. schwer.",es zerreißt j-m das Herz
+478,СЕСТЬ В ЛУЖУ,ßeßtj w lushu,Sich in die Pfütze setzen.,"Sich in eine dumme, lächerliche Situation begeben.",sich in die Tinte setzen
+479,СЕСТЬ НА МЕЛЬ,ßeßtj na melj,Sich auf eine Sandbank setzen.,In eine (gewöhnlich materiell) schwierige Lage geraten.,in die Klemme geraten
+480,СЖЕЧЬ КОРАБЛИ,shshetsch korabli,Die Schiffe verbrennen.,Entschieden mit der Vergangenheit brechen; die Rückkehr zu Früherem unmöglich machen.,alle Brücken hinter sich abbrechen
+481,СИДЕТЬ МЕЖДУ ДВУХ СТУЛЬЕВ,ßidetj meshdu dwuch ßtuljew,Zwischen zwei Stühlen sitzen.,"Gleichzeitig zwei verschiedene, unversöhnliche Standpunkte in etw. vertreten; sich in seinem Verhalten von  divergierenden Meinungen leiten lassen.",zwischen zwei Stühlen sitzen
+482,СИДЕТЬ НА ЧЕМОДАНАХ,ßidetj na tschemodanach,Auf den Koffern sitzen.,Alles gepackt haben und auf die Abreise warten.,auf (den) gepackten Koffern sitzen
+483,СИДЕТЬ СЛОЖА РУКИ,ßidetj ßlosha ruki,Die Hände zusammenlegend dasitzen.,"Nichts tun, untätig sein.",Däumchen drehen; die Hände in den Schoß legen
+484,СКЛОНЯТЬ кого-либо ВО ВСЕХ ПАДЕЖАХ,ßklonjatj (kowo-libo) wo wßech padeshach,J-n in allen Fällen beugen.,J-n häufig meist mißbilligend erwähnen; j-n durchhecheln.,
+485,СКОЛЬЗИТЬ ПО ПОВЕРХНОСТИ,ßkoljsitj po powerchnoßti,Auf der Oberfläche gleiten.,Nicht in das Wesen von etw. eindringen; nur das Äußere berühren.,an der Oberfläche bleiben
+486,"СКОЛЬКО ЛЕТ, СКОЛЬКО ЗИМ!","ßkoljko let, ßkoljko sim!","Wieviel Sommer, wieviel Winter!","Wie lange ist es her! (Ausruf bei der Begegnung mit j-m, den man lange nicht gesehen hat)",
+487,СЛАБАЯ СТРУНКА,ßlabaja ßtrunka,Die schwache Saite.,"Die empfindliche, leicht verwundbare Stelle des Charakters, an der j-d leicht zu treffen ist.",die schwache Stelle
+488,С ЛЁГКИМ СЕРДЦЕМ,ß ljochkim ßerzem,Mit leichtem Herzen.,"Ohne Aufregung, ohne Befürchtung.",leichten Herzens
+489,С ЛЁГКОЙ РУКИ кого-либо,ß Ijochkoj ruki (kowo-libo),Von j-s leichter Hand.,J-d hat den guten Anfang gemacht.,
+490,СЛЕД ПРОСТЫЛ,ßled proßtyl,Die Spur ist kalt geworden.,J-d ist spurlos verschwunden.,j-d ist über alle Berge
+491,СЛОМАТЬ ЛЁД,ßlomatj Ijod,Das Eis (zer)brechen.,"Schwierigkeiten, Spannungen in den Beziehungen beseitigen.",das Eis brechen
+492,С ЛУНЫ СВАЛИЛСЯ,ß luny ßwalilßja,Vom Mond gefallen. ,"Er versteht nicht, was offensichtlich allen verständlich ist.",j-d kommt vom Mond
+493,"СЛЫШНО, КАК МУХА ПРОЛЕТИТ",ßlyschno kak mucha proletit,Man hört die Fliege vorbeifliegen.,Es ist sehr still.,man könnte eine Nadel fallen hören
+494,СЛЮНКИ ТЕКУТ,ßljunki tekut,Der Speichel fließt.,"J-d verspürt den sehnlichen Wunsch, etw. (meist sehr Schmackhaftes) zu probieren.",j-m läuft das Wasser im Mund zusammen
+495,СМАТЫВАТЬ УДОЧКИ,ßmatywatj udotschki,Seine Angeln einziehen (aufwickeln).,"Eilig fortgehen, verschwinden.",sich aus dem Staub machen
+496,СМЕЯТЬСЯ В КУЛАК,ßmejatza w kulak,In die Faust lachen.,Verstohlen lachen.,sich eins ins Fäustchen lachen
+497,СМОТРЕТЬ В КОРЕНЬ,ßmotretj w korenj,Auf die Wurzel sehen.,"Den Blick auf das Wesentliche, die Hauptsache von etw. richten.",einer Sache auf den Grund gehen
+498,СМОТРЕТЬ В ОБА,ßmotretj w oba,Mit beiden (Augen) sehen.,"Etw. aufmerksam betrachten, achtgeben; wachsam sein. ",auf der Hut sein
+499,СМОТРЕТЬ кому-либо В РОТ,ßmotretj (komu-libo) w rot,J-m in den Mund sehen.,J-m aufmerksam oder unterwürfig zuhören.,an j-s Lippen hängen
+500,СМОТРЕТЬ ДРУГИМИ ГЛАЗАМИ,ßmotretj drugimi glasami,Mit anderen Augen sehen.,Sich zu j-m oder etw. anders verhalten.,mit anderen Augen sehen
+501,СМОТРЕТЬ КАК БАРАН НА НОВЫЕ ВОРОТА,ßmotretj kak baran na nowyje worota,Schauen wie der Hammel auf das neue Tor.,"Unverständig blicken, absolut nichts verstehen.",wie die Kuh vorm neuen Tor stehen
+502,СМОТРЕТЬ СВЕРХУ ВНИЗ,ßmotretj ßwerchu wnis,Von oben nach unten sehen.,J-m gegenüber seine Missachtung zeigen.,auf j-n herabblicken; j-n von oben herab behandeln
+503,СМОТРЕТЬ СКВОЗЬ ПАЛЬЦЫ,ßmotretj ßkwosj paljzy,Durch die Finger sehen.,Etw. absichtlich nicht beachten; bewußt nichts Anstößiges an etw. bemerken.,durch die Finger sehen
+504,СМОТРЕТЬ СКВОЗЬ РОЗОВЫЕ ОЧКИ,ßmotretj ßkwosj rosowyje otschki,Durch eine rosafarbene Brille blicken.,Mängel und Unzulänglichkeiten übersehen; j-n oder etw. idealisieren.,altes durch eine rosige Brille sehen
+505,СНИМАТЬ ПЕНКИ,ßnimatj penki,Die Sahne herunternehmen.,Das Beste für sich behalten.,den Rahm abschöpfen
+506,СНИМАТЬ с кого-либо СТРУЖКУ,ßnimatj (ß kowo-libo) ßtrushku,Von j-m einen Hobelspan abnehmen.,J-n ausschimpfen; j-n rügen.,j-m den Kopf waschen
+507,СНЯТЬ перед кем-либо ШЛЯПУ,ßnjatj (pered kem-libo) schljapu,Vor j-m den Hut abnehmen.,J-m seine Achtung bezeugen.,vor j-m den Hut ziehen
+508,СОБАКУ СЪЕЛ на чём-либо,ßobaku ßjel (na tschom-libo),Darauf hat er einen Hund gegessen.,"Er hat reiche Erfahrung, genaue Kenntnis von etw. erworben.",darauf versteht er sich
+509,СОВАТЬ HOC во что-либо,ßowatj noß (wo tschto-libo),Die Nase in etw. stecken.,Sich in etw. (meist fremde Angelegenheiten) einmischen.,in etw. seine Nase stecken
+510,СОН В РУКУ,ßon w ruku,Den Traum in die Hand genommen.,Der Traum ist Wirklichkeit geworden.,
+511,СОРИТЬ ДЕНЬГАМИ,ßoritj denjgami,Mil Geld Schmutz machen., Unvernünftig Geld in großer Menge ausgeben; Geld vergeuden.,mit Geld um sich werfen
+512,CO СКРИПОМ,ßo ßkripom,Mit Knirschen.,"Etw. langsam, mit großer Mühe tun.",mit Mühe und Not
+513,С ОТКРЫТОЙ ДУШОЙ/ ОТКРЫТЫМ СЕРДЦЕМ,ß otkrytoj duschoj/ ß otkrytym ßerzem,Mit offener Seele/ mit offenem Herzen. ,"Ohne Vorurteil, aufrichtig gegen j-n.",
+514,СПАТЬ БЕЗ ЗАДНИХ НОГ,ßpatj bes sadnich nog,Ohne Hinterbeine schlafen.,Tief und fest schlafen; schlafen wie erschlagen.,schlafen wie ein Murmeltier
+515,С ПЛЕЧ ДОЛОЙ,ß pletsch doloj,Von den Schultern weg.,"Man braucht sich über etw. keine Gedanken mehr zu machen, sich nicht mehr beunruhigen; aller Sorgen ledig sein.",
+516,СПУТАТЬ ВСЕ КАРТЫ,ßputatj wße karty,Alle Karten durcheinanderbringen.,"J-s Pläne, Absichten vereiteln.",einen Strich durch die Rechnung machen
+517,СРАЖАТЬСЯ С ВЕТРЯНЫМИ МЕЛЬНИЦАМИ,ßrashatza ß wetrjanymi meljnizami,Gegen Windmühlen kämpfen.,"Sinnlos seine Kräfte vergeuden im Kampf gegen vermeintliche Gefahr, gegen eingebildete Schwierigkeiten.",
+518,СТАВИТЬ ВО ГЛАВУ УГЛА,ßtawitj wo glawu ugla,In den Scheitelpunkt des Winkels stellen.,In den Vordergrund stellen; für wichtig halten.,
+519,СТАВИТЬ кого-либо НА НОГИ,ßtawitj (kowo-libo) na nogi,J-n auf die Füße stellen.,J-n wieder auf die Beine bringen (nach einer Krankheit); j-n zur Selbständigkeit erziehen.,j-n auf die eigenen Füße stellen
+520,СТАВИТЬ НА ОДНУ ДОСКУ,ßtawitj na odnu doßku,Auf ein und dasselbe Brett stellen.,J-n mit j-m in einer bestimmten Hinsicht gleich stellen.,j-n auf dieselbe Stufe mit j-m stellen
+521,СТАВИТЬ что-либо С НОГ НА ГОЛОВУ,ßtawitj (tschto-libo) ß nog na golowu,Etw. von den Füßen auf den Kopf stellen.,"Etw. in falschem Licht, verzerrt darstellen.",eine Sache auf den Kopf stellen
+522,СТАВИТЬ ТОЧКИ НАД И,ßtawitj totschki nad i,Den Punkt aufs i setzen.,Nichts Unklares bei einer Sache lassen; etw. zu einem logischen Schluß führen.,den Punkt aufs i setzen
+523,СТАНОВИТЬСЯ НА ДЫБЫ,ßtanowitza na dyby,Sich auf die Hinterbeine stellen.,"Zum Ausdruck einer gegensätzlichen Meinung, des hartnäckigen Widerspruchs.",sich auf die Hinterbeine stellen
+524,СТАРО КАК МИР,ßtaro kak mir,So alt wie die Welt.,"Etw. längst Bekanntes, nichts Neues.",
+525,СТИРАТЬ ГРАНИ,ßtiratj grani,Die Grenzen wegwischen.,Die Unterschiede beseitigen.,die Grenzen verwischen
+526,СТОИТ КАК ВКОПАННЫЙ,ßtoit kak wkopannyj,Er steht wie eingegraben.,Er steht völlig unbeweglich. ,er steht da wie angewurzelt
+527,СТОЯТЬ за кого-либо/что-либо ГОРОЙ,ßtojatj (sa kowo-libo / tschto-libo) goroj,Fur j-n oder etw. wie ein Berg stehen.,Mit allen Kräften j-n oder etw. verteidigen; für j-n. etw. einstehen.,
+528,СТОЯТЬ НАД ДУШОЙ,ßtojatj nad duschoj,Über der Seele stehen.,"J-n beobachten, der beschäftigt ist. und dadurch stören.",
+529,СТОЯТЬ ПОПЕРЁК ГОРЛА,ßtojatj poperjok gorla,Quer im Rachen stehen.,Für j-n unerträglich sein; j-m überdrüssig sein.,j-m zum Halse heraushängen
+530,СТОЯТЬ ПОПЕРЁК ДОРОГИ,ßtojatj poperjok dorogi,Quer auf dem Wege stehen.,J-n hindern beim Erreichen eines Zieles.,im Wege stehen
+531,СТРЕЛЯНЫЙ ВОРОБЕЙ,ßtreljanyj worobej,Ein (an)geschossener Spatz.,"Ein erfahrener Mensch; j-d, dem man nichts vormachen kann.",ein alter Hase
+532,СТРЕЛЯТЬ ИЗ ПУШКИ ПО ВОРОБЬЯМ,ßtreljatj iß puschki po worobjam,Aus der Kanone auf Spatzen schießen. ,Mit großem Kraftaufwand ein unbedeutendes Ergebnis erreichen.,mit Kanonen auf Spatzen schießen
+533,СТРИЧЬ ВСЕХ ПОД ОДНУ ГРЕБЁНКУ,ßtritsch wßech pod odnu grebjonku,Alle über einen Kamm scheren.,Ohne Rücksicht auf Unterschiede j-n mit j-m gleichstellen.,alle über einen Kamm scheren
+534,СТРОИТЬ НА ПЕСКЕ,ßtroitj na peßke,Auf Sand bauen.,Sich auf unzuverlässige Angaben stützen. ,auf Sand bauen
+535,С ТЯЖЁЛЫМ СЕРДЦЕМ,ß tjasholym ßerzem,Mit schwerem Herzen.,In bedrückter Stimmung; voller Unruhe; mit böser Vorahnung.,schweren Herzens
+536,СЧИТАТЬ ВОРОН,stschitatj woron,Krähen zählen.,Herumstehen und gaffen.,Maulaffen feilhalten
+537,СЫТ ПО ГОРЛО,ßyt po gorlo,Satt bis zur Kehle.,"J-d hat genug von etw., j-d ist etw. überdrüssig.",satt bis obenhin
+538,ТАНЦЕВАТЬ ОТ ПЕЧКИ,tanzewatj ot petschki,Vom Ofen zu tanzen beginnen.,"Etw. jedesmal von vorne anfangen; etw. nur schablonenmäßig, nur gewohnheitsmäßig zu tun verstehen.",
+539,ТАСКАТЬ КАШТАНЫ ИЗ ОГНЯ,taßkatj kaschtany is ognja,Die Kastanien aus dem Feuer ziehen.,"Die schwere Arbeit tun, während andere das Ergebnis für sich in Anspruch nehmen.",die Kastanien aus dem Feuer holen
+540,ТАЩИТЬ ЗА УШИ,tastschitj sa uschi,An den Ohren ziehen.,"J-m (meist einem Begriffsstutzigen) mit allen Mitteln beim Lernen, beim beruflichen Fortkommen helfen.",
+541,ТЁПЛОЕ МЕСТЕЧКО,tjoploje meßtetschko,Ein warmes Plätzchen.,Ein materiell einträglicher Posten.,
+542,ТЕРЯТЬ ГОЛОВУ,terjatj golowu,Den Kopf verlieren.,"In eine schwierige Lage geraten, vor Aufregung nicht wissen, was man tun soll.",den Kopf verlieren
+543,ТЕРЯТЬ ПОЧВУ ПОД НОГАМИ,terjatj potschwu pod nogami,Den Boden unter den Füßen verlieren.,"Den inneren Halt, das Vertrauen auf die eigene Kraft verlieren.",den Boden unter den Füßen verlieren
+544,"ТИШЕ ВОДЫ, НИЖЕ TPABЫ","tische wody, nishe trawy","Stiller als Wasser, niedriger als Gras.","J-d ist bescheiden, unauffällig, schüchtern.",j-d ist mucksmäuschenstill
+545,ТОЛОЧЬ ВОДУ В СТУПЕ,tolotsch wodu w ßtupe,Wasser im Mörser zerstoßen.,Mit nutzloser Tätigkeit die Zeit verbringen; in ein nutzloses Gespräch gezogen werden.,leeres Stroh dreschen
+546,ТРЕЩАТЬ ПО ШВАМ,trestschatj po schwam,An den Nähten krachen.,Vor dem drohenden Zusammenbruch stehen; zusammenstürzen,in allen Fugen krachen
+547,ТЯЖЕЛАЯ АРТИЛЛЕРИЯ,tjasholaja artillerija,Schwere Artillerie.,"Ein im äußersten Fall angewandtes, zuverlässiges Mittel zum Erreichen von etw.",ein schweres Geschütz
+548,ТЯЖЁЛ НА ПОДЪЁМ,tjashol na podjom,J-d kommt schwer in Schwung.,J-d ist schwerfällig; j-d rührt sich nur unwillig vom Fleck.,
+549,ТЯНУТЬ ВРЕМЯ,tjanutj wremja,Die Zeit hinziehen.,Etw. verzögern; eine günstige Möglichkeit abwarten.,in die Länge ziehen
+550,ТЯНУТЬ ЗА ЯЗЫК,tjanutj sa jasyk,J-n an der Zunge ziehen.,"J-n zu antworten, auszusagen zwingen.",
+551,УБИТЬ ДВУХ ЗАЙЦЕВ,ubitj dwuch sajzew,Zwei Hasen töten.,Gleichzeitig zwei Dinge tun; zwei Ziele zugleich anstreben.,zwei Fliegen mit einer Klappe schlagen
+552,УДАРИТЬ КАК ОБУХОМ ПО ГОЛОВЕ,udaritj kak obuchom po golowe,Wie mit dem Beilrücken vor den Kopf schlagen.,Unerwartet verblüffen; aufs äußerste verwirren.,wie vor den Kopf geschlagen
+553,УДАРИТЬ ПО РУКАМ,udaritj po rukam,In die Hände schlagen.,"Eine Abmachung, Vereinbarung bekräftigen.",etw. durch Handschlag besiegeln
+554,УЗНАТЬ что-либо ИЗ ПЕРВЫХ РУК,usnatj (tschto-libo) iß perwych ruk,Etw. aus ersten Händen kennen.,Etw. unmittelbar von j-m erfahren.,etw. aus erster Hand kennen
+555,УЙТИ В КУСТЫ,ujti w kusty,Weggehen in die Sträucher.,"Sich von der Verantwortung für etw., von der unmittelbaren Beteiligung an etw. zuriickziehen.",
+556,УЙТИ В СЕБЯ,ujti w ßebja,In sich gehen.,In Gedanken versunken sein; ungesellig werden.,in sich gehen
+557,УЙТИ С ГОЛОВОЙ во что-либо,ujti s golowoj (wo tschto-libo),Mit dem Kopf in etw. versinken.,Sich einer Sache voll und ganz widmen; sich in eine Sache stürzen.,in einer Sache völlig aufgehen
+558,УКАЗАТЬ кому-либо НА ДВЕРЬ,ukasatj (komu-libo) na dwerj,J-n auf die Tür verweisen.,"J-n in scharfer Form auffordern, zu gehen; j-n hinausjagen.",j-m die Tür weisen
+559,УМЫВАТЬ РУКИ,umywatj ruki,Die Hände waschen.,Der Beteiligung an etw. ausweichen; die Verantwortung für etw. von sich wälzen. ,seine Hände in Unschuld waschen
+560,УНОСИТЬ НОГИ,unoßitj nogi,Die Beine davontragen.,"Eilig, rasch fortgehen; fliehen.",die Beine unter den Arm nehmen
+561,УПАСТЬ С НЕБА НА ЗЕМЛЮ,upaßtj ß neba na semlju,Vom Himmel auf die Erde fallen.,Sich von Illusionen lösen; die Dinge nüchtern zu betrachten beginnen; aus Träumen zur Wirklichkeit zurückkehren.,
+562,УСТРАИВАТЬ СЦЕНУ,ußtraiwatj ßzenu,J-m eine Szene machen.,Einen Skandal machen; j-m sein Mißfallen bekunden.,j-m eine Szene machen
+563,УТЕРЕТЬ кому-либо НОС,uteretj (komu-libo) noß,J-m die Nase putzen.,J-m gegenüber seine Überlegenheit beweisen; j-n übertrumpfen.,
+564,УХО РЕЖЕТ,ucho reshet,Es schneidet das Ohr.,Es macht auf das Gehör einen unangenehmen Eindruck.,
+565,УШИ ВЯНУТ,uschi wjanut,Die Ohren verwelken.,"Man kann es nicht mehr anhören, da es zu dumm, zu unsinnig, derb ist.",
+566,ХВАТАТЬ ЗВЁЗДЫ С НЕБА,chwatatj swjosdy ß neba,Die Sterne vom Himmel greifen.,Herausragende Fähigkeiten besitzen; sehr begabt sein.,
+567,ХВАТАТЬСЯ ЗА ГОЛОВУ,chwatatza sa golowu, Sich an den Kopf fassen.,In Verzweiflung geraten.,sich an den Kopf fassen
+568,ХВАТАТЬСЯ ЗА СОЛОМИНКУ,chwatatza sa ßolominku,Nach dem Strohhalm greifen.,"Nach dem äußersten Mittel greifen, um aus einer schwierigen Lage zu gelangen.",nach dem Strohhalm greifen
+569,ХОДИТЬ ВОКРУГ ДА ОКОЛО,choditj wokrug da okolo,Ringsum gehen und herumgehen.,Am Wesen einer Sache vorbeireden.,wie die Katze um den heißen Brei gehen
+570,ХОДИТЬ НА ГОЛОВЕ,choditj na golowe,Auf dem Kopf gehen.,"Schabernack, Unfug treiben, ausgelassen sein.",besonders von Kindern
+571,ХОДИТЬ ПО КРАЮ ПРОПАСТИ,choditj po kraju propaßti,Am Rande des Abgrunds gehen.,In unmittelbarer Todesgefahr schweben.,am Rande des Abgrunds stehen
+572,ХОДИТЬ ПО СТРУНКЕ,choditj po ßtrunke,Auf der Saite gehen.,"Vor j-m zittern, sich vor j-m fürchten; sich j-m widerspruchslos unterordnen, vor j-m strammstehen.",
+573,ХОТЬ ТРАВА НЕ РАСТИ,chotj trawa ne raßti,Mag da auch kein Gras wachsen.,Zum Ausdruck der völligen Gleichgültigkeit einer Sache gegenüber.,mag geschehen was will
+574,ХОТЬ ШАРОМ ПОКАТИ,chotj scharom pokati,"So, daß man die Kugel rollen kann.","Absolut leer, wie ausgekehrt.",
+575,ХРОМАТЬ НА ОБЕ НОГИ,chromatj na obe nogi,Auf beiden Beinen hinken.,Große Wissenslücken haben.,
+576,ХУДОЙ КАК СПИЧКА,chudoj kak ßpitschka,Dünn wie ein Streichholz.,"Sehr dünn, mager.",dünn wie ein Streichholz
+577,ЦЕНЫ НЕТ кому-либо/чему-либо,zeny net (komu-libo/tschemu-libo),J-d/etw. hat keinen Preis.,"J-d/etw. ist sehr wertvoll durch seine Eigenschaften, seine Vorzüge.",j-d/etw. ist unbezahlbar
+578,ЧЕРЕЗ чью-либо ГОЛОВУ,tscheres (tschju-libo) golowu,Über j-s Kopf hinweg.,"J-n nicht in Kenntnis setzen, nicht informieren (der informiert sein müßte).",über j-s Kopf hinweg
+579,ЧЕРЕЗ ЧАС ПО ЧАЙНОЙ ЛОЖКЕ,tscheres tschaß po tschajnoj loschke,Jede Stunde einen Teelöffel.,Sehr langsam und wenig.,
+580,ЧЁРНАЯ КОШКА ПРОБЕЖАЛА,tschornaja koschka probeshala,Eine schwarze Katze lief (zwischen zwei Personen hindurch).,"Es ist ein Streit zwischen... entbrannt, j-d hat sich mit j-m überworfen.",
+581,ЧЁРНЫМ ПО БЕЛОМУ,tschornym po belomu,Schwarz auf weiß.,"Klar, verständlich, unzweideutig.",schwarz auf weiß
+582,ЧЁРТОВА ДЮЖИНА,tschortowa djushina,Teufelsdutzend.,Dreizehn Stück; die Zahl 13.,
+583,ЧЕСАТЬ ЯЗЫК,tscheßatj jasyk,Seine Zunge reiben.,Dummes Zeug reden; klatschen,
+584,ЧИТАТЬ МЕЖДУ СТРОК,tschitatj meshdu ßtrok,Zwischen den Zeilen lesen.,Den verborgenen Sinn von etw. Geschriebenem oder Gesprochenem erraten.,zwischen den Zeilen lesen
+585,ЧУДЕСА В РЕШЕТЕ,tschudeßa w reschete,Wunder im Sieb.,"Unwahrscheinlich, ungewöhnlich (von etw., das durch seine Ungewöhnlichkeit frappiert)",
+586,ЧУЖИМИ РУКАМИ ЖАР ЗАГРЕБАТЬ,tschushimi rukami shar sagrebatj,Mit fremden Händen die Glut zusammenscharren,Die Arbeitsergebnisse anderer für seine eigennützigen Zwecke nutzen.,
+587,ШАПКАМИ ЗАКИДАЕМ,schapkami sakidajem,Wir werden j-n mit Mützen bewerfen.,"Prahlerische Beteuerung, etw. leicht und rasch zu überwinden.",
+588,ШАПОЧНОЕ ЗНАКОМСТВО,schapotschnoje shakomßtwo,Mützenbekanntschaft.,"Eine zufällige, oberflächliche Bekanntschaft.",
+589,ШИТО БЕЛЫМИ НИТКАМИ,sсhito belymi nitkami,Mit weißen Fäden genäht.,Ungeschickt verdeckt; schlecht verhohlen.,
+590,ШУТКИ В СТОРОНУ,schutki w ßtoronu,Späße beiseite.,"Wir gehen zu ernsten Gesprächen, zur Sache über.",Spaß beiseite
+591,ЯБЛОКУ НЕГДЕ УПАСТЬ,jabloku negde upaßtj,Der Apfel kann nirgendwo hinfallen.,Von einer dichten Menschenansammlung; die Menschen stehen dichtgedrängt.,kein Apfel konnte zur Erde fallen
+592,ЯЗЫК СЛОМАЕШЬ,jasyk ßlomajesch,Du wirst dir die Zunge abbrechen.,Etw. ist sehr schwer auszusprechen. ,an dem Wort kann man sich die Zunge abbrechen
+593,ЯЗЫК ХОРОШО ПОДВЕШЕН,jasyk choroscho podweschen,Die Zunge ist gut aufgehängt.,"J-d kann fließend sprechen; j-d versteht es, die Worte zu setzen.",
+594,ЯСНО КАК ДЕНЬ,jaßno kak denj,Hell wie der Tag.,Vollkommen klar.,sonnenklar; das ist mit Händen zu greifen
